@@ -1,0 +1,326 @@
+{
+  "RELATIONSHIPS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/relationship/list_category-icon.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RELATIONSHIPS.RECONNECT_WITH_PARTNER.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/relationship/list_reconnect-with-partner.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RELATIONSHIPS.POSITIVE_COMMUNICATION.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/relationship/list_positive-communication.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RELATIONSHIPS.I_MESSAGES.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/relationship/list_i-message.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RELATIONSHIPS.HEALTHY_ARGUMENTS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/relationship/list_healthy-arguments.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RELATIONSHIPS.I_MESSAGES.headerImage": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/relationship/list_i-message.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RELATIONSHIPS.HEALTHY_ARGUMENTS.headerImage": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/relationship/list_healthy-arguments.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/list_ambient-sounds.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.BEACH.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/beach.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.BIRDS.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/birds.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.COUNTRY_ROAD.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/country_road.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.CRICKETS.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/crickets.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.DRIPPING_WATER.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/dripping_water.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.FOREST.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/forest.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.FROGS.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/frogs.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.MARSH.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/marsh.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.PUBLIC_POOL.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/public_pool.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.RAIN.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/rain.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.RUNNING_WATER.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/running_water.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.STREAM_WATER.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/stream_water.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.WATERFALL.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/waterfall.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AMBIENT_SOUNDS.WIND.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/ambient-sounds/sounds/wind.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/list_mindfulness.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.CONSCIOUS_BREATHING.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/mindful-breathing/list_mindful-breathing.png",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.CONSCIOUS_BREATHING.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/mindful-breathing/AM/hy/mindful_breathing.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.MINDFUL_WALKING.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/mindful-walking/list_mindful-walking.png",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.MINDFUL_WALKING.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/mindful-walking/AM/hy/mindful_walking.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.EMOTIONAL_DISCOMFORT.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/emotional-discomfort/list_emotional-discomfort.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.EMOTIONAL_DISCOMFORT.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/emotional-discomfort/AM/hy/emotional_discomfort.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.SENSE_AWARENESS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/sense-awarness/list_sense-awarness.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.SENSE_AWARENESS.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/sense-awarness/AM/hy/awareness_of_the_senses.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.LOVING_KINDNESS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/loving-kindness/list_loving-kindness.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MINDFULNESS.LOVING_KINDNESS.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/mindfulness/loving-kindness/AM/hy/loving_kindness.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "PAUSE.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/pause/list_pause.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MY_FEELINGS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/my-feelings/my_feelings.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "WORRY_TIME.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/worry-time/schedule_worry_time.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RID.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/rid/rid.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "SLEEP.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/sleep/sleep_tools.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "SLEEP.SLEEP_HELP.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/sleep/help_asleep.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "SLEEP.SLEEP_HABITS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/sleep/better_habits.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "SLEEP.SLEEP_PERSPECTIVE.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/sleep/change_sleep_perspective.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MY_STRENGTHS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/my-strengths/seeing_my_strengths.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MUSCLE_RELAXATION.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/muscle-relaxation/muscle_relaxation.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "MUSCLE_RELAXATION.videoURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/muscle-relaxation/AM/hy/1209.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RECREATIONAL_ACTIVITIES.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/recreational-activities/recreational_activities_icon.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RECREATIONAL_ACTIVITIES.RECREATIONAL_ACTIVITIES_ALONE.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/recreational-activities/time_alone.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RECREATIONAL_ACTIVITIES.RECREATIONAL_ACTIVITIES_CITY.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/recreational-activities/in_town.png",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "RECREATIONAL_ACTIVITIES.RECREATIONAL_ACTIVITIES_NATURE.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/recreational-activities/in_nature.png",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "SOOTHE_SENSES.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/soothe-senses/soothe_the_senses.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "CONNECT_WITH_OTHERS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/connect-with-others/connect_with_others.png",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "CHANGE_PERSPECTIVE.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/change-perspective/change_perspective.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "GROUNDING.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/grounding/grounding.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "QUOTES.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/quotes/inspiring_quotes.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "SHIFT_THOUGHTS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/shift-thoughts/thought_shifting.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "DEEP_BREATHING.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/deep-breathing/deep_breathing.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "DEEP_BREATHING.videoURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/deep-breathing/AM/hy/deep_breathing.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "BODY_SCAN.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/body-scan/body_scan.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "BODY_SCAN.JULIA.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/body-scan/julia.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "BODY_SCAN.ROBYN.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/body-scan/robyn.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "BODY_SCAN.JULIA.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/body-scan/AM/hy/julia.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "BODY_SCAN.ROBYN.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/body-scan/AM/hy/julia.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "POSTIVE_IMAGERY.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/positive-imagery/positive_imagery.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "POSTIVE_IMAGERY.BEACH.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/positive-imagery/beach.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "POSTIVE_IMAGERY.COUNTRY_ROAD.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/positive-imagery/country_road.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "POSTIVE_IMAGERY.FOREST.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/positive-imagery/forest.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "POSTIVE_IMAGERY.BEACH.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/positive-imagery/AM/hy/beach.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "POSTIVE_IMAGERY.FOREST.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/positive-imagery/AM/hy/forest.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "POSTIVE_IMAGERY.COUNTRY_ROAD.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/positive-imagery/AM/hy/country_road.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "OBSERVE_THOUGHTS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/observe-thoughts/observe_thoughts.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "OBSERVE_THOUGHTS.CLOUDS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/observe-thoughts/clouds.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "OBSERVE_THOUGHTS.RIVER.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/observe-thoughts/leaves.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "OBSERVE_THOUGHTS.CLOUDS.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/observe-thoughts/AM/hy/clouds.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "OBSERVE_THOUGHTS.RIVER.soundURI": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/tools/observe-thoughts/AM/hy/leaves.mp3",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "REMINDED_OF_TRAUMA.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/symptoms/trauma.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "AVOIDING_TRIGGERS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/symptoms/avoiding_triggers.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "DISCONNECTED_FROM_PEOPLE.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/symptoms/disconnected_from_people.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "DISCONNECTED_FROM_REALITY.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/symptoms/disconnected_from_reality.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "SAD_HOPELESS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/symptoms/sad.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "WORRIED_ANXIOUS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/symptoms/worried.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "ANGRY.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/symptoms/angry.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  },
+  "SLEEP_PROBLEMS.CATEGORY_ICON": {
+    "uri": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/symptoms/sleep+problems.jpg",
+    "lastUpdatedAt": "2025-10-30T10:00:00.000Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-10-30T10:00:00.000Z",
+  "features": {
+    "tools": {
+      "relationships": {
+        "enabled": true,
+        "subcategories": {
+          "relationships-reconnect-with-partner": {
+            "enabled": true
+          },
+          "relationships-positive-communication": {
+            "enabled": true
+          },
+          "relationships-i-messages": {
+            "enabled": true
+          },
+          "relationships-healthy-arguments": {
+            "enabled": true
+          }
+        }
+      },
+      "ambient-sounds": {
+        "enabled": true
+      },
+      "mindfulness": {
+        "enabled": true,
+        "subcategories": {
+          "mindfulness-conscious-breathing": {
+            "enabled": true
+          },
+          "mindfulness-mindful-walking": {
+            "enabled": true
+          },
+          "mindfulness-emotional-discomfort": {
+            "enabled": true
+          },
+          "mindfulness-sense-awareness": {
+            "enabled": true
+          },
+          "mindfulness-loving-kindness": {
+            "enabled": true
+          }
+        }
+      },
+      "my-feelings": {
+        "enabled": true
+      },
+      "worry-time": {
+        "enabled": true
+      },
+      "rid": {
+        "enabled": true
+      },
+      "sleep": {
+        "enabled": true,
+        "subcategories": {
+          "sleep-help": {
+            "enabled": true
+          },
+          "sleep-habits": {
+            "enabled": true
+          },
+          "sleep-perspective": {
+            "enabled": true
+          }
+        }
+      },
+      "my-strengths": {
+        "enabled": true
+      },
+      "recreational-activities": {
+        "enabled": true,
+        "subcategories": {
+          "recreational-activities-alone": {
+            "enabled": true
+          },
+          "recreational-activities-city": {
+            "enabled": true
+          },
+          "recreational-activities-nature": {
+            "enabled": true
+          }
+        }
+      },
+      "soothe-senses": {
+        "enabled": true
+      },
+      "connect-with-others": {
+        "enabled": true
+      },
+      "change-perspective": {
+        "enabled": true
+      },
+      "grounding": {
+        "enabled": true
+      },
+      "quotes": {
+        "enabled": true
+      },
+      "shift-thoughts": {
+        "enabled": true
+      }
+    }
+  }
+}
