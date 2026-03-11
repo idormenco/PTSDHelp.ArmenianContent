@@ -1,0 +1,1698 @@
+{
+  "lastUpdatedAt": "2025-10-20T18:00:00Z",
+  "title": "Învățați",
+  "pages": [
+    {
+      "id": "fa3f5b17-9ede-4f0a-98a7-023178ac6296",
+      "type": "category",
+      "label": "Află mai mult despre PTSD",
+      "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/learn_more_about_ptsd_icon.png",
+      "topics": [
+        {
+          "id": "7c1cc94e-7f28-4dde-ab92-69b348eb1ead",
+          "label": "Ce este PTSD-ul?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/what_is_ptsd.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/what_is_ptsd.png",
+                "alt": "Ce este PTSD-ul?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<p>Tulburarea de stres post-traumatic (PTSD) este cauzata de expunerea la moarte sau la amenintarea cu moartea, ranire severa sau violenta sexuala sau aflarea despre cineva apropiat care a suferit astfel de experiente traumatice.</p><p>Vestea buna: PTSD este tratabil.</p><p>PTSD include 4 tipuri de simptome:</p><p>1. Reexperimentarea sau retr Trair traumei, cum ar fi:</p><ul><li>Amintiri tulburatoare sau cosmaruri</li><li>Simtirea sau actionarea ca si cum trauma s-ar intampla din nou (flashback-uri)</li><li>A deveni foarte suparat cand ti se aminteste de trauma</li></ul><p>2. Evitarea persistenta, cum ar fi:</p><ul><li>Evitarea amintirilor, gandurilor sau sentimentelor despre trauma</li><li>Evitarea factorilor externi care declanseaza amintirea evenimentului.</li></ul><p>3. Ganduri si stari negative:</p><ul><li>Senzatie de detasare sau izolare de ceilalti</li><li>Credinte negative (cum ar fi „Sunt o persoana rea\", „Nu pot avea incredere in nimeni\", „Lumea este periculoasa\")</li><li>Auto-invinovatire sau invinovatirea altora pentru cauza sau consecintele evenimentului traumatic</li><li>Emotii negative persistente, cum ar fi frica, furia, vinovatia sau rusinea</li><li>Dificultati in a simti emotii pozitive precum fericirea si dragostea</li><li>Lipsa de interes sau de participare la activitati placute sau importante</li></ul><p>4. Reactivitate mai crescuta precum:</p><ul><li>Hipervigilenta</li><li>A fi iritabil sau furios</li><li>Probleme de somn</li><li>Senzatie de tresarire</li><li>Probleme de concentrare</li><li>A fi imprudent sau autodistructiv</li></ul><p>Aceste simptome dureaza o luna sau mai mult si sunt deranjante si/sau duc la probleme in viata sociala sau de familie, la locul de munca si la scoala.</p><p>PTSD poate include, de asemenea, \"disociere,\" in care oamenii simt ca sunt detasati de ei insisi sau ca si cum lumea din jur pare ireala, indepartata sau distorsionata.</p>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ddacfa2b-77d7-4d86-88c5-7a48316f96b8",
+          "label": "Informații Despre PTSD",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/info_about_ptsd.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/info_about_ptsd.jpg",
+                "alt": "Informații Despre PTSD"
+              },
+              {
+                "type": "multiPage",
+                "pageArray": [
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>PTSD este tratabil</h1><div><div>Indiferent de cât timp ai trăit cu PTSD, există tratamente care te pot ajuta.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Tratamentul ajută</h1></div><div><div><div>Discuția cu un profesionist este unul dintre cele mai bune lucruri pe care le poți face. Există dovezi a mai multor tratamente care s-au dovedit a fi eficiente în reducerea simptomelor PTSD.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Sprijinul joacă un rol important</h1><div><div>Prin sprijin pot fi ajutate foarte mult persoane cu PTSD. Studiile au arătat că sprijinul celor dragi îmbunătățește atât tratamentul, cât și recuperarea după PTSD.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Nu ești singur</h1><div><div>PTSD îi afectează pe fiecare în mod diferit, dar este extrem de comun ca oamenii să experimenteze un stres semnificativ. Nu-ți fie teamă să cauți ajutor și sprijin care să te ajute să faci față oricărui stres pe care îl experimentezi.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<h1>Tratamente eficiente pentru PTSD</h1><div><div>Psihoterapia și/sau medicamentele sunt cele mai eficiente tratamente pentru PTSD. Psihoterapia centrată pe traumă este considerată mai eficientă decât medicamentele.</div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Cum ajută tratamentul</h1><div><div>S-a demonstrat că tratamentele pentru PTSD îmbunătățesc simptomele, relațiile personale și profesionale și calitatea vieții. Discută cu specialiștii despre ce tratament PTSD este potrivit pentru tine.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ce sunt psihoterapiile focalizate pe traumă?</h1><div><div>Aceste terapii folosesc diferite tehnici pentru a ajuta persoanele cu PTSD să își proceseze experiența traumatică. Unele implică vizualizarea sau discutarea despre amintirea traumatizantă, în timp ce altele se concentrează pe schimbarea convingerilor inutile.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ce terapii funcționează?</h1><div><div>Există mai multe psihoterapii centrate pe traumă despre care s-a demonstrat că ajută la îmbunătățirea PTSD: expunerea prelungită (PE), terapia procesării cognitive (CPT), desensibilizarea și reprocesarea mișcării oculare (EMDR), psihoterapie eclectică scurtă, terapia expunerii narative și expunerea narativă scrisă.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ce medicamente funcționează?</h1><div><div>Medicamentele care pot fi utile pentru PTSD sunt, de asemenea, utilizate pentru depresie și anxietate: sertralina (Zoloft), paroxetina (Paxil), fluoxetina (Prozac) și venlafaxina (Effexor). Discută cu medicul tău dacă o rețetă îți poate fi utilă.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Află mai multe despre PTSD</h1><div><div>Centrul Național pentru PTSD menține o colecție extinsă de articole, videoclipuri și instrumente de autoajutorare legate de PTSD. Află tot ce trebuie să știi aici:</div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "Vizitează website-ul",
+                      "action": {
+                        "type": "external",
+                        "url": "https://www.ptsd.va.gov/index.asp"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>După implementare</h1><div><div>După implementare. After Deployment este o resursă cuprinzătoare pentru gestionarea stresului, anxietății, somnului, sănătății și multe altele. Merită o vizită:</div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "Vizitează website-ul",
+                      "action": {
+                        "type": "external",
+                        "url": "http://afterdeployment.org"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ce este PTSD?</h1><div><div><div>Urmărește acest videoclip:</div></div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "Redă Video",
+                      "action": {
+                        "type": "webview",
+                        "url": "https://www.youtube.com/watch?v=YMC2jt_QVEE"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Tratament: Cunoaște-ți opțiunile</h1><div><div>Urmărește acest videoclip despre opțiunile de tratament:</div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "Redă Video",
+                      "action": {
+                        "type": "webview",
+                        "url": "https://www.youtube.com/watch?v=FeLLt39DI8A"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ce este \"Tratamentul bazat pe dovezi științifice\"?</h1><div><div>Află mai multe în acest video:</div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "Redă Video",
+                      "action": {
+                        "type": "webview",
+                        "url": "https://www.youtube.com/watch?v=7dzkS0ioqqwhttps://www.youtube.com/watch?v=7dzkS0ioqqw"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ce este terapia prin procesare cognitivă?</h1><div><div>Urmărește acest scurt videoclip pentru a afla mai multe:</div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "Redă Video",
+                      "action": {
+                        "type": "webview",
+                        "url": "https://www.youtube.com/watch?v=Jqj5zDbkPxY"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ce este expunerea prelungită?</h1><div><div>Urmărește acest scurt videoclip pentru a afla mai multe despre PE:</div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "Redă Video",
+                      "action": {
+                        "type": "webview",
+                        "url": "https://www.youtube.com/watch?v=rHg_SlEqJGc&t=1s"
+                      }
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "3ea8185b-15d6-4275-a700-c733eb103ec3",
+          "label": "Cum se dezvoltă PTSD-ul?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/how_PTSD_develops.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/how_PTSD_develops.jpg",
+                "alt": "Cum se dezvoltă PTSD-ul?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>După un eveniment traumatizant, este normal să fii în stare de șoc, să ai amintiri dureroase și să fii afectat de amintirile care apar. Expunerea la un eveniment traumatizant poate schimba, de asemenea, modul în care oamenii gândesc despre ei înșiși, despre ceilalți și despre lume. De exemplu pot apărea idei precum \"nicăieri nu este sigur,\" sau \"nimeni nu poate fi de încredere.\"</div><div>&nbsp;</div><div><div><div>Pentru majoritatea, aceste reacții se vor diminua în timp. Dar pentru unii, aceste reacții continuă și pot fi suficient de severe pentru a perturba viața de zi cu zi.</div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4d3d5873-fd6a-4213-9c44-d77b5fa30e78",
+          "label": "Cât de comun este PTSD-ul?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/how_common_ptsd_is.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/how_common_ptsd_is.jpg",
+                "alt": "Cât de comun este PTSD-ul?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div>Deși majoritatea oamenilor se simt mult mai bine într-o lună sau două după o traumă, unii oameni dezvoltă PTSD sau alte probleme precum depresia sau problemele legate de consumul de substanțe.</div><div>&nbsp;</div><div>Știai că?</div><ul><li>Anumite tipuri de experiențe traumatice, cum ar fi violul și agresiunea fizică, pot provoca simptome și mai mari de PTSD.</li></ul>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "8ea11ea0-9943-4ebc-92f6-a08ece314e26",
+          "label": "Cine dezvoltă PTSD?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/who_develops_ptsd.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/who_develops_ptsd.jpg",
+                "alt": "Cine dezvoltă PTSD?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div>Practic, oricine poate dezvolta PTSD. Cu toate acestea, există câțiva factori care te predispun mai mult.</div><div>&nbsp;</div><div><div>Factori de risc preexistenți:</div><ul><li>dacă ești femeie</li><li>dacă ai trecut printr-o experiență traumatică anterioară</li><li>dacă ai fost abuzat în copilărie</li><li>dacă ai o problemă de sănătate mintală preexistentă</li><li>dacă ai antecedente familiale de boli mintale</li></ul><div><div>Factori de risc în timpul unei traume:</div><ul><li>să crezi că vei muri</li><li>senzație de detașare de tine sau de mediul înconjurător</li><li>senzație de neputință completă</li><li>un atac de panică</li><li>o rană gravă</li></ul><div><div>Factori de risc după o traumă:</div><ul><li><div>lipsa suportului social</div></li><li><div>factori stresori suplimentari (cum ar fi pierderea locului de muncă, divorț)</div></li></ul></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "8c975a93-c9ef-42eb-962b-a38efd01b6e1",
+          "label": "Cât durează PTSD-ul?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/how_long_ptsd_last.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/how_long_ptsd_last.jpg",
+                "alt": "Cât durează PTSD-ul?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Simptomele de PTSD apar de obicei la scurt timp după o experiență traumatică, totuși, în unele cazuri, simptomele nu apar timp de luni sau chiar ani după traumă. Pentru unele persoane care prezintă simptome devreme, aceste simptome dispar de la sine. Pentru alții, aceste simptome pot dura mulți ani, mai ales dacă nu caută ajutor.</div><div>&nbsp;</div><div><div><div>Simptomele PTSD se pot agrava în perioadele de stres sau când oamenilor li se amintește de ceea ce s-a întâmplat prin factori declanșatori de traume (cum ar fi aniversările). Durata PTSD-ului depinde, de asemenea, dacă se primește un tratament eficient.</div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2802716d-beac-42de-8db8-420eb0e55fc9",
+          "label": "Probleme legate de PTSD",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/ptsb_related_problems.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/ptsb_related_problems.jpg",
+                "alt": "Probleme legate de PTSD"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div>Persoanele cu PTSD dezvoltă frecvent și alte tipuri de probleme. Acestea includ:</div><ul><li>depresie</li><li>atacuri de panică</li><li>probleme legate de consumul de alcool și substanțe</li><li>probleme relaționale de serviciu școală sau alte activități importante</li><li>simptome fizice (dureri somatice dureri de cap probleme digestive)</li><li>risc crescut de probleme medicale</li></ul><div><div>Știați că?:</div><ul><li><div>Mai mult de jumătate dintre bărbații cu PTSD au probleme cu alcoolul</div></li><li><div>Aproape jumătate dintre femeile cu PTSD au depresie</div></li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1cc36b79-7191-4bfb-b8d0-1e1f24c06c63",
+          "label": "Înțelegerea tratamentului PTSD",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/understanding-treatment/treatment.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "multiPage",
+                "pageArray": [
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/understanding-treatment/theraphy_works.jpg",
+                      "alt": "Psihoterapia Funcționează"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Psihoterapia Funcționează</h1><div><div>Unul dintre cele mai eficiente tratamente pentru PTSD este psihoterapia.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/understanding-treatment/trauma_focused_therapy.jpg",
+                      "alt": "Terapia centrată pe traumă"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><div><h1>Terapia centrată pe traumă</h1></div></div><div>În timp ce multe tipuri de terapie prin vorbire pot fi utile, cel mai bun tratament posibil este terapia centrată pe traumă. Acestea sunt: terapia prin expunere prelungită, terapia de procesare cognitivă (Cognitive Processing Therapy) și reprocesare prin mișcări oculare (sau EMDR).</div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/understanding-treatment/spirit_exercises.jpg",
+                      "alt": "Exercițiile îți pot ajuta starea de spirit"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><div><div><h1>Exercițiile îți pot ajuta starea de spirit</h1><div><div>Exercițiile fizice pot fi o parte importantă a îmbunătățirii stării de spirit. Dacă ești capabil fizic, s-ar putea să beneficiezi de pe urma a câteva minute de exercițiu în fiecare zi.</div></div></div></div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/understanding-treatment/practice_mindfulness.jpg",
+                      "alt": "Mindfulness (practica de meditație conștientă) poate ajuta"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "TO DO: The button must redirect users to the subtools list instead of opening a certain tool."
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><div><h1>Mindfulness (practica de meditație conștientă) poate ajuta</h1></div></div><div>Mindfulness, sau practica de meditație conștientă, s-a dovedit a fi foarte eficientă în reducerea suferinței și a simptomelor PTSD. Încearcă instrumentele Mindfulness din această aplicație!</div><div>&nbsp;</div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "Intrumente pentru practica de meditație conștientă",
+                      "action": {
+                        "type": "start_tool",
+                        "toolId": "mindfulness-conscious-breathing"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/understanding-treatment/starting_treatment.jpg",
+                      "alt": "Începerea tratamentului"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><div><div><h1>Începerea tratamentului</h1><div><div>Discută cu un psiholog clinician sau psihoterapeut, despre cum să obții îngrijirea de care ai nevoie.</div></div></div></div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/understanding-treatment/medications.jpg",
+                      "alt": "Medicamente care funcționează"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Medicamente care funcționează</h1><div><div>Există unele medicamente care s-au dovedit utile in tratarea simptomatologiei PTSD, inclusiv Celexa, Paxil, Prozac și Zoloft. Discută cu medicul tău.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/understanding-treatment/family_therapy.jpg",
+                      "alt": "Terapie de familie"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Terapie de familie</h1><div><div>PTSD poate afecta pe toți membrii familiei. Terapia de familie este o modalitate utilă de a reuni membrii familiei și de a se înțelege mai bine unul pe celălalt într-un spațiu sigur.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/understanding-treatment/treatment.jpg",
+                      "alt": "Tratament pentru PTSD"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Tratament pentru PTSD</h1><div><div>A te simți trist, abătut, de cele mai multe ori timp de mai mult de 2 săptămâni poate fi un semn de depresie. Dacă ești îngrijorat că ai putea fi deprimat, discută cu furnizorul de servicii medicale sau contactează un specialist în sănătate mintală. Poți suna la DepreHub.ro - helpline anti-anxietate gratuit la:</div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "0374 456 420",
+                      "action": {
+                        "type": "phone",
+                        "number": "0374456420"
+                      }
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "c15f00fc-86f6-4315-ae3a-04e31be589e7",
+          "label": "Am PTSD?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/do_i_have_ptsd.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/do_i_have_ptsd.jpg",
+                "alt": "Am PTSD?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Doar un profesionist calificat în sănătate mintală poate determina dacă ai PTSD. Cu toate acestea, auto-evaluările precum cea din această aplicație te pot ajuta să decizi dacă ar trebui să cauți mai multă evaluare. Dacă tu consideri că ai PTSD, programează o evaluare cu un profesionist în sănătate mintală (un psihiatru sau un psiholog clinician). De asemenea, reține că unii oameni pot dezvolta alte probleme, cum ar fi depresia sau consumul de substanțe, după o experiență traumatică.</div><div>&nbsp;</div><div><div><div>Dacă evenimentul traumatic prin care ai trecut a avut loc cu mai puțin de o lună sau două în urmă și nu te simți prea stresat sau nu ai probleme de funcționare în viața de zi cu zi, atunci poate vrei să vezi dacă simptomele tale se ameliorează de la sine. Folosirea instrumentelor din această aplicație te pot ajuta să faci față când te simți stresat.</div><div>&nbsp;</div><div><div><div>Dacă tot nu te simți bine după una sau două luni, caută ajutor profesional.</div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f5744788-8d9f-43d1-9318-7c238f68c279",
+          "label": "Am PTSD...",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/i_have_ptsd.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/i_have_ptsd.jpg",
+                "alt": "Am PTSD..."
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Dacă ai fost diagnosticat cu PTSD, instrumentele din această aplicație te pot ajuta să-ți gestionezi simptomele. Cu toate acestea, această aplicație nu este menită să înlocuiască îngrijirea profesională. Dacă în prezent ești în procesul unui tratament pentru PTSD, ar trebui să discuți cu furnizorul tău despre utilizarea acestei aplicații ca parte a lucrului împreună.</div><div>&nbsp;</div><div><div><div>Ține minte: un tratament eficient pentru PTSD este disponibil! Nu trebuie să trăiești pentru totdeauna cu simptomele tale.</div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "0d5d5441-f145-4d6e-b1b0-2370cd56618b",
+          "label": "Mi-e rușine că am PTSD",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/ashamed_to_have_ptsd.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/ashamed_to_have_ptsd.jpg",
+                "alt": "Mi-e rușine că am PTSD"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Dacă persoanele cu PTSD îl văd ca pe un semn de slăbiciune sau deteriorare, s-ar putea să se simtă rușinați în legătură cu asta. Acest lucru poate fi valabil mai ales dacă persoana are accese de furie, flashback-uri sau alte simptome de PTSD atunci când este în public.</div><div>&nbsp;</div><div><div><div>Rușinea îi poate determina pe supraviețuitorii traumei să se retragă sau să fie tăcuți cu privire la problemele lor. Dar acest lucru le poate face rău și îi poate face să se izoleze și să se simtă nesprijiniți.</div><div>&nbsp;</div><div><div><div>Ține minte: PTSD este un răspuns normal la circumstanțe anormale.</div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3314f9e0-0a05-4cdd-972a-57628fb74260",
+          "label": "Izolarea socială",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/social_isolation.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/social_isolation.jpg",
+                "alt": "Izolarea socială"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Se întâmplă des ca persoanele cu PTSD să se izoleze. S-ar putea să te simți copleșit sau nesigur în grupuri, să te enervezi rapid, să te simți neînțeles sau pur și simplu neinteresat de a fi în preajma oamenilor. Cu toate acestea, izolarea poate duce la singurătate, depresie și anxietate.</div><div>&nbsp;</div><div><div><div>Această aplicație oferă câteva sugestii și strategii pentru a te ajuta să faci față sentimentului de deconectare de la oameni și să începi să te reconectezi cu cei dragi și cu prietenii.</div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "30fcbbd4-27d7-46f5-9ecd-c0a90333b93a",
+          "label": "Probleme cu somnul: Coșmarurile",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/sleep_issues_nightmare.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/sleep_issues_nightmare.jpg",
+                "alt": "Probleme cu somnul: Coșmarurile"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Dacă ai coșmaruri supărătoare care îți întrerup somnul, iată câteva sfaturi:</div><ul><li>La trezire aprinde lumina respiră adânc de câteva ori și observă priveliștile sunetele și mirosurile din jurul tău.</li><li>Fii atent la diferențele dintre coșmar și momentul actual și lasă acele diferențe să te calmeze și să te liniștească.</li><li>Distrage-ți atenția timp de 5 până la 10 minute după ce te trezești cu o carte sau puțină muzică; încearcă să te ridici și să petreci timpul într-o altă cameră.</li><li>Când încerci să adormi din nou gândește-te la lucruri plăcute și evită să te gândești la coșmar.</li><li>Evită privarea de somn. Păstrează un program de somn consecvent și fă exerciții regulate pentru a-ți reduce frecvența coșmarurilor.</li><li>Fii atent la consumul de alcool cofeină și nicotină care pot perturba somnul.</li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fa6b7c8a-2bf7-44b8-bf17-46c9feee97fc",
+          "label": "Probleme cu somnul: Insomnia",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/sleep_issues_insomnia.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/sleep_issues_insomnia.jpg",
+                "alt": "Probleme cu somnul: Insomnia"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Dacă stai treaz în pat mai mult de 15-20 de minute fără să adormi, încearcă următoarele:</div><div>&nbsp;</div><ul><li>Ridică-te și fă ceva plictisitor cum ar fi să citești un manual de instrucțiuni.</li><li>Întoarce-te în pat doar când ești somnoros.</li><li>Păstrează luminile la un nivel scăzut și nu folosi computerul și nu te uita la televizor.</li><li>Bea puțină apă, lapte cald sau ceai decofeinizat.</li><li>Ia o gustare ușoară cu conținut scăzut de zahăr dacă îți este foame.</li><li>Citește ceva liniștitor sau ascultă muzică relaxantă.</li><li>Când te întorci în pat, respiră încet și adânc timp de aproximativ 10 minute.</li><li>Calmează-ți gândurile cu rugăciune, meditație sau „numărând oile”.</li><li>Dacă este greu să împarți patul cu partenerul tău, ia în considerare uneori să dormiți separat.</li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4afaad60-4964-47c5-9bdb-bdb63bef0336",
+          "label": "Ce fac dacă mă afectează anumiți factori declanșatori?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/stress_factor_response_strategy.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/stress_factor_response_strategy.jpg",
+                "alt": "Ce fac dacă mă afectează anumiți factori declanșatori?"
+              },
+              {
+                "type": "button",
+                "label": "Încearcă instrumentul RID acum",
+                "action": {
+                  "type": "start_tool",
+                  "toolId": "rid"
+                }
+              },
+              {
+                "type": "rich-text",
+                "content": "<ul><li>Relaxează-te</li><li>Identifică</li><li>Decide</li></ul><p>Mai întâi, fă ceva care să te ajute să te relaxezi (cum ar fi respirații adânci, bea un pahar de apă sau reamintește-ți că \"mă pot descurca\")</p><p>În al doilea rând, identifică care este factorul declanșator (cum ar fi o mașină, a fi într-o mulțime). Apoi identifică modul în care este acum diferit de atunci (cum ar fi că nu te afli într-o zonă de război, ai mai mult control acum).</p><p>În al treilea rând, decide ce să faci. De exemplu, dacă te supără să fii într-o mulțime, recunoaște că această mulțime nu este ostilă. Poți decide să rămâi în mulțime și să vezi că ești în siguranță acum.</p>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "109e788d-d579-4077-9a4d-51029256ca1e",
+          "label": "Ce este disocierea?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/what_is_dissociation.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/what_is_dissociation.jpg",
+                "alt": "Ce este disocierea?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Disocierea este sentimentul de detașare de experiențele fizice și emoționale, senzații, amintiri sau mediul apropiat. Disocierea poate varia de la ușoară la intensă. Se întâmplă adesea fără intenția persoanei, așa că poate fi confuz și supărător.</div><div>&nbsp;</div><div><div>Exemple:</div><ul><li>Te observi sau îți observi corpul dintr-o perspectivă exterioară (ca și cum ai fi deasupra corpului tău)</li><li>Sunete sau imagini care par îndepărtate sau distorsionate</li><li>Pierderea timpului</li><li>Amorțire fizică sau emoțională</li></ul></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "71939fdd-6c23-4d9e-b7ce-63890c06ccd2",
+          "label": "Evit lucrurile",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/avoiding_things.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/avoiding_things.jpg",
+                "alt": "Evit lucrurile"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Persoanele cu PTSD se trezesc deseori evitând lucrurile care le amintesc de experiența traumatică pe care au experimentat-o. Deși poate fi o ușurare pe termen scurt pentru a evita amintirile dureroase, atunci când ajungi să eviți lucruri cu care trebuie să te confrunți sau să te izolezi, poate însemna că evitarea nu funcționează cu adevărat.</div><div><div>Poți găsi instrumente și strategii pentru gestionarea factorilor declanșatori și reducerea evitării în secțiunea Gestionare simptome a acestei aplicații.</div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a9de62c2-a24d-4627-92e4-4d6436e3ea72",
+          "label": "Nu am încredere în oameni",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/trust_no_one.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/trust_no_one.jpg",
+                "alt": "Nu am încredere în oameni"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Mulți oameni care au trecut printr-o traumă se simt neîncrezători, dar nu este util să facem această presupunere despre toată lumea tot timpul.</div><div>&nbsp;</div><div><div><div>Exersează și pune-ți întrebări precum:</div><ul><li>Este adevărat tot timpul? Cât la sută din timp sunt oamenii nedemni de încredere?</li><li>Pot să mă gândesc la un moment în care cineva m-a ajutat?</li><li>Care sunt 3 persoane pe care le cunosc și în care pot avea măcar puțină încredere?</li><li>Cu ce mă pot încrede în ei?</li></ul></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a6d34a91-e0a8-47d2-80ef-ef5263d63824",
+          "label": "Nu-mi pot controla temperamentul",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/cant_control_myself.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/cant_control_myself.jpg",
+                "alt": "Nu-mi pot controla temperamentul"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Acest lucru poate fi cu adevărat înfricoșător și frustrant pentru mulți supraviețuitori ai traumei, în special pentru veterani și personalul militar în serviciu activ care au fost în locuri în care a fi furios sau agresiv a fost văzut ca fiind benefic. Poți învăța să îți controlezi comportamentul atunci când ești supărat cu ajutorul acestei aplicații și/sau cu terapie individuală. Consultă câteva dintre instrumentele de adaptare a furiei din această aplicație, accesând secțiunea <strong>Gestionare simptome</strong>.</div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "54fe9aa1-43fa-4876-9831-ce0ec7f607dd",
+          "label": "Sunt mereu stresat",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/always_stressed.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/always_stressed.jpg",
+                "alt": "Sunt mereu stresat"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>A te simți nervos, vigilent sau în stare de permanență alertă este o experiență comună pentru multe persoane cu PTSD. Exercițiile de relaxare și practicile de mindfulness pot ajuta la calmarea sistemului nervos. Aceste exerciții sunt disponibile în această aplicație în secțiunea <strong>Gestionare simptome</strong>.</div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a4df8b66-0059-441e-8574-185c85cb7296",
+          "label": "Mă simt trist tot timpul",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/always_sad.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/learn_more_about_ptsd/always_sad.jpg",
+                "alt": "Mă simt trist tot timpul"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>A te simți trist, abătut de cele mai multe ori timp de mai mult de 2 săptămâni poate fi un semn de depresie. Dacă ești îngrijorat că ai putea fi deprimat, discută cu furnizorul de servicii medicale sau contactează un psihoterapeut sau un psiholog clinician. De asemenea, poți apela la linia <strong>TelVerde Antidepresie</strong>:</div></div>"
+              },
+              {
+                "type": "button",
+                "label": "0800 080 020",
+                "action": {
+                  "type": "phone",
+                  "number": "0800080020"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "2f781697-bcf1-4afb-897f-628403ebdf84",
+      "type": "category",
+      "label": "Obținerea de ajutor profesional",
+      "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/getting_professional_help_icon.png",
+      "topics": [
+        {
+          "id": "27a286b0-0e28-498c-abfa-baaf37cfe521",
+          "label": "Sunt într-o criză",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/i_am_in_crisis.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/i_am_in_crisis.jpg",
+                "alt": "Sunt într-o criză"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Pentru orice criză, inclusiv urgențe medicale, mergeți la cea mai apropiată cameră de urgență sau sunați la:</div></div>"
+              },
+              {
+                "type": "button",
+                "label": "112",
+                "action": {
+                  "type": "phone",
+                  "number": "112"
+                }
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>TelVerde Antisuicid:</div></div>"
+              },
+              {
+                "type": "button",
+                "label": "0800 080 020",
+                "action": {
+                  "type": "phone",
+                  "number": "0800080020"
+                }
+              },
+              {
+                "type": "button",
+                "label": "Detalii",
+                "action": {
+                  "type": "external",
+                  "url": "https://www.antisuicid.ro/ce-este-telverde-antisuicid"
+                }
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Număr unic naţional de urgenţă pentru victimele violenței domestice:</div></div>"
+              },
+              {
+                "type": "button",
+                "label": "0800-500-333",
+                "action": {
+                  "type": "phone",
+                  "number": "0800-500-333"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "7b8c7803-6247-4fc3-a06c-1e1a69047aaf",
+          "label": "Găsirea tratamentului",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/finding_treatment.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/finding_treatment.jpg",
+                "alt": "Găsirea tratamentului"
+              },
+              {
+                "type": "button",
+                "label": "Centre de tratament pentru veterani",
+                "action": {
+                  "type": "external",
+                  "url": "https://edata.e-health.gov.ua/e-data/dashboard/pmg-psychiatry"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "14dfa4e1-a766-4afc-aba5-82aa427aea9f",
+          "label": "Ce este terapia?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/what_therapy_is.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/what_therapy_is.jpg",
+                "alt": "Ce este terapia?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Terapia (denumită și psihoterapie sau terapie verbală) implică întâlnirea cu un profesionist instruit pentru a lucra cu diferite tipuri de probleme, inclusiv, dar fără a se limita la:</div><ul><li>schimbări în starea de spirit precum depresia sau anxietatea</li><li>convingeri sau modalități problematice de gândire</li><li>comportamente precum fumatul, consumul de alcool sau lipsa de exerciții fizice</li><li>probleme legate de dureri sau somn</li><li>sentimente sau emoții dificile</li><li>îmbunătățirea problemelor în relații.</li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "7d06c62c-1e69-411b-b102-5af1fe3ad2b3",
+          "label": "Instrumente pentru PTSD",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/tools_for_ptsd/tools_for_ptsd_icon.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "multiPage",
+                "pageArray": [
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/tools_for_ptsd/aims.jpg",
+                      "alt": "AIMS (Strategii pentru Iritabilitate și Mânie)"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>AIMS (Strategii pentru Iritabilitate și Mânie)</h1><div><div>AIMS te poate ajuta dacă ai dificultăți cu iritabilitatea sau mânia.</div><div>&nbsp;</div><div><div><div>Apasă pe pictograma de mesaj de mai jos pentru a partaja informații despre aceste aplicații cu alte persoane.</div></div></div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "EXTERNAL (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.aims"
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "label": "SHARE (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.aims"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/tools_for_ptsd/cbti_coach.png",
+                      "alt": "CBT-i Coach"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<h1>CBT-i Coach</h1><div><div>Deși această aplicație este concepută pentru a fi utilizată cu un profesionist în domeniul sănătății, poate fi utilă pentru a învăța mai multe despre îmbunătățirea somnului.</div><div>&nbsp;</div></div><div><div>Apasă pe pictograma de mesaj de mai jos pentru a partaja informații despre aceste aplicații cu alte persoane.</div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "EXTERNAL (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.cbti"
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "label": "SHARE (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.cbti"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/tools_for_ptsd/mindfulness_coach.jpg",
+                      "alt": "Mindfulness Coach"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<h1>Mindfulness Coach</h1><div><div>Mindfulness Coach oferă exerciții și informații care pot ajuta la:</div><ol><li><div>Concentrarea asupra momentului prezent și elimină puterea gândurilor sau amintirilor nedorite.</div></li><li><div>Apasă pe pictograma de mesaj de mai jos pentru a partaja informații despre aceste aplicații cu alte persoane.</div></li></ol><div><div>Apasă pe pictograma de mesaj de mai jos pentru a partaja informații despre aceste aplicații cu alte persoane.</div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "EXTERNAL (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.mindfulnesscoach"
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "label": "SHARE (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.mindfulnesscoach"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/tools_for_ptsd/stay_quit_coach.jpg",
+                      "alt": "Stay Quit Coach"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Stay Quit Coach (Antrenor pentru Renunțarea la Fumat)</h1><div><div>Fumezi țigări și vrei să renunți?</div><div>&nbsp;</div><div><div><div>Creează un plan personal, stabilește o dată pentru renunțarea la fumat și începe-ți viața ca nefumător.</div><div>&nbsp;</div><div><div><div>Apasă pe pictograma de mesaj de mai jos pentru a partaja informații despre aceste aplicații cu alte persoane.</div></div></div></div></div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "EXTERNAL (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=gov.va.stayquit"
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "label": "SHARE (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=gov.va.stayquit"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/tools_for_ptsd/breathe_2_relax.jpg",
+                      "alt": "Breathe2Relax"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Breathe2Relax</h1><div><div>Respirația profundă este una dintre cele mai bune modalități de a învăța să te relaxezi.</div><div>&nbsp;</div><div><div><div>Învață să faci respirații controlate și profunde folosind această aplicație gratuită și personalizabilă.</div><div>&nbsp;</div><div><div><div>Apasă pe pictograma de mesaj de mai jos pentru a partaja informații despre aceste aplicații cu alte persoane.</div></div></div></div></div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "EXTERNAL (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=org.t2health.breathe2relax"
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "label": "SHARE (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=org.t2health.breathe2relax"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/tools_for_ptsd/mood_tracker.jpg",
+                      "alt": "Mood Tracker"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Mood Tracker</h1><div><div>Urmărește-ți starea de spirit sau alte lucruri care sunt importante pentru tine, folosind Mood Tracker.</div><div>&nbsp;</div><div><div><div>Apasă pe pictograma de mesaj de mai jos pentru a partaja informații despre aceste aplicații cu alte persoane.</div></div></div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "EXTERNAL (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=com.t2.vas"
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "label": "SHARE (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=com.t2.vas"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/tools_for_ptsd/ptsd_coach.jpg",
+                      "alt": "PTSD Coach"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>PTSD Coach</h1><div><div>Poate dorești să partajezi această aplicație dacă crezi că altcineva ar putea beneficia de informațiile și instrumentele pe care le-ai văzut aici.</div><div>&nbsp;</div><div><div><div>Apasă pe pictograma de mesaj de mai jos pentru a partaja informații despre aceste aplicații cu alte persoane.</div></div></div></div></div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "EXTERNAL (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=is.vertical.ptsdcoach"
+                      }
+                    },
+                    {
+                      "type": "button",
+                      "label": "SHARE (WIP)",
+                      "action": {
+                        "type": "external",
+                        "url": "https://play.google.com/store/apps/details?id=is.vertical.ptsdcoach"
+                      }
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "c4983971-9461-4911-bac8-f5700ee0e6fc",
+          "label": "Am nevoie de ajutor profesional?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/do_i_need_professional_help.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/do_i_need_professional_help.jpg",
+                "alt": "Am nevoie de ajutor profesional?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Este normal ca persoanele care au trecut prin experiențe traumatice să aibă unele provocări în adaptarea ulterioară - acest lucru nu este motiv de rușine. Uneori aceste provocări sunt severe sau durează mai mult de câteva luni.</div><div>&nbsp;</div><div><div><div>Nevoia ta de ajutor poate fi determinată doar de tine și de un profesionist în domeniul sănătății. Cu toate acestea, poți efectua autoevaluarea pentru PTSD în această aplicație pentru a-ți da seama cum te descurci.</div><div>&nbsp;</div><div><div><div>Dacă ai gânduri despre rănirea sau omorârea ta sau a altei persoane, te rugăm să suni la:</div><div></div><div></div></div></div></div></div></div>"
+              },
+              {
+                "type": "button",
+                "label": "112",
+                "action": {
+                  "type": "phone",
+                  "number": "112"
+                }
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div><div><div>sau să mergi imediat la camera de urgență a celui mai apropiat spital.</div><div>&nbsp;</div><div><div><div>Ține minte, nu trebuie să aștepți o situație de urgență pentru a vorbi cu cineva.</div><div>&nbsp;</div><div><div><div>Următoarele probleme sunt obișnuite după o experiență traumatică și pot semnala nevoia de mai mult sprijin:</div><ul><li>Depresie - te simți trist, deprimat sau melancolic mare parte a timpului</li><li>Anxietate - nervozitate, îngrijorare, tensiune, ești foarte atent la potențialul pericol în mare parte a timpului</li><li>Vigilență excesivă sau reacții puternice la zgomote puternice sau neașteptate</li><li>Gânduri și amintiri intruzive despre experiențele traumatice care sunt foarte tulburătoare</li><li>Creșterea consumului de alcool, consumul de droguri, abuzul de medicamente prescrise pentru a face față problemelor</li><li>Ușor irascibil, comportament agresiv/violent</li><li>Conducere iresponsabilă sau agresivă</li><li>Probleme de somn, precum insomnie, coșmaruri</li><li>Izolarea de sine, retragerea din contactul cu prietenii și familia</li><li>Modificări în apetit sau câștig/pierdere în greutate fără să îți dorești acest lucru</li><li>Dificultăți în a lucra sau îndeplini responsabilitățile zilnice</li><li>Probleme în relații sau dificultăți în a avea grijă de familie</li><li>Gânduri despre suicid sau despre a răni sau omorî pe cineva</li></ul><div><div>Dacă ai una dintre aceste preocupări, ai putea beneficia de o ședință de terapie.</div></div></div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6f32a995-2c44-4792-8c7f-30e73ce48916",
+          "label": "De ce caută oamenii terapia?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/why_do_people_seek_therapy.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/why_do_people_seek_therapy.jpg",
+                "alt": "De ce caută oamenii terapia?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Unii supraviețuitori ai traumelor doresc să facă terapie pentru că au:</div><ul><li>Probleme cu munca și relațiile interpersonale</li><li>Evită lucrurile care le aduc aminte de trauma, însă amintirile</li><li>sunt în continuare activate de tot felul de factori declanșatori</li><li>Se simt foarte nervoși sau furioși</li><li>Au dificultăți în a dormi</li></ul><div><div>În timp ce aceste simptome sunt comune în primele luni după o experiență traumatică, dacă nu vă simțiți mai bine în curând, ar trebui să luați în considerare să vorbiți cu un terapeut.</div><div>&nbsp;</div><div><div><div>De asemenea, unele persoane constată că:</div><ul><li>Persoanele dragi le doresc binele, dar nu pot oferi sprijinul de care au nevoie</li><li>Persoanele dragi sunt departe și indisponibile</li><li>Lucrurile despre care doresc să vorbească par prea sensibile sau private</li></ul><div><div>În aceste circumstanțe, vorbitul cu un specialist poate ajuta cu adevărat.</div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "7163f965-f8f3-4a11-917b-e2177fc98c64",
+          "label": "Cum mă poate ajuta un terapeut?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/how_can_therapist_help_me.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/how_can_therapist_help_me.jpg",
+                "alt": "Cum mă poate ajuta un terapeut?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Profesioniștii specializați în lucrul cu PTSD:</div><ul><li>Te pot ajuta să înveți abilități pentru a face față mai bine</li><li>Oferă perspective noi</li><li>Te pot ajuta să te simți mai relaxat în ceea ce privește vorbitul cu oamenii din viața ta de zi cu zi, urmărirea obiectivelor tale și concentrarea asupra viitorului tău</li></ul><div><div>Ține minte: căutarea consilierii este un semn de putere, nu de slăbiciune. Vorbind cu un consilier reprezintă un pas curajos către recuperare și poate consolida abilitatea ta de a te ajuta pe tine însuți.</div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "050f384c-330c-456f-9615-d075010c84bb",
+          "label": "Este terapia confidențială?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/is_therapy_confidential.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/is_therapy_confidential.jpg",
+                "alt": "Este terapia confidențială?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Terapia este aproape întotdeauna confidențială.</div><div>&nbsp;</div><div><div><div>Excepții de la această regulă importantă se fac pentru:</div><ul><li>protecţia sănătăţii publice</li><li>pentru prevenirea unui pericol iminent (de exemplu: suicid)</li><li>pentru prevenirea săvârşirii unei fapte penale (de exemplu: uciderea altei persoane)</li></ul><div><div>Specialistul în sănătate mintală poate scrie o notă în dosarul tău medical sau psihologic, care poate fi vizualizată de alți specialiști implicați în îngrijirea ta.</div><div>&nbsp;</div><div><div><div>Te rugăm să discuți orice preocupări ai cu privire la confidențialitate cu terapeutul sau specialistul tău de sănătate mintală.</div></div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "73bc9aee-cb25-4d3e-8e7f-a983fa1b45d9",
+          "label": "Terapia chiar va funcționa?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/will_therapy_really_work.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/will_therapy_really_work.png",
+                "alt": "Terapia chiar va funcționa?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Cercetările privind diferite tipuri de terapie arată că multe tipuri de terapie și medicamente chiar funcționează. În plus, unele tipuri de terapie durează doar câteva luni.</div><div>&nbsp;</div><div><div><div>Multe persoane descoperă că se obișnuiesc rapid să discute cu un terapeut și ajung să aibă încredere în acesta. Terapeuții sunt profesioniști bine pregătiți, iar mulți dintre ei sunt specialiști care au ajutat un număr mare de supraviețuitori ai traumei.</div><div>&nbsp;</div><div><div><div>Ține minte: poți să vezi cum decurge - nu trebuie să te angajezi în nimic imediat. Dacă ai câteva ședințe și nu crezi că merge bine, poți discuta cu terapeutul despre ce vrei să schimbi sau poți cere un alt terapeut. Terapeuții sunt interesați de recuperarea ta și te vor ajuta să obții sprijinul de care ai nevoie.</div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "dd16e090-d6c7-4168-b90e-a8bdd7d1e7d1",
+          "label": "Tratamente pentru PTSD care funcționează",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/ptsd_treatments_that_works.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/ptsd_treatments_that_works.jpg",
+                "alt": "Tratamente pentru PTSD care funcționează"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Vestea bună este că există mai multe tratamente eficiente pentru PTSD, inclusiv:</div><div>&nbsp;</div><div><div><div>Terapii psihoterapeutice pe termen scurt (câteva luni) cu cea mai puternică evidență științifică:</div><ul><li>Terapia prin Expunere Prelungită (PE) și alte terapii de expunere care se concentrează pe procesarea emoțională a amintirilor și semnelor traumei</li><li>Terapia de Procesare Cognitivă (CPT) și alte terapii cognitive care abordează convingerile negative legate de traumă</li><li>Desensibilizarea și Reprocesarea prin Mișcări Oculare (EMDR) care se concentrează pe reducerea intensității gândurilor și sentimentelor legate de traumă permițând o adaptare mai eficientă</li></ul><div><div>Alte terapii psihoterapeutice pe termen scurt (câteva luni) care pot ajuta:</div><ul><li>Terapia Comportamentală Cognitivă (CBT)</li><li>Psihoterapia Eclectică Scurtă (BEP)</li><li>Terapia prin Expunere Narativă</li><li>Expunerea Narativă Scrisă</li></ul><div><div>Terapii psihoterapeutice care nu implică concentrarea asupra traumei:</div><ul><li>Antrenamentul pentru Inocularea Stresului (SIT)</li><li>Terapia Centrată pe Prezent (PCT)</li><li>Psihoterapia Interpersonală (IPT)</li></ul><div><div>Medicamente (dacă psihoterapia nu este o opțiune pentru tine):</div><ul><li>Zoloft (Sertralină)</li><li>Paxil (Paroxetină)</li><li>Prozac (Fluoxetină)</li><li>Effexor (Venlafaxină)</li></ul><div><div>Cel mai bun tratament este psihoterapia, dar medicamentele pot fi utile dacă psihoterapia nu este disponibilă sau accesibilă pentru tine.</div><div>&nbsp;</div><div><div><div>Specialistul tău de sănătate mintală (psihiatru, psiholog clinician sau psihoterapeut) ar trebui să colaboreze cu tine pentru a personaliza tratamentul în funcție de:</div><ul><li>nevoile tale</li><li>preferințele tale</li><li>obiectivele tratamentului</li><li>experiențele anterioare de tratament</li></ul></div></div></div></div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "43388869-63ce-457f-9ff6-d924185c77e1",
+          "label": "Cum găsesc un consilier/terapeut?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/how_to_find_therapist.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/how_to_find_therapist.jpg",
+                "alt": "Cum găsesc un consilier/terapeut?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div>Pentru a găsi un consilier sau terapeut, poți:</div><div><ul><li>Să ceri o recomandare de la un medic, asistent medical sau asistentă medicală</li><li><div>Să ceri nume de la prieteni în care ai încredere</div></li><li><div>Vizitează:</div></li></ul></div>"
+              },
+              {
+                "type": "button",
+                "label": "Sănătatemintală.ro",
+                "action": {
+                  "type": "external",
+                  "url": "https://sanatateamintala.ro"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "773969b5-71a1-455f-b68b-081feecabc20",
+          "label": "Cât costă consilierea?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/how_much_does_counseling_cost.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/how_much_does_counseling_cost.png",
+                "alt": "Cât costă consilierea?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Nu lăsa îngrijorările cu privire la costul consilierii să te împiedice să faci cercetări și să vezi care sunt opțiunile tale. În funcție de asigurarea ta, consilierea poate fi gratuită sau cu costuri reduse.</div><div>&nbsp;</div><div><div><div>Pentru a afla mai multe:</div><div><div><ul><li>Sună la compania ta de asigurări și află despre beneficiile tale. De asemenea, psihoterapeuții pot practica diverse prețuri, în funcție de pregătirea lor.</li></ul></div></div></div></div></div>"
+              },
+              {
+                "type": "button",
+                "label": "",
+                "action": {
+                  "type": "external",
+                  "url": "https://deprehub.ro/psihoterapie-gratuita"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "48461c08-35f7-4223-91d9-c4a1ffcf5a16",
+          "label": "Îmi doresc să fac terapie, dar lucrez toată ziua",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/i_want_counseling_but_I_work_all_day.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/i_want_counseling_but_I_work_all_day.png",
+                "alt": "Îmi doresc să fac terapie, dar lucrez toată ziua"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Dacă ai nevoie de programări flexibile pentru a nu rata munca, caută un terapeut care poate oferi ședințe de psihoterapie în funcție de programul tău. De asemenea, majoritatea angajatorilor vor înțelege și te vor ajuta să te îngrijești de sănătatea ta, fie că este vorba de sănătate fizică sau emoțională.</div><div>&nbsp;</div><div><div><div>De multe ori, oamenii pot stabili un program flexibil cu șeful lor pentru a elibera timp pentru programările din timpul zilei.</div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "88b2c850-99ee-4372-aac1-c58cf3d502e3",
+          "label": "Transport la programări",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/transportation_to_appointments.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/transportation_to_appointments.png",
+                "alt": "Transport la programări"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Unii oameni întâmpină dificultăți în a ajunge la și de la programări. Dacă aceasta este o problemă pentru tine, ia în considerare următoarele opțiuni:</div><ul><li>Transportul public, taxi sau servicii de ridesharing</li><li>Roagă un prieten, un membru al familiei sau un vecin să te ducă și să te aducă</li><li>Împrumută o mașină de la un prieten, un membru al familiei sau un vecin</li><li>De asemenea poți stabili o programare cu un psiholog online.</li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "c5d0c457-e0e0-4e66-89f2-fc00c1963057",
+          "label": "Mi-e rușine să merg la terapie",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/im_embarrassed_to_go_for_counseling.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/im_embarrassed_to_go_for_counseling.png",
+                "alt": "Mi-e rușine să merg la terapie"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Unii oameni simt jenă sau rușine să ceară ajutor sau să primească ajutor. Dar gândește-te la următoarele aspecte:</div><ul><li>Nu suntem singuri în această lume. Oamenii sunt aici să te ajute acum așa cum ai ajutat și tu pe alții în trecut.</li><li>Știai că cei care acceptă ajutorul după o perioadă stresantă se descurcă mai bine decât cei care nu primesc sprijin?</li><li>S-ar putea să crezi că cererea de ajutor înseamnă că nu ești normal, dar este normal și comun să ai dificultăți după un eveniment traumatizant, inclusiv probleme de somn, creșterea furiei, depresie, anxietate și probleme legate de consumul de substanțe.</li><li>Căutarea consilierii nu înseamnă că ești disfuncțional. De fapt, majoritatea persoanelor care manifestă simptome de PTSD pot continua rutinele obișnuite în timp ce se recuperează.</li><li>Dacă te simți vinovat că aloci timp și bani pentru consiliere, amintește-ți: vei putea să fii mai bine și mai prezent pentru familia și munca ta odată ce te vei simți mai bine.</li><li>Dacă nu te simți mai bine și au trecut luni sau ani de la experiența ta traumatică, discuția cu un terapeut te poate ajuta să eviți ca problemele tale să devină cronice sau mai grave.</li><li>Terapia nu este destinată persoanelor slabe. Este nevoie de curaj să ceri ajutor. Preia activ controlul asupra vieții tale și îmbunătățește-ți capacitatea de a te ajuta pe tine însăți.</li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6456f949-d060-4266-8bbb-ad83a11f4054",
+          "label": "Cine mă poate ajuta?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/who_can_help_me.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/who_can_help_me.png",
+                "alt": "Cine mă poate ajuta?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Există mulți experți care te pot ajuta dacă tu dorești acest lucru.</div><div>&nbsp;</div><div><div>Poți citi mai multe aici despre rolurile și atribuțiile medicilor de familie, asistenților sociali, psihologilor, psihiatrilor și consilierilor pastorali/teologici.</div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3d72382c-c7c8-46eb-aee5-26f146b0f93f",
+          "label": "Ce face un medic de familie?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/what_does_a_primary_care_physician_do.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/what_does_a_primary_care_physician_do.png",
+                "atl": "Ce face un medic de familie?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Un medic de familie poate trata probleme medicale comune, iar unii dintre aceștia pot fi de asemenea pregătiți să recunoască și să ajute la problemele psihologice obișnuite, cum ar fi depresia și anxietatea.</div><div>&nbsp;</div><div><div><div>Un furnizor de îngrijire primară te poate ajuta cu:</div><ul><li>Asistență medicală</li><li>O rețetă medicală pentru a ajuta la depresie sau probleme de somn</li><li>O recomandare către un psiholog sau psihiatru</li></ul></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1ef6504c-32ad-4e2c-97d1-d61852e33c58",
+          "label": "Ce face un psihoterapeut?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/what_does_a_psychologist_do.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/what_does_a_psychologist_do.png",
+                "alt": "Ce face un psihoterapeut?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Psihoterapeuții pot oferi evaluări și terapie. Aceștia lucrează cu indivizi, cupluri, familii și grupuri.</div><div>&nbsp;</div><div><div><div>Un psihoterapeut te poate ajuta cu:</div><ul><li>Probleme precum depresia anxietatea PTSD-ul și problemele legate de consumul de substanțe</li><li>Dificultăți în familie și în relații</li><li>În unele cazuri dacă este medic poate prescriere medicație pentru o problemă de sănătate mentală.</li></ul><div><div>Poți găsi un psihoterapeut:</div><ul><li>Prin recomandarea unui medic asistentă sau companie de asigurări</li><li>Prin persoane pe care le cunoști</li><li>Să cauți pe internet după cuvintele “psihoterapeut traumă” sau “psiholog traumă”</li></ul><div>&nbsp;</div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4bcfa2fd-8a2f-40f3-94b5-bc8b315dfb7c",
+          "label": "Ce face un psihiatru?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/what_does_a_psychiatrist_do.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/getting_professional_help/what_does_a_psychiatrist_do.png",
+                "alt": "Ce face un psihiatru?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div><div><div>Un psihiatru este un medic cu pregătire specializată în psihiatrie. Aceștia tratează în principal pacienți cu medicamente care pot ameliora simptomele depresiei, anxietății sau tulburărilor de stres post-traumatic, sau pot ajuta în cazul problemelor de somn sau altor probleme asociate cu afecțiunile de sănătate mintală.</div><div>&nbsp;</div><div><div><div>Un psihiatru te poate ajuta cu:</div><ul><li>Medicamente pentru probleme de sănătate mentală precum depresie, anxietate, PTSD și boli mentale severe</li><li>În unele cazuri, consiliere sau psihoterapie</li></ul><div><div>Poți găsi un psihiatru:</div><ul><li>Prin recomandare de la un doctor asistent medical sau compania ta de asigurări</li><li>Prin intermediul persoanelor pe care le cunoști</li><li>Să cauți direct pe internet în surse online de încredere</li></ul></div></div></div></div></div></div>"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "3b237604-a536-4943-9181-12b4dfb9a478",
+      "type": "category",
+      "label": "PTSD și familia",
+      "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/ptsd_and_family_icon.png",
+      "topics": [
+        {
+          "id": "d4cc9bd8-5d41-438d-9fd3-072779921b14",
+          "label": "Ce este terapia de cuplu?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/what_is_couples_counseling.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/what_is_couples_counseling.png",
+                "alt": "Ce este terapia de cuplu?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Dacă tu și partenerul tău întâmpinați probleme în relația voastră sau nu vă simțiți apropiați, terapia de cuplu poate fi de ajutor.</div><div>&nbsp;</div><div><div><div>În acest tip de consiliere, un terapeut vă poate ajuta:</div><ul><li>Să înțelegeți ce provoacă aceste dificultăți</li><li>Să învățați modalități de a face față stresului relațional</li><li>Să dezvoltați abilități de a comunica și de a rezolva mai bine problemele</li><li>Să vă consolidați încrederea simțindu-vă mai apropiați</li></ul></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "834f767e-e286-434b-b344-7585d60ea249",
+          "label": "Ce este terapia de familie?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/what_is_family_therapy.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/what_is_family_therapy.png",
+                "alt": "Ce este terapia de familie?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Dacă familia ta întâmpină dificultăți în a comunica sau a se înțelege, ia în considerare terapia de familie.</div><div>&nbsp;</div><div><div><div>În acest tip de consiliere, un terapeut te ajută pe tine și familia ta să:</div><ul><li>Comunicați mai bine</li><li>Dezvoltați și mențineți relații bune</li><li>Faceți față emoțiilor supărătoare</li><li>Înțelegeți și faceți față PTSD-ului</li></ul></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "411989be-5394-4b8e-a0ed-cfb2438bbde6",
+          "label": "Reconectează-te cu partenerul tău",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/reconnecting_with_your_partner.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/reconnecting_with_your_partner.png",
+                "alt": "Reconectează-te cu partenerul tău"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Relațiile se pot simți tensionate dacă un partener se luptă cu PTSD. Iată câteva sfaturi care vă vor ajuta să redeveniți mai apropiați.</div><div>&nbsp;</div><ul><li>A te simți amorțit din punct de vedere emoțional poate îngreuna exprimarea iubirii și a grijii. Poți începe prin a aprecia lucrurile concrete pe care le face partenerul tău (cum ar fi \"mulțumesc că ai spălat vasele,\" sau \"apreciez că schimbi uleiul la mașină.\")</li><li>Discută cu partenerul despre cum te-a afectat PTSD și despre ce ai nevoie. El/ea te poate sprijini mai bine dacă știe ce se întâmplă.,</li><li>Pune întrebări, ascultă nevoile persoanei dragi și fii atent la sentimentele sale. Fă tot posibilul să rămâi deschis și să te pui în locul lor când vorbesc.,</li><li>Dacă ai tendința de a te retrage în condiții de stres, depune efort să te îndrepți spre persoana iubită, cu mici favoruri, mici atingeri sau câteva cuvinte amabile.,</li><li>Evită să spui lucruri care îl/o pot răni sau să devii violent fizic. În schimb, fă-ți timp pentru a te calma. Poți găsi acest instrument în secțiunea Gestionare simptome a acestei aplicații.,</li><li>Odată cu stresul PTSD-ului, intimitatea sexuală poate fi neglijată pentru un timp. Dacă acesta este cazul, încearcă să te concentrezi pe alte moduri de a fi aproape, cum ar fi petrecerea timpului împreună, ținerea de mână, îmbrățișarea și sărutarea.,</li><li>Înțelege că PTSD te poate face să vă simțiți mai îndepărtați sau iritabili. Încearcă să-ți ții în frâu așteptările și autocritica — ești doar om, iar vindecarea necesită timp!,</li><li>Caută ajutor de la un terapeut de cuplu dacă este necesar.</li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "da027dd8-3fe3-4789-8f1b-81818c1ec1e2",
+          "label": "Poartă un conflict corect",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/fighting_fair.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/fighting_fair.png",
+                "alt": "Poartă un conflict corect"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Conflictul va exista întotdeauna în relații. Dacă ești ușor iritabil, comunicarea poate deveni și mai dificilă. Iată câteva sfaturi pentru \"a purta un conflict corect\":</div><ul><li>Gândește-te înainte de a vorbi. Menținerea calmului ajută la rezolvarea problemelor.</li><li>Când vorbești, utilizează afirmații care încep cu \"eu,\" cum ar fi \"cred\" or \"simt.\" Folosirea afirmațiilor \"tu\" poate suna acuzator.</li><li>Concentrează-te pe câte o problemă pe rând.</li><li>Fii pozitiv – cere în mod clar ceea ce vrei sau ai nevoie. Vina și negativitatea nu vor ajuta la rezolvarea lucrurilor.</li><li>Pune-ți sentimentele în cuvinte. Este posibil ca persoana iubită să nu știe că ești trist/ă sau frustrat/ă decât dacă îi spui asta.</li><li>În timpul unei confruntări, acordă celeilalte persoane timp egal pentru a-și spune părerea.</li><li>Când cealaltă persoană vorbește, ascultă ce are de spus fără a întrerupe. Pune întrebări și repetă ceea ce a spus pentru a fi sigur că înțelegi.</li><li>Nu da sfaturi decât dacă ți se cere.</li><li>Nu lovi \"sub centură\" cu comentarii despre subiecte sensibile. Rămâi la problemele în cauză.</li><li>Nu te certa niciodată în pat. Folosiți o cameră neutră și afirmați-vă dragostea des.</li><li>Lucrați în echipă pentru a rezolva problemele. Puteți face mult mai multe în acest fel decât puteți face ca rivali.</li><li>Evită să spui \"Ți-am spus eu.\" Amintește-ți că o problemă rezolvată este o victorie pentru amândoi.</li><li>Dacă lucrurile se aprind prea mult, acordați-vă o pauză, dar acceptați să continuați discuția când lucrurile se liniștesc</li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "8d231b5d-aed9-4fab-a7eb-37e0b8046ada",
+          "label": "Vorbește cu copiii",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talking_to_kids_icon.png",
+          "content": {
+            "sections": [
+              {
+                "type": "multiPage",
+                "pageArray": [
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/do_you_have_a_young_child_2_4.jpg",
+                      "alt": "Ai un copil mic (2-4 ani)?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ai un copil mic (2-4 ani)?</h1><div><div>Stabilește câteva reguli scurte și clare cu copilul tău despre lucruri precum spațiul personal, utilizarea unui ton scăzut sau alți potențiali factori declanșatori. Găsește 1 sau 2 cuvinte pentru a le aminti cu blândețe, dar frecvent, despre regulile de interacțiune cu familia.</div><div>&nbsp;</div><div><div><div>Întreabă-ți copilul ce poți face pentru a-l ajuta. Ia-ți câteva minute pentru a auzi tot ce au de spus și găsește un lucru în fiecare zi cu care să-i ajuți, oricât de mic este.</div></div></div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/Is-your-child-missing-quality-time.jpg",
+                      "alt": "Copilului tău îi lipsește timpul de calitate cu tine?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Copilului tău îi lipsește timpul de calitate cu tine?</h1><div><div>Găsește cel puțin o activitate pe care o poți împărtăși cu copilul tău timp de câteva minute în fiecare zi. Timpul de calitate va fi bun pentru amândoi.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/do_you_have_a_young_child_2_12.jpg",
+                      "alt": "Ai un copil mic (2-12 ani)?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><div><h1>Ai un copil mic (2-12 ani)?</h1></div></div><div>Păstrează regulile scurt și la obiect. Urmează-ți promisiunile și regulile. Stabilește așteptările pe care ești sigur că le poate îndeplini copilul tău.</div><div>&nbsp;</div><div><div><div>Sărbătorește succesele copilului tău.</div><div>&nbsp;</div><div><div><div>Ai încredere în instinctele tale despre cum să fii cel mai bun părinte posibil.</div><div>&nbsp;</div><div><div><div>Stabillește și păstrează o rutină dacă nu aveți deja una. Copiii se bucură de consecvență.</div></div></div></div></div></div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/hard_to_connect_wtih_your_children.jpg",
+                      "alt": "Îți este greu să te conectezi cu copilul tău?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Îți este greu să te conectezi cu copilul tău?</h1><div><div>Gândește-te la modalități de a-ți exprima aprecierea pentru copilul tău spunând ceva, folosind gesturi care arată cât de mult îți pasă.</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/you_and_your_child_were_distant_from_each_other.jpg",
+                      "alt": "Tu și copilul tău ați fost distanți unul cu celălalt?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><div><h1>Tu și copilul tău ați fost distanți unul cu celălalt?</h1></div></div><div>Apropie-te din nou de copilul tău prin activități împreună de care să vă bucurați amândoi. Încearcă treptat să măriți timpul petrecut împreună.</div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/feeling_like_a_bad_parent.jpg",
+                      "alt": "Te simți un părinte rău?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><div><h1>Te simți un părinte rău?</h1></div></div><div>Să știi că nu ești singur. Este incredibil de dificil să fii părinte cu PTSD. Copiii sunt rezilienți, iar copiii știu când sunt iubiți. Iubește-ți copiii, acceptă că vei face greșeli, asumă-ți responsabilitatea și mergi mai departe. Încearcă doar să faci tot ce poți.</div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/do_you_have_a_young_child_5_12.jpg",
+                      "alt": "Ai un copil mic (5-12 ani)?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><div><h1>Ai un copil mic (5-12 ani)?</h1></div></div><div>Ajută-ți copilul să gestioneze orice furie pe care o experimentează. Oferă-le instrumente pentru a-și gestiona furia: numără până la 10, găsește o modalitate creativă de a-ți elimina furia, respiră adânc, găsește un aliat cu care să poată vorbi.</div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/do_you_have_a_teenager.jpg",
+                      "alt": "Ai un adolescent?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ai un adolescent?</h1><div><div>Nu-ți fie teamă să vorbești cu adolescentul despre PTSD. Cere-i și ascultă-le părerile. Încurajează-i să-și exprime sentimentele - în cuvinte, muzică sau prin altă metodă.</div><div>&nbsp;</div><div><div><div>Adolescenții pot avea nevoie de propriul spațiu pentru a face față PTSD al persoanei dragi. Respectă intimitatea adolescentului tău cât de mult poți. Nu interveni pentru a le rezolva problemele sau pentru a lua decizii pentru ei.</div><div>&nbsp;</div><div><div><div>Alege-ți momentele cu adolescentul tău, iar când acesta vrea să vorbească, doar ascultă. Arată-ți afecțiunea față de el/ea!</div></div></div></div></div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/do_you_have_a_partner_who_helps.jpg",
+                      "alt": "Ai un partener care te ajută cu copilul?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Ai un partener care te ajută cu copilul?</h1><div><div>Include-ți soțul sau partenerul cât de des poți atunci când iei decizii cu privire la modul de disciplinare a copilului.</div><div>&nbsp;</div><div><div><div>Complimentează-ți partenerul când îl observi că face ceva bine.</div><div>&nbsp;</div><div><div><div>Încearcă să te asiguri că oferi copiilor tăi un mesaj consecvent atunci când vorbesc cu tine și când vorbesc cu partenerul tău. Chiar dacă aveți strategii parentale foarte diferite, încercați să găsiți un teren comun acolo unde puteți.</div></div></div></div></div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/feeling_like_things_are_out_of_control.jpg",
+                      "alt": "Simți că lucrurile sunt scăpate de sub control?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Simți că lucrurile sunt scăpate de sub control?</h1><div><div>Spune-i familiei tale că vei începe să ai întâlniri regulate de familie. Programează o întâlnire de familie atunci când știi că toată lumea din familia ta poate fi împreună - mesele sunt momente bune pentru acestea.</div><div>&nbsp;</div><div>&nbsp;</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/family_gatherings.jpg",
+                      "alt": "Întâlniri de familie"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><h1>Întâlniri de familie</h1><div><div><div>Faceți împreună o agendă. Lucrați împreună ca o familie pentru a vedea dacă puteți găsi niște soluții pentru fiecare punct de pe ordinea zilei.</div></div></div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/does_your_child_have_a_hard_time_discussing_about_sentiments.jpg",
+                      "alt": "Copilului tău îi este greu să discute despre sentimente?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Copilului tău îi este greu să discute despre sentimente?</h1><div><div>Fă-ți timp pentru a oferi copilului tău atenția deplină și neîmpărțită. Ascultă-l cu respect și interes și evită să comentezi sau să judeci - lasă copilul să vorbească.</div><div>&nbsp;</div><div><div><div>Ajută-ți copilul să pună o etichetă sau un nume oricăror sentimente despre care îl auzi vorbind - cum ar fi fericit, trist, frică, entuziasmat, interesat.</div><div>&nbsp;</div><div><div><div>Nu trebuie să vorbești mereu. Uneori este suficient să fim împreună o vreme.</div></div></div></div></div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/do_you_have_a_young_child.jpg",
+                      "alt": "Ai un copil mic?"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<h1>Ai un copil mic?</h1><div><div>Sesame Street are un set foarte frumos de resurse pentru a ajuta copiii să facă față traumelor din familie:</div></div><div>&nbsp;</div>"
+                    },
+                    {
+                      "type": "button",
+                      "label": "Sesame Street Communities",
+                      "action": {
+                        "type": "external",
+                        "url": "https://sesamestreetincommunities.org/topics/traumatic-experiences"
+                      }
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/ask_what_they_think.jpg",
+                      "alt": "Încearcă să începi o conversație cu copiii tăi, întreabă ce părere au."
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Încearcă să începi o conversație cu copiii tăi, întreabă ce părere au.</h1><div><div>Cu copiii care pot înțelege, încearcă ceva de genul: \"M-am confruntat cu niște chestii dificile în ultima vreme și aș vrea să vorbesc cu tine câteva minute. Cum te simți în legătură cu felul în care au decurs lucrurile?\"</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/share_how_youre_feeling.jpg",
+                      "alt": "Încearcă să începi o conversație, împărtășește cum te simți."
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Încearcă să începi o conversație, împărtășește cum te simți.</h1><div><div>Dacă ești deschis să discuți despre cum te simți, încearcă să spui ceva de genul \"Am fost un pic trist în ultima vreme. Vreau să-ți spun puțin despre ce se întâmplă cu mine.\"</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/open_up.jpg",
+                      "alt": "Încearcă să începi o conversație, deschide-te."
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Încearcă să începi o conversație, deschide-te.</h1><div><div>Cu copiii mai mari, oferă un model de împărtășire a sentimentelor: \"Aș vrea să vorbesc cu tine despre niște lucruri grele..\"</div></div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/focus_on_strengths.jpg",
+                      "alt": "Concentrează-te pe calități"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><div><div><h1>Concentrează-te pe calități</h1></div></div><div>Acordă atenție punctelor forte ale copilului tău - spune-i că îl vezi într-o lumină pozitivă. Subliniază lucrurile pe care le face bine.</div></div>"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "image",
+                      "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/talk_with_childred_about_ptsd/give_kids_time_to_speak.jpg",
+                      "alt": "Oferă-le copiilor timp să vorbească"
+                    },
+                    {
+                      "type": "rich-text",
+                      "content": "<div><h1>Oferă-le copiilor timp să vorbească</h1><div><div><div>Întreabă-ți copilul despre grijile și preocupările sale, apoi acordă-i un moment lung pentru a răspunde, pentru a-i arăta că dorești cu adevărat ca el/ea să aibă o voce.</div></div></div></div>"
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "ecf87853-6c78-4a41-8256-12574ff5f605",
+          "label": "Impactul PTSD asupra copiilor",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/impact_of_ptsd_on_children.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/impact_of_ptsd_on_children.jpg",
+                "alt": "Impactul PTSD asupra copiilor"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Adaptarea la viața cu un părinte cu PTSD poate fi o provocare pentru copii și adolescenți. În timp ce mulți copii se adaptează bine, alții pot răspunde în moduri problematice, inclusiv:</div><ul><li>Acționând ca părintele lor, poate ca o modalitate de a încerca să stabilească o legătură mai strânsă cu ei. Acești copii ar putea prezenta unele dintre aceleași simptome ca și părintele cu PTSD, cum ar fi iritabilitate sau probleme cu somnul.</li><li>Asumarea de roluri și responsabilități de adulți pentru a ajuta părintele cu PTSD. Acest copil poate fi prea matur pentru vârsta lui. Acest lucru poate fi copleșitor pentru copil și îl poate împiedica să se comporte ca un copil de vârsta sa.</li><li>Are comportament de copil mic (cum ar fi udarea patului, crize de furie).</li><li>Se gândesc că ei sunt problema sau că ei sunt responsabili pentru comportamentul părintelui cu PTSD (cum ar fi \"nu s-ar supăra atât de mult dacă aș putea fi mai liniștit.\").</li><li>Experimentează simptome de depresie sau anxietate.</li><li>Au probleme la școală sau în relațiile cu prietenii.</li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "21d86333-ff99-4e2d-a582-881e6deba295",
+          "label": "Răspunsurile copiilor la simptomele PTSD",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/childrens_responses_to_ptsd_symptoms.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/childrens_responses_to_ptsd_symptoms.png",
+                "alt": "Răspunsurile copiilor la simptomele PTSD"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Reacțiile unui părinte la traumele din trecut pot afecta copiii în diferite moduri:</div><div>&nbsp;</div><div><div>Dacă: Părintele are coșmaruri supărătoare sau amintiri copleșitoare/flashback-uri, copiii pot:</div><div><ul><li>Să se simtă confuzi cu privire la ceea ce se întâmplă și motivul din cauza căruia se întâmplă</li><li>Să simtă frică dacă văd sau aud că părintele este foarte supărat sau speriat</li><li>Să își facă griji pentru bunăstarea părinților lor</li><li>Să își facă griji că părintele nu poate avea grijă de el în mod corespunzător</li></ul><div><div>Dacă: Părintele evită să iasă afară sau se izolează, copiii pot:</div><div><ul><li>Să ia acest lucru personal și să se îngrijoreze că părinților lor nu le pasă de ei de petrecerea timpului cu ei sau de implicarea în viața lor (cum ar fi jocurile sportive școlare ieșirile în familie)</li><li>Să se simtă neglijați</li><li>Să aibă sentimentele rănite sau să se simtă frustrați</li></ul><div><div>Dacă: Părintele este retras sau neinteresat, copiii pot:</div><div><ul><li>Să se gândească la faptul că părintele nu este interesat de ei sau nu îi iubește, chiar dacă părintele spune altceva</li><li>Să se simtă îngrijorați că părintele lor îi va părăsi pe ei sau familia</li></ul><div><div>Dacă: Părintele este iritabil, furios sau ușor frustrat, copiii pot:</div><ul><li>Să pună la îndoială dragostea părinților lor</li><li>Să se simtă încordați și anxioși în preajma părintelui</li><li>Pierde respectul pentru părintele lor</li></ul><div><div>Dacă: Părintele este hipervigilent, sensibil la pericol sau tresare ușor, copiii pot:</div><ul><li>Dezvolta niveluri de vigilență similare cu părinții lor și să se simtă foarte stresați</li><li>Să se simtă mai atenți la pericol</li></ul></div></div></div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "9e1fb374-29d9-46d2-a659-e59b4519cfd1",
+          "label": "Pot copiii să preia PTSD de la părinți?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/can_children_get_ptsd_from_their_parents.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/can_children_get_ptsd_from_their_parents.png",
+                "alt": "Pot copiii să preia PTSD de la părinți?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Deși nu este comun, este posibil ca și copiii persoanelor cu PTSD să prezinte semne de PTSD. Aceasta se numește \"traumatizare secundară\".</div><div>&nbsp;</div><div><div><div>Iată cum se poate întâmpla:</div><ul><li>Când o familie învață un copil să nu vorbească niciodată despre evenimente, gânduri sau sentimente tulburătoare, anxietatea copilului se poate agrava. S-ar putea să-și facă griji cu privire la cauzarea simptomelor părintelui, să-și inventeze propria poveste despre ceea ce s-a întâmplat</li><li>Uneori, părinții împărtășesc prea multe detalii despre evenimente. Copiii pot începe să aibă propriile lor simptome de PTSD ca răspuns</li><li>Un copil poate începe să împărtășească simptomele părintelui ca o modalitate de a se conecta cu părintele.</li><li>Copiii pot, de asemenea, reconstitui sau reface unele aspecte ale experienței traumatice pe care părintele lor a traversat-o. Uneori este dificil pentru copii să separe evenimentul traumatic din trecut de momentul prezent</li></ul></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "aa47a1bc-84a2-4964-944b-40209b259834",
+          "label": "Sprijinind copiii să facă față emoțiilor",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/helping_children_cope.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/helping_children_cope.jpg",
+                "content": "Sprijinind copiii să facă față emoțiilor"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Când PTSD afectează familia:</div><ul><li>Explică-le motivele dificultăților. A ști ce se întâmplă și de ce îi ajută pe copii să se simtă în siguranță</li><li>Cu toate acestea, ai grijă să nu împărtășești copilului prea multe detalii ale evenimentului (evenimentelor). Cât de multe spui depinde de vârsta și nivelul de maturitate al copilului tău</li><li>Ajută-i să vadă că simptomele PTSD și reacțiile la traumă nu sunt vina lor</li><li>Vorbiți împreună despre evenimente și experiențe conexe. Ascultă-le preocupările și acceptă-le sentimentele</li><li>Recunoaște că schimbarea este stresantă pentru copii, așa cum este pentru adulți și ai răbdare</li><li>Amintește-ți că ei pot avea diverse sentimente despre tine și despre PTSD. Se pot simți iubitori, îngrijorați și protectori și, uneori anxioși sau furioși</li><li>Ajută-i să învețe instrumente pentru a gestiona mai bine stresul. Exemplele includ:<ul><li>Alergarea sau exercițiile fizice pentru detensionare</li><li>Desenarea sau scrierea pentru auto-exprimare</li><li>Respirație profundă pentru a te relaxa</li></ul></li><li>Dă-le un jurnal pe care să-l țină despre aceste evenimente și despre sentimentele și experiențele lor</li><li>Implică-i în deciziile importante pentru ei ori de câte ori este posibil</li></ul></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b4deacc5-20ef-42c3-bac6-9b1f40c187a9",
+          "label": "Sfaturi pentru părinți",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/advice_for_parents.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/advice_for_parents.jpg",
+                "alt": "Sfaturi pentru părinți"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Iată câteva sfaturi pentru copiii care se adaptează la viața cu cineva cu PTSD.</div><div>&nbsp;</div><div><div>Educați-vă:</div><ul><li>Ambii părinți ar trebui să învețe despre modul în care PTSD-ul poate afecta copiii și despre răspunsurile comune ale copiilor în situația în care un părinte are PTSD</li><li>Fiți conștienți de faptul că cei mici ar putea avea nevoie de îngrijire suplimentară, atenție și apropiere în acest timp</li></ul><div><div>Asigură sprijin:</div><ul><li>Fă-ți timp pentru a face activități și a vorbi împreună. Ambii părinți ar trebui să asculte sentimentele și preocupările copiilor lor și să le ia în serios</li><li>Oferă sprijin și siguranță pentru întrebările și grijile lor</li><li>Oferiți copiilor informații la un nivel pe care îl pot înțelege despre PTSD și despre experiențele și schimbările părintelui lor cu PTSD pentru a ușura confuzia și teama de necunoscut</li><li>Încurajează și organizează activități (plimbări pentru a se detensiona, desenul și scrisul pentru a se exprima etc.) care îi ajută pe copii să gestioneze stresul</li></ul><div><div>Fii iubitor și pune limite clare:</div><ul><li>Fii iubitor, răbdător și atent, păstrând în același timp limite clare și consecvente</li><li>Înțelege că uneori, copiii pot să se manifeste și să se comporte necorespunzător și fii puțin mai îngăduitor cu ei în aceste situații.</li><li>Manifestările necorespunzătoare sunt un răspuns normal la stres, atâta timp cât nu devine frecvent sau nu provoacă probleme mai mari</li><li>Laudă comportamentul lor pozitiv și modalitățile sănătoase de a face față. Păstrează-ți întotdeauna atenția pe ceea ce apreciezi la ei</li><li>Dacă ești părintele cu PTSD, concentrează-te pe timp de calitate și distracție cu copiii și evită pedepsele, mai ales dacă ai fost capricios sau iritabil în ultima vreme</li></ul><div><div>Păstrează lucrurile în modul lor obișnuit:</div><ul><li>Menține rutinele de bază ale familiei, cum ar fi ritualurile de la cină și de la culcare</li><li>Asigură-te că școala și alte activități obișnuite sunt în continuare frecventate de copii</li></ul><div><div>Include-i:</div><div><ul><li>Implică-i pe copii în activitățile de familie. Păstrează distracția în weekend cu activități pentru copii</li><li>Rămâi implicat în activitățile școlare și sociale ale copiilor tăi</li><li>Întreabă-i despre interesele lor și ascultă-i fără a judeca sau tachina</li></ul></div></div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f601d41a-39d0-4cf2-b9d1-9869ff40dc64",
+          "label": "Copiii mei sunt bine? Când să caut ajutor din exterior?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/are_my_kids_ok_when_to_seek_outside_help.jpg",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/are_my_kids_ok_when_to_seek_outside_help.jpg",
+                "alt": "Copiii mei sunt bine? Când să caut ajutor din exterior?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Dacă copilul sau adolescentul tău pare să aibă dificultăți în a se adapta la PTSD, nu ezita să contactezi medicul tău sau un specialist în sănătate mintală pentru sprijin. Iată câteva lucruri la care trebuie să fii atent:</div><div><ul><li>Dificultăți de concentrare sau implicare în sarcinile și activitățile școlare</li><li>Răspunsuri emoționale intense, cum ar fi plânsul continuu, tristețea intensă sau starea de spirit scăzută</li><li>Depresie, sau necomunicare</li><li>Exprimarea sentimentelor violente sau deprimate în desene</li><li>Pierdere sau creștere semnificativă în greutate, sau lipsă de atenție la igienă</li><li>Schimbări mari în activitatea socială sau prietenii</li><li>Consumul de droguri sau alcool</li></ul><div><div>Te rugăm să cauți ajutor imediat dacă copilul tău se rănește sau se taie în mod intenționat, pare să fie în pericol de a-i răni pe alții sau își exprimă gânduri suicidare.</div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1bd3fc6d-71ea-4f33-9054-b763a0e43b2f",
+          "label": "Copilul meu ar trebui să urmeze sesiuni de consiliere individuală?",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/should_my_child_have_individual_counseling.png",
+          "content": {
+            "sections": [
+              {
+                "type": "image",
+                "src": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/ptsd_and_family/should_my_child_have_individual_counseling.png",
+                "alt": "Copilul meu ar trebui să urmeze sesiuni de consiliere individuală?"
+              },
+              {
+                "type": "rich-text",
+                "content": "<div><div>Copiii pot beneficia de consiliere individuală sau terapie de familie.</div><div>&nbsp;</div><div><div><div>Terapia de familie îi ajută pe membrii familiei să învețe cum să facă față, să comunice și să se înțeleagă atunci când sunt stresați.</div><div>&nbsp;</div><div><div><div>Terapia individuală oferă copiilor un loc privat despre care să vorbească și să învețe să facă față experiențelor lor.</div></div></div></div></div></div>"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

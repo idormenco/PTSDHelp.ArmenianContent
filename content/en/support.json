@@ -1,0 +1,205 @@
+{
+  "lastUpdatedAt": "2025-10-20T18:00:00Z",
+  "title": "Support",
+  "pages": [
+    {
+      "id": "a82f310c-5de9-4342-99a8-25eef443a712",
+      "type": "topic",
+      "label": "Resurse de criză",
+      "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/support/crisis_resources.png",
+      "content": {
+        "sections": [
+          {
+            "type": "rich-text",
+            "content": "<div>Pentru orice criză, inclusiv urgențe medicale, mergi la cea mai apropiată cameră de gardă sau sună la:</div>"
+          },
+          {
+            "type": "button",
+            "label": "112",
+            "action": {
+              "type": "phone",
+              "number": "112"
+            }
+          },
+          {
+            "type": "rich-text",
+            "content": "<div>Alianța Română de Prevenție a Suicidului:</div>"
+          },
+          {
+            "type": "button",
+            "label": "Sună la 0800-801-200",
+            "action": {
+              "type": "phone",
+              "number": "0800801200"
+            }
+          },
+          {
+            "type": "rich-text",
+            "content": "<div>Număr unic naţional de urgenţă pentru victimele violenței domestice:</div>"
+          },
+          {
+            "type": "button",
+            "label": "Sună la 0800-500-333",
+            "action": {
+              "type": "phone",
+              "number": "0800500333"
+            }
+          },
+          {
+            "type": "rich-text",
+            "content": "<div>Contacte personale:</div>"
+          },
+          {
+            "type": "contact",
+            "label": "Contacte personale"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a243e909-a625-4dc4-b545-0ae5493801cd",
+      "type": "topic",
+      "label": "Găsește îngrijire profesională",
+      "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/support/find_professional_care.png",
+      "content": {
+        "sections": [
+          {
+            "type": "rich-text",
+            "content": "<div>&nbsp;</div><div>Contacte utile pentru situații critice:</div><ul><li>Dacă te afli într-o situație critică și simți nevoia să ceri ajutor, atunci nu mai sta pe gânduri și apelează fie serviciul de urgențe, fie unul dintre serviciile disponibile pentru situația în care te afli:</li></ul>"
+          },
+          {
+            "type": "button",
+            "label": "Găsește un contact util",
+            "action": {
+              "type": "external",
+              "url": "https://sanatateamintala.ro/ro/pentru-urgente"
+            }
+          },
+          {
+            "type": "button",
+            "label": "DepreHub.ro",
+            "action": {
+              "type": "external",
+              "url": "https://deprehub.ro/psihoterapie-gratuita"
+            }
+          },
+          {
+            "type": "button",
+            "label": "Sună la 0-374-456-420",
+            "action": {
+              "type": "phone",
+              "number": "0374456420"
+            }
+          },
+          {
+            "type": "rich-text",
+            "content": "<div>Contactează Alianța Română de Prevenție a Suicidului:</div>"
+          },
+          {
+            "type": "button",
+            "label": "Alianța Română de Prevenție a Suicidului",
+            "action": {
+              "type": "phone",
+              "number": "0800801200"
+            }
+          },
+          {
+            "type": "rich-text",
+            "content": "<div>Pentru consiliere în situații de criză suicidară poți trimite un email 24/7 la sos@antisuicid.ro<div><ul><li><div><div>Centrala telefonică a Spitalului Obregia, de luni până vineri între 8:00 - 16:00</div></div></li></ul>"
+          },
+          {
+            "type": "button",
+            "label": "Sună la 0213-320-411",
+            "action": {
+              "type": "phone",
+              "number": "0213320411"
+            }
+          },
+          {
+            "type": "rich-text",
+            "content": "<ul><li>Camera de gardă pentru Psihiatrie adulți - Spitalul Obregia</li></ul>"
+          },
+          {
+            "type": "button",
+            "label": "Sună la camera de gardă",
+            "action": {
+              "type": "phone",
+              "number": "0770415316"
+            }
+          },
+          {
+            "type": "rich-text",
+            "content": "<ul><li>Centrul Social Together for Humanity din București oferă consiliere psihologică gratuită pentru cazuri sociale care nu se află într-o situație de criză psihologică</li></ul>"
+          },
+          {
+            "type": "button",
+            "label": "Centrul Social Together for Humanity",
+            "action": {
+              "type": "external",
+              "url": "https://www.centrulsocialtfh.ro/cere-ajutor"
+            }
+          },
+          {
+            "type": "rich-text",
+            "content": "<ul><li>Numărul unic 119 destinat semnalării cazurilor de abuz, exploatare, neglijare copilului.</li></ul>"
+          },
+          {
+            "type": "button",
+            "label": "Sună la 119",
+            "action": {
+              "type": "phone",
+              "number": "119"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "c7027a84-6049-4275-8bd2-638461817881",
+      "type": "category",
+      "label": "Mărește-ți grupul de sprijin",
+      "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/support/grow_your_support.png",
+      "topics": [
+        {
+          "id": "2f1c9083-72af-4d08-a3da-0e8fec54ffaf",
+          "label": "Cineva în care ai încredere",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/support/someone_you_trust.png",
+          "content": {
+            "sections": [
+              {
+                "type": "rich-text",
+                "content": "<p>&nbsp;</p><p>A avea pe cineva în care poți avea încredere și față de care să te deschizi este un dar. Nu înseamnă că acea persoană trebuie să fie perfectă - doar că te simți destul de confortabil să împărtășești cu ea experiența ta și să știi că este în regulă să fii tu însuți.</p><p>&nbsp;</p><p>Ia un moment pentru a aprecia faptul că ai pe cineva în care poți avea încredere. Studiile arată că exprimarea aprecierii sau recunoștinței față de o altă persoană poate ajuta să-ți îmbunătățească starea de spirit. Există cineva în viața ta pe care poți să-l suni sau să-i trimiți un mesaj în mod spontan?</p><p>&nbsp;</p><p>Doar a purta o conversație cu cineva în care ai încredere poate fi de multe ori foarte util. Sună sau vizitează un prieten sau un membru al familiei, și dacă te simți aventuros, deschide-te puțin mai mult decât de obicei.</p>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "951050f0-ddb5-4e7d-aec3-aaea6199786e",
+          "label": "Mă simt singur",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/support/you_feel_alone.png",
+          "content": {
+            "sections": [
+              {
+                "type": "rich-text",
+                "content": "<div><div>&nbsp;</div><div>Sentimentul de singurătate sau izolare este o experiență comună. Toată lumea se simte astfel uneori, și este deosebit de frecvent în cazul celor care au trecut prin experiențe traumatice. Poate fi uneori dificil să te conectezi cu alții sau să te simți înțeles de către ei. Poți chiar să te simți iritat sau enervat când ești în preajma altora.</div><div>&nbsp;</div><div><div><div>În primul rând, este important să recunoști că trăirea unei experiențe traumatice poate duce adesea la evitarea altor persoane - fie că ești nesigur sau te temi cum vor reacționa ei, ești nesigur de cum te vei comporta în preajma lor sau pur și simplu vrei să fii singur.</div><div>&nbsp;</div><div><div><div>Dacă te simți singur sau izolat, este foarte important să încerci să te conectezi cu alții și să găsești persoane cu care să te poți conecta și petrece timp împreună.</div><div>&nbsp;</div><div><div><div>Pentru a începe să te conectezi cu alții, ia în considerare una dintre următoarele opțiuni:</div><ul><li>Sună sau trimite un mesaj unui prieten cu care nu ai mai vorbit de mult timp</li><li>Alătură-te unui grup de întâlniri pe baza unui hobby sau interes al tău</li><li>Dacă ești religios, participă la o slujbă sau la o întâlnire de grup</li><li>Indiferent cât de mic, încearcă să faci astăzi un lucru frumos pentru o altă persoană</li><li>Fii primul care inițiază o conversație data viitoare când ești în preajma cuiva cu care altfel nu ai vorbi</li><li>Zâmbește și spune bună ziua cuiva într-o situație în care, de obicei, nu ai face asta</li><li>Scrie o scrisoare sau trimite un email unei persoane dragi</li><li>Fă voluntariat la o organizație caritabilă locală</li><li>Surprinde pe cineva cu un mic cadou sau ajută-l cu ceva</li></ul></div></div></div></div></div></div></div>"
+              }
+            ]
+          }
+        },
+        {
+          "id": "44da46f7-2aaf-400b-baae-41baa5d5f3f9",
+          "label": "Mărește-ți grupul de sprijin",
+          "icon": "https://ptsdhelp-cms-test.s3.eu-central-1.amazonaws.com/content/assets/support/grow_your_support.png",
+          "content": {
+            "sections": [
+              {
+                "type": "rich-text",
+                "content": "<div><div>&nbsp;</div><div>A avea sprijin sănătos și satisfăcător din partea altor persoane din viața ta este important pentru a avea o bună calitate a vieții. Dacă deja ai cel puțin un fel de sprijin, te descurci bine.</div><div>&nbsp;</div><div><div><div>A avea relații și prietenii satisfăcătoare cu alții necesită puțin efort - arătându-le celor pe care îi iubești că le acorzi timp și că ești interesat de ei.</div><div>&nbsp;</div><div><div><div>Să investești timp în relațiile existente poate aduce beneficii - probabil te vei simți mai bine, iar legăturile cu persoanele pe care deja le iubești se vor întări.</div><div>&nbsp;</div><div><div><div>Pentru a-ți dezvolta sprijinul existent, încearcă una dintre următoarele:</div><ul><li>Sună un prieten și invită-l să faceți ceva împreună săptămâna aceasta.</li><li>Cere unui membru al familiei să petreacă timp de calitate cu tine, făcând ceva ce vă bucură pe amândoi.</li><li>Petrece timp cu un prieten sau membru al familiei făcând ceva ce știi că le face plăcere, chiar dacă tu nu ești la fel de entuziasmat.</li><li>Poartă o conversație cu cineva căruia îi pasă de tine și acordă-le întreaga ta atenție - pe măsură ce cealaltă persoană vorbește cu tine, încearcă să te asiguri că înțelegi cu adevărat ce spune.</li><li>Conectează-te cu alte persoane care au avut experiențe similare cu ale tale.</li></ul></div></div></div></div></div></div></div>"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

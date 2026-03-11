@@ -1,0 +1,2175 @@
+{
+  "list": {
+    "relationships": "Relationships",
+    "reconnect-with-partner": "Reconnect with your partner",
+    "positive-communication": "Positive Communication",
+    "healthy-arguments": "Healthy Arguments",
+    "i-messages": "I Messages",
+    "mindfulness": "Mindfulness",
+    "ambient-sounds": "Ambient Sounds",
+    "conscious-breathing": "Conscious Breathing",
+    "mindful-walking": "Mindful Walking",
+    "emotional-discomfort": "Emotional Discomfort",
+    "sense-awareness": "Sense Awareness",
+    "loving-kindness": "Loving Kindness",
+    "my-feelings": "My Feelings",
+    "sleep": "Sleep Instruments",
+    "sleep-help": "Help to sleep",
+    "sleep-habits": "Good sleep habits",
+    "sleep-perspective": "Change sleep perspective",
+    "worry-time": "Worry Time",
+    "rid": "RID",
+    "muscle-relaxation": "Muscle Relaxation",
+    "deep-breathing": "Deep Breathing",
+    "body-scan": "Body Scan",
+    "julia": "Julia",
+    "robyn": "Robyn",
+    "forest": "Forest",
+    "country-road": "Country Road",
+    "beach": "Beach",
+    "positive-imagery": "Positive Imagery",
+    "my-strengths": "My Strengths",
+    "shift-thoughts": "Shift Thoughts",
+    "soothe-senses": "Soothe The Senses",
+    "connect-with-others": "Connect With Others",
+    "change-perspective": "Change Your Perspective",
+    "grounding": "Grounding",
+    "quotes": "Inspirational Quotes",
+    "recreational-activities": "Recreational Activities",
+    "recreational-activities-alone": "Recreational Activities: Time Spent Alone",
+    "recreational-activities-city": "Recreational Activities: In The City",
+    "recreational-activities-nature": "Recreational Activities: In Nature"
+  },
+  "symptoms": {
+    "reminded_of_trauma": "Reminded of Trauma",
+    "avoiding_triggers": "Avoiding Triggers",
+    "disconnected_from_people": "Disconnected from People",
+    "disconnected_from_reality": "Disconnected from Reality",
+    "sad_hopeless": "Sad/Hopeless",
+    "worried_anxious": "Worried/Anxious",
+    "angry": "Angry",
+    "sleep_problems": "Sleep Problems"
+  },
+  "relationships": {
+    "title": "Relationships",
+    "description": "Tools to help improve your relationships with loved ones",
+    "tools": {
+      "i-messages": {
+        "title": "Using 'I' messages",
+        "add-message": "Add 'I' message",
+        "find-time": "Find time to share these messages with your partner.",
+        "text": "Messages that start with 'I' help reduce conflicts in relationships, while also communicating your needs. Exercise creating messages that start with 'I', which you can use in your daily interactions.",
+        "when": "When my loved one",
+        "feel": "I feel",
+        "because": "because",
+        "new-message": {
+          "title": "New 'I' message",
+          "save": "Save",
+          "annoyance": {
+            "label": "What's something that your partner does that truly annoys you?",
+            "placeholder": "Something that my partner does that annoys me is...",
+            "example": "Example: Drinks a lot and then gets angry"
+          },
+          "declaration": "Now, use the textarea below to create a statement that tells your partner how you feel. Don't forget to start with 'I', write how you feel and then try to explain what makes you feel this way. Try to avoid using the word 'you', in this case (we know it can be difficult!).",
+          "i-feel": {
+            "label": "When my partner does this, I feel...",
+            "placeholder": "I feel...",
+            "example": "Example: sad and disappointed"
+          },
+          "because-input": {
+            "label": "Because...",
+            "placeholder": "Because...",
+            "example": "Example: Because I am worried about the future"
+          }
+        },
+        "edit": {
+          "title": "Edit 'I' message"
+        }
+      },
+      "reconnect-with-partner": {
+        "title": "Reconnect with your partner",
+        "helper": "Try these strategies - either on your own or, better, with your partner!",
+        "repeater": [
+          {
+            "title": "Notice The Nice Things",
+            "description": "Notice 1 thing about your partner, every day for one week. It can be as simple as noticing a new hair style or a small gesture of love or support. Take a moment to share whatever you've noticed with your partner.",
+            "calendar": "Notice something nice about my partner"
+          },
+          {
+            "title": "Notice the Nice Things Together",
+            "description": "Challenge your partner to see if you can both notice, and comment on, once nice thing about one another every day for a week.",
+            "sms": "I'm making a commitment to notice something nice about you for the next week. Will you try to do the same for me?"
+          },
+          {
+            "title": "Be Affectionate",
+            "description": "Give your spouse or partner a hug or hold their hand at a time you normally wouldn't. Try to show your partner a small act of physical affection in a way you think he or she might appreciate.",
+            "calendar": "Hug or hold my partner's hand"
+          },
+          {
+            "title": "Be Affectionate Together",
+            "description": "Challenge your partner to make a commitment to hug or hold hands at least once a day for the next week.",
+            "sms": "I'd like us to make a commitment to try to hug or hold hands at least once a day this week. Can we try to do this together and see what happens?"
+          },
+          {
+            "title": "Acts of Service",
+            "description": "Find a small act of service that you can provide your partner. Something that they need to do or have done that you could take care of instead. Just one thing, even something small like taking out the garbage.",
+            "calendar": "Do at least one thing today that is helpful to my partner"
+          },
+          {
+            "title": "Acts of Service Together",
+            "description": "Challenge your partner to make a commitment to perform one small act of service for one another each day.",
+            "sms": "I'd like us to make a commitment to try to do at least one thing each day that is helpful to the other person. Will you join me on this?"
+          },
+          {
+            "title": "Volunteering Together",
+            "description": "Do something together to help the larger community!"
+          },
+          {
+            "title": "Who I Want to Be",
+            "description": "Take a moment to come up with 3 words you would use to describe yourself as the partner you would ideally like to be. Maybe \"compassionate\" or \"fun\" or \"relaxed\" or something totally different! Write the words down and then over the next week, practice living those qualities as best you can. Notice how it feels."
+          },
+          {
+            "title": "Reflecting on your Partner",
+            "description": "Spend a few minutes reflecting on these questions:\n\n- What did you find most attractive about your partner when you first met, besides looks?\n- What personal qualities did you most admire about your partner when you first met them?\n- What do you see as your partner's greatest strengths?"
+          },
+          {
+            "title": "Show Your Support",
+            "description": "Focus on showing your partner that you're on their side. If your partner is upset about something, try to find ways to take their side and express your support."
+          },
+          {
+            "title": "Act of Service",
+            "description": "Perform a substantial act of service for your partner. Go out of your way to find something helpful to do for them - something you think they are likely to really appreciate.",
+            "calendar": "Perform an act of service for my partner"
+          },
+          {
+            "title": "Cultivate Appreciation",
+            "description": "Spend 10 minutes sitting alone in a quiet sport. Close your eyes and try to generate a sense of warmth and appreciation for your partner. Think about their positive qualities. What happens when you take time to reflect on their strengths or positive qualities?"
+          },
+          {
+            "title": "Acting as a Team",
+            "description": "Let your partner know that you're on a team and you can take things on together. This could be talking about your future, planning a future activity together, or taking on a small challenge together.",
+            "calendar": "Plan a future activity with my partner"
+          },
+          {
+            "title": "Letting Go of Judgment",
+            "description": "Designate 5 minutes to focus on trying not to judge your partner. See how it feels to let any judgment go for a few minutes."
+          },
+          {
+            "title": "Giving a Small Gift",
+            "description": "Surprise your partner with a small gift - it could be anything: a short note, your time, flowers, or anything that's quick, easy, and shows you care.",
+            "calendar": "Get a small gift for my partner"
+          },
+          {
+            "title": "Express Appreciation",
+            "description": "Express your appreciation for your partner each time they do something that makes you feel good, feel appreciated, or makes your life easier!"
+          },
+          {
+            "title": "Stop Keeping Score",
+            "description": "If you find yourself keeping track of how much you do for your partner without receiving anything in return, try to stop \"keeping score\" for at least one day. Sometimes, letting go of expectations can make it easier to re-connect, even if only for short periods of time."
+          },
+          {
+            "title": "Practice Non-Judgment",
+            "description": "If you and your partner are in the middle of a conflict, try not to judge them for the entire conversation. This is tough to do! The important thing is to work toward non-judgment, and if you're having a hard time, that's okay."
+          },
+          {
+            "title": "Surprise Date",
+            "description": "Surprise your partner with a planned activity or date. This could be something small like going for a walk or watching a movie together.",
+            "calendar": "Surprise my partner with an activity together"
+          },
+          {
+            "title": "Reliving Fun Times",
+            "description": "Think of a short activity (or conversation topic) that you and your partner did together when you first met. Choose something neutral, that's not likely to cause conflict and ask if they would like to make time to try it again."
+          },
+          {
+            "title": "Remind Yourself of the Positives",
+            "description": "Make a list of all the positive qualities your partner has. Keep the list somewhere you'll see it and add to it every time you think of something new."
+          }
+        ]
+      },
+      "positive-communication": {
+        "title": "Positive Communication",
+        "helper": "Positive communication is the key to every good relationship. You may already be doing some of these, but consider trying out some of these suggestions to strengthen your relationship:",
+        "repeater": [
+          {
+            "title": "Overcome your automatic negative thoughts",
+            "description": "Think about positive things about your partner"
+          },
+          {
+            "title": "Start a conversation with your partner",
+            "description": "Talk about your feelings and thoughts with your partner"
+          },
+          {
+            "title": "Show Love",
+            "description": "Tell your loved one about 1 thing that you love or appreciate about them. Send a text or leave a note where you know they'll find it.\n\nDo it right now, if you can!"
+          },
+          {
+            "title": "Show Admiration",
+            "description": "Tell your loved one 1 thing you admire about him or her."
+          },
+          {
+            "title": "Start a Conversation",
+            "description": "Plan and start a conversation with your loved one about something that you know interests you both."
+          },
+          {
+            "title": "First Impressions",
+            "description": "Can you remember your earliest impressions of your loved one? Without making comparisons to the present, share with your loved one what you first liked and appreciated about them after you met or really got to know one another."
+          },
+          {
+            "title": "Shared Values",
+            "description": "What's at least one shared goal or value that you have in common with your loved one? Ask your loved one about their goals for the next month or year and how you can help meet that goal."
+          },
+          {
+            "title": "Contributions",
+            "description": "Spend 2 minutes thinking about this: what's at least one thing your loved one does to contribute to the relationship you have with him or her? Try to identify at least one thing, even if it's small."
+          },
+          {
+            "title": "Just Listen",
+            "description": "Ask your loved one to tell you about the best part of their day and the hardest part of their day. Focus on listening.\n\nAcknowledge what your loved one says without trying to solve anything."
+          },
+          {
+            "title": "Overcoming Challenges",
+            "description": "Think about a time in your relationship with your loved one when you had to overcome something difficult together."
+          },
+          {
+            "title": "Next Time you Talk",
+            "description": "Try to turn a few minutes with your loved one into a positive conversation- talk more than usually would about something you have in common."
+          },
+          {
+            "title": "Listen Openly",
+            "description": "Plan a conversation about whatever your loved one would like to talk about that interests them. Listen as openly as you can. Don't change the subject!"
+          },
+          {
+            "title": "Share Their Interests",
+            "description": "Plan and start a conversation with your loved one about something you know is interesting to them but normally isn't interesting to you."
+          },
+          {
+            "title": "Noticing Niceness",
+            "description": "Find something nice, however big or small, that your loved one did recently. Share it with your loved one and tell him or her how it made you feel."
+          },
+          {
+            "title": "Making Rituals",
+            "description": "Ask your loved one to start, or honor, a daily or weekly ritual with you. A ritual can be anything- a phone call, a meal, a hug, or anything else that you can share together."
+          },
+          {
+            "title": "Sharing Problems",
+            "description": "Ask your loved one what they want you to do next time they're sharing a problem with you.\n\nTry saying this: \"Would you like for me to listen or would you like some advice?\" Don't give advice if your loved one doesn't want it."
+          },
+          {
+            "title": "Fun Experiences",
+            "description": "Try to remember a fun experience that you shared with your loved one.\n\nPlan a fun activity and try to re-create that experience."
+          },
+          {
+            "title": "Favorite Experiences",
+            "description": "Spend some time reminiscing with your loved one about some of your favorite experiences together."
+          },
+          {
+            "title": "Write a Letter",
+            "description": "Write a letter to your loved one telling them what they mean to you, why you love them, or your hopes for the future with them.\n\nMake sure you give the letter to your loved one!"
+          },
+          {
+            "title": "Leave a Note",
+            "description": "Leave a note where your loved one can find it that says \"I love when you…\" and then fill in the blank!"
+          }
+        ]
+      },
+      "healthy-arguments": {
+        "title": "Healthy Arguments",
+        "helper": "Every relationship has its conflicts. Here are a few strategies that you can try when you find yourself in an argument with your partner.",
+        "repeater": [
+          {
+            "title": "Managing 'Sensitive Topics'",
+            "description": "Approach sensitive topics carefully. Make sure you feel calm enough. Take time to reflect and choose your words more carefully!"
+          },
+          {
+            "title": "How to spend a break outside of conflict",
+            "description": "Find something relaxing to do, like a walk, talk to a friend, exercise or read."
+          },
+          {
+            "title": "How to spend a break outside of conflict",
+            "description": "Which are the activities you and your partner can do together that don't involve talking?"
+          },
+          {
+            "title": "Take a break",
+            "description": "Make sure you have favourite activities that relax and soothe you. Spend time doing things that you like instead of reliving the conflict."
+          },
+          {
+            "title": "Have a break",
+            "description": "Here's what you can say to your partner: 'I care about this problem and I want to fix it. I just need time to think and I'll be back when I have a clear head.'"
+          },
+          {
+            "title": "Have perspective",
+            "description": "Every relationship has its conflicts. Tolerating or dealing with them successfully, even if they're small, is a way of consolidating the relationship."
+          },
+          {
+            "title": "Try not to criticize your partner",
+            "description": "Critique can make you feel judged or rejected and it's not the best way of driving change. Instead of criticizing your partner, use the affirmations that contain 'I' for expressing your feelings."
+          },
+          {
+            "title": "Feeling guilty?",
+            "description": "Try not to be defensive if you feel blamed by your loved one. Try to understand what they need from you before responding or trying to defend yourself."
+          },
+          {
+            "title": "Ask and offer respect",
+            "description": "In any conflict, there needs to be a basic level of trust and respect for each other. Don't tolerate insults, ridicule, disrespect or disgust. Take a break if you feel disrespected."
+          },
+          {
+            "title": "Be there for your partner",
+            "description": "Don't run away from a conflict, unless one of you needs to take a break."
+          },
+          {
+            "title": "Practice understanding",
+            "description": "Slow down and listen - don't interrupt."
+          },
+          {
+            "title": "Practice understanding",
+            "description": "Focus on your partner's words and body language."
+          },
+          {
+            "title": "Practice understanding",
+            "description": "Show interest, even during a conflict."
+          },
+          {
+            "title": "Accept your partner",
+            "description": "Give your loved one the benefit of the doubt."
+          },
+          {
+            "title": "Accept your partner",
+            "description": "Try not to judge."
+          },
+          {
+            "title": "Understand your partner",
+            "description": "Use your own words to repeat what you think your loved one is really trying to say."
+          },
+          {
+            "title": "Understand your partner",
+            "description": "Don't read minds. Don't assume you know what your loved one is thinking."
+          },
+          {
+            "title": "Understand your partner",
+            "description": "Make sure your loved one knows you can't read their mind, and ask them to help you understand their needs through open conversation."
+          },
+          {
+            "title": "Understand your partner",
+            "description": "Trying to understand how your loved one feels doesn't mean you have to agree with them. Understanding their perspective is key to moving the discussion forward."
+          },
+          {
+            "title": "Understand your partner",
+            "description": "Ask as many questions as possible. Make sure you understand what your loved one is telling you. Correct yourself when you make mistakes."
+          },
+          {
+            "title": "When your partner is angry",
+            "description": "Always make sure you are safe. If needed, don't hesitate to call 911."
+          },
+          {
+            "title": "When you're angry",
+            "description": "Stop and take a deep breath."
+          },
+          {
+            "title": "When you're angry",
+            "description": "Take a break. Leave the difficult situation until you can resume the conversation when you're not angry."
+          },
+          {
+            "title": "When you're angry",
+            "description": "Discuss with your partner in advance about when to take breaks during a certain conflict or disagreement."
+          },
+          {
+            "title": "When your partner is angry",
+            "description": "Stop and take a deep breath. Ask your loved one to do the same."
+          },
+          {
+            "title": "If you take a break",
+            "description": "When both of you feel less angry, try to resume the conversation and find a solution that works for both of you."
+          },
+          {
+            "title": "When your partner is angry",
+            "description": "Try to recognize the triggers or warning signs for anger. Make a plan for what you will do when you notice one of these triggers or signs."
+          },
+          {
+            "title": "When you're angry",
+            "description": "Try to recognize your own triggers or warning signs for anger. Make a plan for what you will do when you notice one of these triggers or signs."
+          },
+          {
+            "title": "Know your 'Sensitive Topics'",
+            "description": "What are the things that come up and cause tension and conflict with your loved one? When they come up, treat 'sensitive topics' with care."
+          }
+        ]
+      }
+    },
+    "common": {
+      "start": "Start",
+      "next": "Next",
+      "previous": "Previous",
+      "finish": "Finish",
+      "save": "Save",
+      "cancel": "Cancel"
+    }
+  },
+  "ambient-sounds": {
+    "select": "Select an audio to play",
+    "beach": "Beach",
+    "birds": "Birds",
+    "country-road": "Country Road",
+    "crickets": "Crickets",
+    "dripping-water": "Dripping Water",
+    "forest": "Forest",
+    "frogs": "Frogs",
+    "marsh": "Marsh",
+    "public-pool": "Public Pool",
+    "rain": "Rain",
+    "running-water": "Running Water",
+    "stream-water": "Stream Water",
+    "waterfall": "Waterfall",
+    "wind": "Wind"
+  },
+  "mindfulness": {
+    "conscious-breathing": {
+      "description": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed.\n\nPlease note that there will be pauses in the audio so you can practice without distraction.\n\nTime: About 9 minutes.",
+      "action-btn-label": "Continue",
+      "done": "Done"
+    },
+    "mindful-walking": {
+      "description": "For this exercise, you can walk around the house, the yard, in the neighborhood, in a park or wherever you feel safe and comfortable. Try to not speak during the walk, so that you can focus on your feelings and your mind.\n\nPlease note that there will be pauses in the audio so you can practice without distraction.\n\nTime: About 6 minutes.",
+      "action-btn-label": "Continue",
+      "done": "Done"
+    },
+    "emotional-discomfort": {
+      "description": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed.\n\nPlease note that there will be pauses in the audio so you can practice without distraction.\n\nTime: About 7 minutes.",
+      "action-btn-label": "Continue",
+      "done": "Done"
+    },
+    "sense-awareness": {
+      "description": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed.\n\nPlease note that there will be pauses in the audio so you can practice without distraction.\n\nTime: About 11 minutes.",
+      "action-btn-label": "Continue",
+      "done": "Done"
+    },
+    "loving-kindness": {
+      "description": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed.\n\nPlease note that there will be pauses in the audio so you can practice without distraction.\n\nTime: About 10 minutes.",
+      "action-btn-label": "Continue",
+      "done": "Done"
+    }
+  },
+  "sleep": {
+    "title": "Help to sleep",
+    "repeater": [
+      {
+        "title": "Only go to bed when you feel sleepy."
+      },
+      {
+        "title": "If you lie in bed for 20 minutes and still can't sleep, get up and do something else (without exposing yourself to bright light or computer/phone/TV screens)."
+      },
+      {
+        "title": "Listen to relaxing music."
+      },
+      {
+        "title": "Read something calming."
+      },
+      {
+        "title": "Drink a cup of decaffeinated tea."
+      },
+      {
+        "title": "Drink a cup of warm milk."
+      },
+      {
+        "title": "Breathe slowly and deeply through your nose - do this for 10 minutes. You can use the breathing tool in this app if you wish."
+      },
+      {
+        "title": "Eat a light snack if you're hungry - something with little or no sugar and no alcohol."
+      },
+      {
+        "title": "Make sure the room temperature is cool."
+      },
+      {
+        "title": "Try wearing earplugs if there is noise around you."
+      },
+      {
+        "title": "If there is light around, try sleeping with an eye mask."
+      },
+      {
+        "title": "Make sure the room is dark."
+      },
+      {
+        "title": "Try taking a warm bath an hour or 2 before bedtime."
+      },
+      {
+        "title": "Make sure you are comfortable and your clothes aren't uncomfortable."
+      },
+      {
+        "title": "Avoid looking at the clock."
+      },
+      {
+        "title": "Let your mind wander. Don't focus too much on the process of falling asleep."
+      },
+      {
+        "title": "If you feel worried, get up and write down your worries, then try to let them go."
+      },
+      {
+        "title": "Imagine a safe and peaceful place: picture yourself by a river, lake or in a meadow. Imagine the whole scene, the sights, sounds and smells, while you relax. You can use the positive imagery tool in this app if you wish."
+      },
+      {
+        "title": "Feel all your body muscles relaxed, as if they've sunk into the mattress. You can use the progressive muscle relaxation tool in this app if you wish."
+      },
+      {
+        "title": "Avoid nicotine, caffeine and alcohol in the evening."
+      },
+      {
+        "title": "Avoid too much salt in food. This can make you wake up thirsty throughout the night."
+      },
+      {
+        "title": "Turn off the computer or TV 30 minutes before bedtime."
+      },
+      {
+        "title": "Create a relaxing bedtime routine."
+      },
+      {
+        "title": "Get up and drink a glass of water."
+      },
+      {
+        "title": "Make sure the sheets are clean and the pillow and mattress are comfortable."
+      },
+      {
+        "title": "Try not to worry about not falling asleep. Keep trying to relax."
+      }
+    ],
+    "sleep-habits": {
+      "title": "Good Sleep Habits",
+      "info": "Info",
+      "description": "Incorporating new habits into your nighttime routine can help achieve smoother sleep. Use the following tools to shape your current schedule into one that leads to quality sleep.",
+      "save": "Save",
+      "list": {
+        "relaxing-activities": "Relaxing Activities",
+        "awake-activities": "Activities to Stay Awake",
+        "no-sleep-activities": "Activities When I Can't Sleep",
+        "wake-up-activities": "Activities to Help Me Wake Up"
+      },
+      "relaxing-activities": {
+        "description": "Having time to relax before going to bed can help calm your mind and body. This time is a transition between daily activities and bedtime. Read the activities below to explore some ideas for things to do during relaxation time. If an activity continues to work for you, we recommend tapping the star next to it to mark it as a favorite.",
+        "info": "Including relaxation time in your sleep routine can help sleep come more easily. View the activity suggestions to find ways to engage in calming activities that prepare you for sleep.",
+        "reminder-title": "Relaxing activity for sleep",
+        "reminder-body": "Use a relaxing activity for sleep to help you fall asleep easier.",
+        "reminder-time": "Daily",
+        "list": [
+          {
+            "id": 1,
+            "text": "Choose clothes to wear tomorrow"
+          },
+          {
+            "id": 2,
+            "text": "Prepare lunch for tomorrow"
+          },
+          {
+            "id": 3,
+            "text": "Prepare dinner for tomorrow and put it in the fridge"
+          },
+          {
+            "id": 4,
+            "text": "Take a long bath or shower"
+          },
+          {
+            "id": 5,
+            "text": "Write thank you notes or short messages to friends"
+          },
+          {
+            "id": 6,
+            "text": "Browse the internet (only non-stressful topics) or research future purchases (cars, appliances, vacations)"
+          },
+          {
+            "id": 7,
+            "text": "Watch movies or TV show episodes you haven't seen in a long time (no action movies or thrillers)"
+          },
+          {
+            "id": 8,
+            "text": "Take the dog for a long walk"
+          },
+          {
+            "id": 9,
+            "text": "Take care of your pets"
+          },
+          {
+            "id": 10,
+            "text": "Listen to slow, relaxing or instrumental music"
+          },
+          {
+            "id": 11,
+            "text": "Gather old bills and statements and throw them away if no longer needed"
+          },
+          {
+            "id": 12,
+            "text": "Organize collections if you have any - photos, old letters, books or other items"
+          },
+          {
+            "id": 13,
+            "text": "Sort laundry or fold clothes"
+          },
+          {
+            "id": 14,
+            "text": "Polish your shoes"
+          },
+          {
+            "id": 15,
+            "text": "Iron or repair clothes"
+          },
+          {
+            "id": 16,
+            "text": "Write in your journal"
+          },
+          {
+            "id": 17,
+            "text": "Do light exercise to relax your muscles"
+          },
+          {
+            "id": 18,
+            "text": "Do a pedicure, manicure or facial treatment"
+          },
+          {
+            "id": 19,
+            "text": "Sweep or mop the kitchen floor"
+          },
+          {
+            "id": 20,
+            "text": "Floss your teeth"
+          },
+          {
+            "id": 21,
+            "text": "Knit"
+          },
+          {
+            "id": 22,
+            "text": "Start another handmade project"
+          }
+        ]
+      },
+      "awake-activities": {
+        "description": "If you have trouble staying awake until your desired bedtime, check the Activities to Keep Me Awake section below for ideas to help with deep drowsiness. If any of these activities help you, press the star next to the activity to mark it.",
+        "info": "Staying awake until you are truly sleepy can help build sleep drive and make it easier to fall asleep. Not sure about the difference between sleepy and tired? Check out 'Sleep 101' in the Learn More section. Use these activities to stay awake until bedtime. If you're not sleepy at that time, try using techniques to relax your body and quiet your mind. Remember not to stay awake when sleepy if it could interfere with activities or responsibilities where drowsiness could be dangerous.",
+        "list": [
+          {
+            "id": 1,
+            "text": "Work on a hobby you're interested in"
+          },
+          {
+            "id": 2,
+            "text": "Read an engaging book"
+          },
+          {
+            "id": 3,
+            "text": "Watch an interesting series"
+          },
+          {
+            "id": 4,
+            "text": "Write a long letter"
+          },
+          {
+            "id": 5,
+            "text": "Call a friend"
+          },
+          {
+            "id": 6,
+            "text": "Do light exercises"
+          },
+          {
+            "id": 7,
+            "text": "Get up and take a few steps"
+          },
+          {
+            "id": 8,
+            "text": "Do household chores"
+          },
+          {
+            "id": 9,
+            "text": "Listen to upbeat music (sing)"
+          },
+          {
+            "id": 10,
+            "text": "Dance"
+          },
+          {
+            "id": 11,
+            "text": "Watch a comedy"
+          },
+          {
+            "id": 12,
+            "text": "Turn on all the lights"
+          },
+          {
+            "id": 13,
+            "text": "Go outside (if it's safe to leave the house)"
+          },
+          {
+            "id": 14,
+            "text": "Prepare lunch for tomorrow"
+          },
+          {
+            "id": 15,
+            "text": "Prepare meals for the rest of the week"
+          },
+          {
+            "id": 16,
+            "text": "Organize laundry"
+          },
+          {
+            "id": 17,
+            "text": "Organize files on computer"
+          },
+          {
+            "id": 18,
+            "text": "Organize drawers or shelves"
+          }
+        ]
+      },
+      "no-sleep-activities": {
+        "description": "Getting up from bed and doing relaxing activities when you can't sleep can help you associate the bed only with sleep. See the Midnight Activities section below for ideas of things to do when it's hard to fall asleep. If any of these activities help you, press the star next to the activity to mark it.",
+        "info": "Getting up from bed and doing relaxing activities when you can't sleep can help you associate the bed only with sleep. Use some of the activity ideas to stay relaxed and occupied until you become very sleepy and ready to return to bed. When you get up, you should do things that are engaging but calming. If it's difficult for you to get out of bed, prepare a quiet and comfortable place where you can go to make getting up easier.",
+        "list": [
+          {
+            "id": 1,
+            "text": "Look through catalogs/magazines"
+          },
+          {
+            "id": 2,
+            "text": "Update your contact list or start one online or on paper"
+          },
+          {
+            "id": 3,
+            "text": "Organize emails and bills"
+          },
+          {
+            "id": 4,
+            "text": "Play solitaire online or with cards if you're not very competitive"
+          },
+          {
+            "id": 5,
+            "text": "Read"
+          },
+          {
+            "id": 6,
+            "text": "Make a shopping list for the current week"
+          },
+          {
+            "id": 7,
+            "text": "Plan the menu for upcoming dinners"
+          },
+          {
+            "id": 8,
+            "text": "Clean and organize the coffee table, dining area, kitchen counter or desk"
+          },
+          {
+            "id": 9,
+            "text": "Create a list of activities you'd like to do on weekends or vacation"
+          },
+          {
+            "id": 10,
+            "text": "Organize photo album or journal"
+          },
+          {
+            "id": 11,
+            "text": "Fold clothes and put them away"
+          },
+          {
+            "id": 12,
+            "text": "Buy gifts for birthdays or holidays"
+          },
+          {
+            "id": 13,
+            "text": "Read a magazine or light book"
+          },
+          {
+            "id": 14,
+            "text": "Make a materials list for a home do-it-yourself project"
+          },
+          {
+            "id": 15,
+            "text": "Choose two drawers to organize (in office, bathroom or kitchen)"
+          },
+          {
+            "id": 16,
+            "text": "Watch repetitive TV shows or commercials"
+          },
+          {
+            "id": 17,
+            "text": "Organize your CD or DVD collection and choose some to donate or sell if you no longer need them or don't like them"
+          },
+          {
+            "id": 18,
+            "text": "Write thoughts in a notebook for a while. Use this exercise to get rid of negative thoughts."
+          },
+          {
+            "id": 19,
+            "text": "Crochet or do an activity you can easily stop if you get sleepy"
+          },
+          {
+            "id": 20,
+            "text": "Read a children's book. These are often soothing and amusing"
+          }
+        ]
+      },
+      "wake-up-activities": {
+        "description": "If you have an exciting activity scheduled for the morning, it can help you get out of bed with more energy. See the Morning Activities section below for ideas of things to do in the morning. If any of these activities help you, press the star next to the activity to mark it.",
+        "info": "Getting up at your planned time in the morning helps maintain a consistent schedule and prevents associating being in bed with being awake. Use these ideas to help stay motivated to start your day. Consider setting a reminder that coincides with when you want to wake up.",
+        "list": [
+          {
+            "id": 1,
+            "text": "Meditate or pray"
+          },
+          {
+            "id": 2,
+            "text": "Watch the sunrise"
+          },
+          {
+            "id": 3,
+            "text": "Take the dog for a walk if you're in a safe area"
+          },
+          {
+            "id": 4,
+            "text": "Read the newspaper or read news online"
+          },
+          {
+            "id": 5,
+            "text": "Exercise at home or go to the gym"
+          },
+          {
+            "id": 6,
+            "text": "Go shopping at the store"
+          },
+          {
+            "id": 7,
+            "text": "Prepare lunch for yourself or the whole family"
+          },
+          {
+            "id": 8,
+            "text": "Enjoy being able to prepare for work and having time to get children ready for school without rushing"
+          },
+          {
+            "id": 9,
+            "text": "Organize children's toys and choose items to donate"
+          },
+          {
+            "id": 10,
+            "text": "Sort clothes for washing or iron laundry"
+          },
+          {
+            "id": 11,
+            "text": "Plan family budget in excel or on paper"
+          },
+          {
+            "id": 12,
+            "text": "Send emails to friends or check work email"
+          },
+          {
+            "id": 13,
+            "text": "Clean up old hard drives or DVDs"
+          },
+          {
+            "id": 14,
+            "text": "Organize bills, documents or other papers"
+          },
+          {
+            "id": 15,
+            "text": "Prepare ingredients for dinner (marinate meat, cut vegetables etc)"
+          },
+          {
+            "id": 16,
+            "text": "Make the bed and clean the room"
+          },
+          {
+            "id": 17,
+            "text": "Pull back curtains and blinds"
+          },
+          {
+            "id": 18,
+            "text": "Sweep inside or outside the house"
+          },
+          {
+            "id": 19,
+            "text": "Take care of indoor plants or garden, water the flowers"
+          },
+          {
+            "id": 20,
+            "text": "Check task list for the current day or week"
+          }
+        ]
+      }
+    },
+    "sleep-perspective": {
+      "title": "Change your sleep perspective",
+      "description": "Try these habits to improve your sleep quality",
+      "repeater": [
+        {
+          "title": "I can tolerate this."
+        },
+        {
+          "title": "I will survive even if I don't sleep at all tonight."
+        },
+        {
+          "title": "I've done this before, so I know I can do it again."
+        },
+        {
+          "title": "I don't have to feel comfortable all the time. I'm human."
+        },
+        {
+          "title": "This is just another challenge that I will solve and cope with."
+        },
+        {
+          "title": "I've been through this before and I was fine."
+        },
+        {
+          "title": "One bad night of sleep is not the end of the world."
+        },
+        {
+          "title": "This restless night will pass."
+        },
+        {
+          "title": "Although it feels like I'll never sleep well, that might not be the case. Anticipating that I might not sleep well will probably make my sleep worse. I've functioned well before even after not sleeping well."
+        },
+        {
+          "title": "I've functioned poorly before even after sleeping well."
+        },
+        {
+          "title": "Although I'm anticipating poor sleep, it could be fine... I've slept well before."
+        },
+        {
+          "title": "The body naturally regulates sleep; even if I miss some sleep, I'll be able to function."
+        },
+        {
+          "title": "If I don't worry about sleep, one bad night will probably improve my sleep the next night."
+        }
+      ]
+    }
+  },
+  "pause": {
+    "description": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed.\n\nPlease note that there will be pauses in the audio so you can practice without distraction.\n\nTime: About 9 minutes.",
+    "action-btn-label": "Continue",
+    "helper": "Try to do this for 5 minutes",
+    "take_break": "Take a break",
+    "repeater": [
+      {
+        "title": "Take a walk to relax and clear your thoughts"
+      },
+      {
+        "title": "Breathe deeply for 10 minutes or more"
+      },
+      {
+        "title": "Exercise (bike riding, hiking, weight lifting, swimming, running)"
+      },
+      {
+        "title": "Garden or do yard work"
+      },
+      {
+        "title": "Tell yourself positive things like \"I can handle this situation without losing my cool\""
+      },
+      {
+        "title": "Draw or paint to express your emotions"
+      },
+      {
+        "title": "Call a friend or loved one for support"
+      },
+      {
+        "title": "Call your therapist for support"
+      },
+      {
+        "title": "Stretch and breathe deeply and slowly"
+      },
+      {
+        "title": "Remember that you can cope"
+      },
+      {
+        "title": "Meditate to calm your mind"
+      },
+      {
+        "title": "Pray for guidance and support"
+      },
+      {
+        "title": "Think about what advice someone you trust would give you"
+      },
+      {
+        "title": "Spend time with a pet for comfort and peace"
+      },
+      {
+        "title": "Take a shower or bath to relax"
+      },
+      {
+        "title": "Think about how you want to be a role model for others in your life - children etc."
+      }
+    ]
+  },
+  "my-feelings": {
+    "done": "Done",
+    "next": "Next",
+    "delete": "Delete feelings",
+    "main-action-label": "Add a feeling",
+    "no-feelings": "You haven't added any feelings yet.",
+    "choose-main-feelings": "Firstly, pick one or more feelings that describe how you're feeling right now.",
+    "choose-secondary-feelings": "Pick any feelings that you feel right now.",
+    "discomfort-meter": "Discomfort Meter",
+    "discomfort-intensity": "How intense is your discomfort right now?",
+    "stress": "Stress",
+    "repeater": [
+      "Total peace and quiet",
+      "Relaxed and not stressed",
+      "Mild sadness",
+      "A little sad and without tension",
+      "Mild stress",
+      "Stressed, but not too much",
+      "Moderate stress",
+      "Moderately high stress",
+      "High stress and tension",
+      "Very high to extreme stress",
+      "Extreme stress and panic"
+    ],
+    "feelings-summary": "Feelings Summary",
+    "feelings-summary-description": "Here's a summary of your feelings for: ",
+    "my-feelings": "My feelings",
+    "emotion-intensity": "Emotion intensity",
+    "ok": "Ok"
+  },
+  "feelings": {
+    "angry": {
+      "main": "Angry",
+      "betrayed": "Betrayed",
+      "bitter": "Bitter",
+      "critical": "Critical",
+      "devastated": "Devastated",
+      "disgusted": "Disgusted",
+      "frustrated": "Frustrated",
+      "angry": "Angry",
+      "detestable": "Detestable",
+      "hostile": "Hostile",
+      "hurt": "Hurt",
+      "irritated": "Irritated",
+      "indignant": "Indignant"
+    },
+    "happy": {
+      "main": "Happy",
+      "energetic": "Energetic",
+      "cheerful": "Cheerful",
+      "creative": "Creative",
+      "curious": "Curious",
+      "daring": "Daring",
+      "hopeful": "Hopeful",
+      "full_of_imagination": "Full of imagination",
+      "light": "Light",
+      "optimistic": "Optimistic",
+      "playful": "Playful",
+      "thin_skinned": "Thin-skinned",
+      "provocative": "Provocative"
+    },
+    "strong": {
+      "main": "Strong",
+      "appreciated": "Appreciated",
+      "confident": "Confident",
+      "discerning": "Discerning",
+      "energetic": "Energetic",
+      "nourishing": "Nourishing",
+      "proud": "Proud",
+      "respected": "Respected",
+      "receptive": "Receptive",
+      "successful": "Successful",
+      "grateful": "Grateful",
+      "cherished": "Cherished",
+      "valuable": "Valuable"
+    },
+    "sad": {
+      "main": "Sad",
+      "embarrassed": "Embarrassed",
+      "bored": "Bored",
+      "cold": "Cold",
+      "depressed": "Depressed",
+      "desperate": "Desperate",
+      "disconnected": "Disconnected",
+      "empty": "Empty",
+      "hopeless": "Hopeless",
+      "humiliated": "Humiliated",
+      "lonely": "Lonely",
+      "tired": "Tired",
+      "worthless": "Worthless"
+    },
+    "safe": {
+      "main": "Safe",
+      "accepted": "Accepted",
+      "calm": "Calm",
+      "loved": "Loved",
+      "open": "Open",
+      "peaceful": "Peaceful",
+      "protected": "Protected",
+      "silent": "Silent",
+      "relaxed": "Relaxed",
+      "caring": "Caring",
+      "understood": "Understood",
+      "warm": "Warm"
+    },
+    "scared": {
+      "main": "Scared",
+      "abandoned": "Abandoned",
+      "anxious": "Anxious",
+      "perplexed": "Perplexed",
+      "helpless": "Helpless",
+      "inadequate": "Inadequate",
+      "insignificant": "Insignificant",
+      "numb": "Numb",
+      "overwhelmed": "Overwhelmed",
+      "paralyzed": "Paralyzed",
+      "shocked": "Shocked",
+      "blocked": "Blocked",
+      "vulnerable": "Vulnerable"
+    }
+  },
+  "worry-time": {
+    "title": "Worry Time",
+    "help": "Help",
+    "description": "A strategy that has proven helpful in calming anxious thoughts is scheduling a worry period. Although this may seem counterintuitive for people struggling with anxiety, it can actually help gain control over obsessive thoughts. If you find yourself worrying at night, schedule a time below when you can think about the issues on your mind.",
+    "write-here": "Use this space to write subjects to think about...",
+    "subjects-to-think-about": "Subjects to think about",
+    "help-text": "Being preoccupied with small and big worries, meditating on problems, or planning future events while in bed can keep you awake. Scheduling a time for worries can help people gain control over anxious thoughts that may keep them awake.\n\nChoose a time during the day to think, worry, solve problems and plan what you need to do. Then, if intrusive thoughts appear during your sleep period, postpone them for the \"thinking and worrying time\" the next day. Make sure you don't choose a time too close to bedtime, so you have a chance to relax afterwards.\n\nBy scheduling a daily period to focus on your concerns, you'll notice that you have fewer worrying thoughts while in bed.\n\nMany people catch themselves worrying that they can't fall asleep, which unfortunately can keep them even more awake. Remember that while lack of sleep can be uncomfortable, your body is designed to tolerate less good nights. In fact, sleep loss can increase sleep desire, which can lead to improved sleep quality in subsequent nights. It's important to reduce nighttime anxiety to improve your chances of getting quality sleep.",
+    "reminder": "Reminder for worry time",
+    "daily-reminder": "Daily",
+    "ptsd-help": "PTSD Help",
+    "review": "Review the issues that are causing you to worry."
+  },
+  "rid": {
+    "title": "RID",
+    "start": "Start",
+    "done": "Done",
+    "description": "The RID tool is designed for moments triggered by a reminder of past trauma. You will be guided through three steps to manage your state.",
+    "continue": "Continue",
+    "relax": "RID: Relax",
+    "relaxation": "Relaxation",
+    "r": "R",
+    "i": "I",
+    "d": "D",
+    "rid-identify": "RID: Identify",
+    "identify": "Identify",
+    "identify-trigger": "Identify trigger",
+    "breathe": "Take 30 seconds to relax by breathing slowly and imagining that with every breath your tension is decreasing.",
+    "30-more": "Another 30 seconds of relaxation",
+    "review": "Review the last few minutes or hours and see what reminders of your trauma you encountered. Triggers can be internal, such as thoughts or memories, or external, such as conversations, situations, or things we encounter in the world (for example, a certain person or place). Figuring out what is a trigger can sometimes be difficult. Don't worry if you can't identify the trigger, just focus on relaxing and calming yourself.\n\nOnce you have identified the trigger, if you can, it's important to notice that it is just a reminder and not the actual trauma repeating itself, despite your mind and body's reaction. Really notice how the current trigger is different from the trauma. Remind yourself of these differences again and again",
+    "trigger": "What triggered your state?",
+    "trigger-placeholder": "Something like: \"I was in a car accident\"",
+    "different": "How is your current situation different than the traumatic experience?",
+    "placeholder": "Write your answer here...",
+    "rid-decide": "RID: Decide",
+    "decide-next": "Decide what to do next",
+    "final-step": "You've reached the final step. If you feel stressed right now, you can try to reduce the power of the trigger by deciding to stay in place to see that you can cope and that the stress will decrease the longer you resist. If the trigger has made you very angry, it's best to decide to take a break. If you are in danger of hurting yourself or others, seek support and don't take any risks.",
+    "what-will-you-decide": "What will you decide to do?",
+    "decision-placeholder": "I will go back a few times until it stops triggering me so much.",
+    "rid-summary": "RID Summary",
+    "triggered-how": "How you were triggered:",
+    "different-situation": "How your current situation is different than the traumatic experience:",
+    "you-decided": "You decided:",
+    "empty": "You haven't added any RIDs yet.",
+    "date": "Date:",
+    "delete": "Delete RID"
+  },
+  "muscle-relaxation": {
+    "title": "Muscle Relaxation",
+    "description": "You are about to be led through a progressive muscle relaxation exercise. You will progress through each of your major muscle groups, tensing and relaxing as you go. This exercise takes about 9 minutes. It has accompanying audio, so you will need to find a quiet place or put on your headphones now.",
+    "action-btn-label": "Start",
+    "done": "Done"
+  },
+  "deep-breathing": {
+    "title": "Deep Breathing",
+    "description": "Slowing down and deepening your breathing can help you calm down when you feel distress. Put on your headphones or go somewhere private and quiet to be led through the exercise.",
+    "action-btn-label": "Start",
+    "done": "Done"
+  },
+  "body-scan": {
+    "title": "Body Scan",
+    "action-btn-label": "Start",
+    "done": "Done",
+    "julia": {
+      "title": "Julia",
+      "description": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed. This mindfulness exercise will help you practice mindfulness of physical sensations. Please note that there will be pauses in the audio so you can practice without distraction.",
+      "action-btn-label": "Start",
+      "done": "Done"
+    },
+    "robyn": {
+      "title": "Robyn",
+      "description": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed. This mindfulness exercise will help you practice mindfulness of physical sensations. Please note that there will be pauses in the audio so you can practice without distraction.",
+      "action-btn-label": "Start",
+      "done": "Done"
+    }
+  },
+  "positive-imagery": {
+    "title": "Positive Imagery",
+    "description": "Positive Imagery",
+    "action-btn-label": "Start",
+    "done": "Done",
+    "beach": {
+      "title": "Beach",
+      "description": "You are about to be led through a relaxation exercise focused on visualizing something pleasant. This exercise takes about 4 minutes. It has accompanying audio, so you will have to find a quiet place or put on your headphones now.",
+      "action-btn-label": "Start",
+      "done": "Done"
+    },
+    "country-road": {
+      "title": "Country Road",
+      "description": "You are about to be led through a relaxation exercise focused on visualizing something pleasant. This exercise takes about 4 minutes. It has accompanying audio, so you will have to find a quiet place or put on your headphones now.",
+      "action-btn-label": "Start",
+      "done": "Done"
+    },
+    "forest": {
+      "title": "Forest",
+      "description": "You are about to be led through a relaxation exercise focused on visualizing something pleasant. This exercise takes about 4 minutes. It has accompanying audio, so you will have to find a quiet place or put on your headphones now.",
+      "action-btn-label": "Start",
+      "done": "Done"
+    },
+    "observe-thoughts": {
+      "title": "Observe Thoughts",
+      "description": "Observe Thoughts",
+      "action-btn-label": "Start",
+      "done": "Done",
+      "clouds": {
+        "title": "Clouds",
+        "description": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed. Please note that there will be pauses in the audio so you can practice without distraction.",
+        "action-btn-label": "Start",
+        "done": "Done"
+      },
+      "river": {
+        "title": "River",
+        "description": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed. Please note that there will be pauses in the audio so you can practice without distraction.",
+        "action-btn-label": "Start",
+        "done": "Done"
+      }
+    }
+  },
+  "my-strengths": {
+    "title": "My Strengths",
+    "title-edit": "Edit strength",
+    "description": "In the middle of everything you have to do in a day, it is important to take a step back and observe your strengths.\n\nReminding yourself of all your good qualities and experiences can help improve your mood and perspective.",
+    "add": "Add strength",
+    "done": "Done",
+    "strength-label": "What's something that you like or respect about yourself? What's something that you're doing well?",
+    "placeholder": "Write your strength here...",
+    "pick-image": "Pick an image that reminds you of one of your strengths - it can be a person, something you've done, or something you're good at.",
+    "take-picture": "Take a picture",
+    "pick-from-library": "Pick an image from the library",
+    "delete-image": "Delete image",
+    "modify-image": "Modify image",
+    "info": "Examples:\n- I'm a good person\n- I have good intentions\n- I created a beautiful painting today\n- I'm a good friend",
+    "edit": "Edit strength",
+    "delete": "Delete strength"
+  },
+  "shift-thoughts": {
+    "title": "Shift Thoughts",
+    "helper": "Find a thought from down below which you can repeat for 5 minutes:",
+    "start": "Start",
+    "repeater": [
+      {
+        "title": "I can tolerate this."
+      },
+      {
+        "title": "Take a big breath."
+      },
+      {
+        "title": "Breathe"
+      },
+      {
+        "title": "Manage your anger"
+      },
+      {
+        "title": "I can't change the world."
+      },
+      {
+        "title": "Count to 10 and breathe."
+      },
+      {
+        "title": "Dig deep; find calm and stability."
+      },
+      {
+        "title": "Don't buy into this situation"
+      },
+      {
+        "title": "Don't let it get to you."
+      },
+      {
+        "title": "Don't pay attention"
+      },
+      {
+        "title": "Don't bite."
+      },
+      {
+        "title": "Don't go there."
+      },
+      {
+        "title": "Easy does it."
+      },
+      {
+        "title": "You can get through it."
+      },
+      {
+        "title": "How would (person you respect) handle this?"
+      },
+      {
+        "title": "I can't control what other people do."
+      },
+      {
+        "title": "It's in the past."
+      },
+      {
+        "title": "It's not a big thing; I don't need to get upset."
+      },
+      {
+        "title": "It's not worth it."
+      },
+      {
+        "title": "Keep your eye on the prize."
+      },
+      {
+        "title": "Leave it alone."
+      },
+      {
+        "title": "Let it be."
+      },
+      {
+        "title": "Let it go."
+      },
+      {
+        "title": "Slow down."
+      },
+      {
+        "title": "Stay the course."
+      },
+      {
+        "title": "Stop! Just stop."
+      },
+      {
+        "title": "This, too, will pass."
+      },
+      {
+        "title": "Use your tools!"
+      }
+    ]
+  },
+  "recreational-activities": {
+    "label": "Recreational activities"
+  },
+  "recreational-activities-alone": {
+    "label": "Recreational activities: Time Spent Alone",
+    "title": "Time Spent Alone",
+    "repeater": [
+      {
+        "description": "Bake something."
+      },
+      {
+        "description": "Cook a meal for yourself."
+      },
+      {
+        "description": "Dance."
+      },
+      {
+        "description": "Do a crossword or Sudoku puzzle."
+      },
+      {
+        "description": "Do a jigsaw puzzle."
+      },
+      {
+        "description": "Do arts and crafts."
+      },
+      {
+        "description": "Eat something delicious."
+      },
+      {
+        "description": "Have coffee or tea."
+      },
+      {
+        "description": "Knit or do needlepoint."
+      },
+      {
+        "description": "Light some candles."
+      },
+      {
+        "description": "List 5 things you like about yourself."
+      },
+      {
+        "description": "Listen to the radio."
+      },
+      {
+        "description": "Paint or draw."
+      },
+      {
+        "description": "Plan a trip."
+      },
+      {
+        "description": "Play a musical instrument."
+      },
+      {
+        "description": "Play cards."
+      },
+      {
+        "description": "Play with animals."
+      },
+      {
+        "description": "Practice a martial art."
+      },
+      {
+        "description": "Pray, meditate, or practice yoga."
+      },
+      {
+        "description": "Put on your favorite shirt to feel good."
+      },
+      {
+        "description": "Read a relaxing magazine or book."
+      },
+      {
+        "description": "Remember a fun vacation."
+      },
+      {
+        "description": "Remember someone being kind to you."
+      },
+      {
+        "description": "Build something with your hands."
+      },
+      {
+        "description": "Sing around the house."
+      },
+      {
+        "description": "Take a relaxing shower."
+      },
+      {
+        "description": "Take a warm bath or hot tub."
+      },
+      {
+        "description": "Take photographs."
+      },
+      {
+        "description": "Think about someone you love."
+      },
+      {
+        "description": "Watch a movie or TV show."
+      },
+      {
+        "description": "Watch funny videos."
+      },
+      {
+        "description": "Watch sports on TV."
+      },
+      {
+        "description": "Write a poem or story."
+      }
+    ]
+  },
+  "recreational-activities-city": {
+    "title": "In The City",
+    "repeater": [
+      {
+        "description": "Browse merchandise at an outdoor or hardware store."
+      },
+      {
+        "description": "Go window shopping."
+      },
+      {
+        "description": "Buy yourself a small gift."
+      },
+      {
+        "description": "Buy yourself a plant."
+      },
+      {
+        "description": "Buy yourself music."
+      },
+      {
+        "description": "Get a manicure and/or pedicure."
+      },
+      {
+        "description": "Get a massage."
+      },
+      {
+        "description": "Go bowling."
+      },
+      {
+        "description": "Go listen to music."
+      },
+      {
+        "description": "Go out for ice cream."
+      },
+      {
+        "description": "Go out to dinner."
+      },
+      {
+        "description": "Go sightseeing."
+      },
+      {
+        "description": "Go to a bookstore and read."
+      },
+      {
+        "description": "Go to a coffee shop to read and have coffee/tea."
+      },
+      {
+        "description": "Go to a live performance or play."
+      },
+      {
+        "description": "Go to a museum."
+      },
+      {
+        "description": "Go to church/temple/mosque."
+      },
+      {
+        "description": "Go to the movies."
+      },
+      {
+        "description": "Go watch horse racing or auto racing."
+      },
+      {
+        "description": "Play a sport."
+      },
+      {
+        "description": "Play pool."
+      },
+      {
+        "description": "Take a class in a craft, a language, or a dance."
+      },
+      {
+        "description": "Volunteer at a soup kitchen or animal shelter."
+      }
+    ]
+  },
+  "recreational-activities-nature": {
+    "title": "In Nature",
+    "repeater": [
+      {
+        "description": "Buy some flowers and enjoy their beauty."
+      },
+      {
+        "description": "Do some gardening."
+      },
+      {
+        "description": "Go bird watching."
+      },
+      {
+        "description": "Go camping."
+      },
+      {
+        "description": "Go fishing."
+      },
+      {
+        "description": "Go for a drive or motorcycle ride in the countryside."
+      },
+      {
+        "description": "Go for a hike or bike ride on a nature trail."
+      },
+      {
+        "description": "Go for a picnic."
+      },
+      {
+        "description": "Go to a lake, river, or beach."
+      },
+      {
+        "description": "Take a stroll at a botanical garden or flower show."
+      },
+      {
+        "description": "Take a trip to a nature reserve or national park."
+      },
+      {
+        "description": "Take a walk in the park."
+      },
+      {
+        "description": "Spend time with animals in a safe way."
+      }
+    ]
+  },
+  "soothe-senses": {
+    "title": "Soothe The Senses",
+    "done": "Done",
+    "repeater": [
+      {
+        "title": "Sound",
+        "description": "Sing your favorite songs, or play them and sing along."
+      },
+      {
+        "title": "Sound",
+        "description": "Listen to music, and let yourself get lost in the sounds."
+      },
+      {
+        "title": "Sound",
+        "description": "Listen to pleasurable sounds, like birds, or the ocean."
+      },
+      {
+        "title": "Sound",
+        "description": "Learn to play an instrument and play tunes for your own enjoyment."
+      },
+      {
+        "title": "Sound",
+        "description": "Be mindful of the sounds around you."
+      },
+      {
+        "title": "Sound",
+        "description": "Turn on a movie and listen to the sounds, tones and textures of human voices."
+      },
+      {
+        "title": "Sound",
+        "description": "Listen to an meditation or lecture online or on the radio about something interesting to you."
+      },
+      {
+        "title": "Sound",
+        "description": "Go for a walk in nature and listen to the sounds around you."
+      },
+      {
+        "title": "Sight",
+        "description": "Go for a walk in the park or a hike in nature. Take in the beauty around you."
+      },
+      {
+        "title": "Sight",
+        "description": "Go to a museum with beautiful art and enjoy what catches your eye."
+      },
+      {
+        "title": "Sight",
+        "description": "Sit in the lobby of a beautiful hotel and notice the details of the décor."
+      },
+      {
+        "title": "Sight",
+        "description": "Buy a beautiful flower or bouquet and make one space in a room pretty."
+      },
+      {
+        "title": "Sight",
+        "description": "Go outside at night in the fresh air and look at the stars."
+      },
+      {
+        "title": "Sight",
+        "description": "Look at good travel photos in a book or on the internet; let them inspire you."
+      },
+      {
+        "title": "Taste",
+        "description": "Eat your favorite meal; really pay attention as you savor it."
+      },
+      {
+        "title": "Taste",
+        "description": "Have a soothing drink like herbal tea or hot chocolate and enjoy the flavors."
+      },
+      {
+        "title": "Taste",
+        "description": "Treat yourself to dessert and eat each bite mindfully, with pleasure."
+      },
+      {
+        "title": "Taste",
+        "description": "Suck on a piece of peppermint candy and let it melt in your mouth."
+      },
+      {
+        "title": "Taste",
+        "description": "Chew your favorite gum and savor its flavor."
+      },
+      {
+        "title": "Taste",
+        "description": "Sample flavors in an ice cream store and notice the subtle differences."
+      },
+      {
+        "title": "Touch",
+        "description": "Get a massage. Let yourself really focus on and enjoy the sensations."
+      },
+      {
+        "title": "Touch",
+        "description": "Sit in the sun (please use sunscreen), and enjoy the warmth."
+      },
+      {
+        "title": "Touch",
+        "description": "Pet a dog or cat, and focus on the softness and pleasant sensations."
+      },
+      {
+        "title": "Touch",
+        "description": "Soak your feet and allow any tension or soreness to melt away."
+      },
+      {
+        "title": "Touch",
+        "description": "Sink into a comfortable chair or couch, at home or in a luxurious hotel lobby, and let your body relax back into it."
+      },
+      {
+        "title": "Touch",
+        "description": "Hug someone and feel the comfort of their touch."
+      },
+      {
+        "title": "Smell",
+        "description": "Smell things that are pleasant, like perfume, the ocean, or oranges. Pay close attention as you enjoy the scents."
+      },
+      {
+        "title": "Smell",
+        "description": "Light a scented candle and enjoy the fragrance in the air."
+      },
+      {
+        "title": "Smell",
+        "description": "Buy yourself a flower that has a nice smell, and allow yourself to lean in and smell when you walk by it at home."
+      },
+      {
+        "title": "Smell",
+        "description": "Boil some cinnamon on the stove for 20 minutes and enjoy the smell as it fills your home."
+      },
+      {
+        "title": "Smell",
+        "description": "Take a walk in a wooded area and breathe in the fresh smells of nature."
+      },
+      {
+        "title": "Smell",
+        "description": "Put lemon oil on your furniture and enjoy the scent."
+      }
+    ]
+  },
+  "connect-with-others": {
+    "title": "Connect With Others",
+    "done": "Done",
+    "static-text": "Getting support from others when you're dealing with physical or emotional distress can help. Try these:",
+    "repeater": [
+      {
+        "title": "Call a family member",
+        "description": "Talking to another person about your problems, or listening to someone else's problems for a while, can help improve your mood or change the way you think."
+      },
+      {
+        "title": "Call a friend",
+        "description": "Talking to another person about your problems, or listening to someone else's problems for a while, can help improve your mood or change the way you think."
+      },
+      {
+        "title": "Cook dinner for someone",
+        "description": ""
+      },
+      {
+        "title": "Go to a party",
+        "description": ""
+      },
+      {
+        "title": "Join a book club or reading group",
+        "description": ""
+      },
+      {
+        "title": "Join a sports club",
+        "description": "Join a club to play a sport, such as bowling, basketball, or soccer."
+      },
+      {
+        "title": "Make a small gift for someone",
+        "description": ""
+      },
+      {
+        "title": "Visit a family member",
+        "description": "Talking to another person about your problems, or listening to someone else's problems for a while, can help improve your mood or change the way you think."
+      },
+      {
+        "title": "Visit a friend",
+        "description": "Talking to another person about your problems, or listening to someone else's problems for a while, can help improve your mood or change the way you think."
+      },
+      {
+        "title": "Write a letter",
+        "description": ""
+      }
+    ]
+  },
+  "change-perspective": {
+    "title": "Change Your Perspective",
+    "done": "Done",
+    "static-text": "Changing the way you think can change the way you feel. Focus on this useful thought:",
+    "repeater": [
+      {
+        "description": "This is a hassle, not a horror."
+      },
+      {
+        "description": "I have been through many hard things in my life and survived."
+      },
+      {
+        "description": "I can tolerate this."
+      },
+      {
+        "description": "I will survive even if I don't sleep at all tonight."
+      },
+      {
+        "description": "This situation is different than what happened to me and I'm going to be fine."
+      },
+      {
+        "description": "I am right here, right now."
+      },
+      {
+        "description": "This may seem hard now, but it will get easier and easier over time."
+      },
+      {
+        "description": "When this is over, I'll be glad I did it."
+      },
+      {
+        "description": "I've done this before, so I know I can do it again."
+      },
+      {
+        "description": "I know I'm in a safe place, even though my mind is telling me something else."
+      },
+      {
+        "description": "I can feel my heart beating and my feet on the floor. I am alive and okay."
+      },
+      {
+        "description": "I've been through worse before and made it through safely."
+      },
+      {
+        "description": "My body is reacting to a memory. Right now I am safe"
+      },
+      {
+        "description": "I don't have to feel comfortable all the time. That just proves I am human."
+      },
+      {
+        "description": "This emotion will come and go. I will feel differently in twenty minutes."
+      },
+      {
+        "description": "I am able to respond effectively. I have skills to handle this situation."
+      },
+      {
+        "description": "I have been through this before and been just fine."
+      },
+      {
+        "description": "This is another challenge that I will figure out and face."
+      },
+      {
+        "description": "These emotions are telling me something. They won't hurt me."
+      },
+      {
+        "description": "I am human. I can make mistakes. No one is perfect."
+      },
+      {
+        "description": "I am able to protect myself."
+      },
+      {
+        "description": "Slow down. I know there is more than one choice I can make."
+      },
+      {
+        "description": "I can ask others for help."
+      },
+      {
+        "description": "I have made the right decision before."
+      },
+      {
+        "description": "My thoughts are just thoughts; they're not always right. Don't believe everything you think."
+      },
+      {
+        "description": "I am strong. I am safe now."
+      },
+      {
+        "description": "This feeling will pass."
+      },
+      {
+        "description": "I will not feel this way forever. I have felt differently before and will feel differently soon."
+      },
+      {
+        "description": "I am in a safe place."
+      },
+      {
+        "description": "The emotions I feel right now are giving me information about how I feel but they're not necessarily based on facts."
+      },
+      {
+        "description": "If I don't fight my emotions, they will go down on their own."
+      },
+      {
+        "description": "I am a decent person."
+      },
+      {
+        "description": "It is okay if it takes me time to figure this out."
+      },
+      {
+        "description": "There is always time to learn."
+      },
+      {
+        "description": "Learning will give me more options in the future."
+      },
+      {
+        "description": "There are times when I will fall back into old patterns. I just need to catch myself and get back on track with what's effective."
+      },
+      {
+        "description": "I know that I deserve love."
+      },
+      {
+        "description": "I am my own unique person: special, talented, and worthwhile."
+      },
+      {
+        "description": "One night of poor sleep is not the end of the world."
+      },
+      {
+        "description": "This tossing and turning at night will pass."
+      },
+      {
+        "description": "Nightmares are disturbing, but they're not real. I am safe."
+      },
+      {
+        "description": "Although it feels like I will never get a good night's sleep, I have in the past and I will in the future."
+      },
+      {
+        "description": "Although I am anticipating a poor night's sleep, it could be fine…I have slept well before."
+      }
+    ]
+  },
+  "grounding": {
+    "title": "Grounding",
+    "done": "Done",
+    "repeater": [
+      {
+        "title": "Feel feet on floor",
+        "description": "Focus all of your attention on your feet. Feel the floor under them."
+      },
+      {
+        "title": "Texture of a Pebble",
+        "description": "Focus all of your attention on the feel of a pebble or coin in your hand."
+      },
+      {
+        "title": "Breathing",
+        "description": "Sit quietly and focus all of your attention on your in-breath and then your out-breath."
+      },
+      {
+        "title": "The space around you – Colors",
+        "description": "Look around and focus your attention on the colors around you, noticing as many colors as you can."
+      },
+      {
+        "title": "The space around you – Smells",
+        "description": "Focus all of your attention on the smells in your environment."
+      },
+      {
+        "title": "The space around you – Sounds",
+        "description": "Focus on and listen carefully to the many sounds in your environment."
+      },
+      {
+        "title": "The space around you – Temperature",
+        "description": "Focus all of your attention of the temperature of the air on your skin."
+      },
+      {
+        "title": "Eating",
+        "description": "While you are eating, focus all of your attention on the sensations of the food in your mouth while you chew very slowly."
+      },
+      {
+        "title": "Brushing your teeth",
+        "description": "Brush your teeth and focus your attention on all of the sensations, tastes, and smells of this activity."
+      },
+      {
+        "title": "Walking",
+        "description": "Walk slowly, focusing your attention on what it feels like to take each step."
+      },
+      {
+        "title": "Object",
+        "description": "Pick up any small object off the ground and focus all of your attention on the texture of the object and the feel of it in your hand."
+      },
+      {
+        "title": "Pet an animal",
+        "description": "Pet an animal that is quiet and calm. Focus all of your attention on the sensations on your hand."
+      },
+      {
+        "title": "Attach yourself to the earth",
+        "description": "With your feet shoulder width apart, close your eyes and imagine that you are growing roots into the earth, making you strong and stable."
+      },
+      {
+        "title": "Ice cube",
+        "description": "Grab an ice cube and focus all of your attention on the sensations that go with it, cold, wet, and tingling."
+      },
+      {
+        "title": "Name what you see",
+        "description": "Look around you and name what you see. Start with large objects, then move to smaller and smaller objects."
+      },
+      {
+        "title": "Focus on touch",
+        "description": "Rub your hands together, clap your hands. Focus all of your attention on the feelings and sounds that you experience."
+      },
+      {
+        "title": "Reorientation",
+        "description": "Remind yourself where you are, what today's date is, when were you born, and what you did yesterday."
+      },
+      {
+        "title": "Call a friend",
+        "description": "Call a friend and discuss some activity you did together recently."
+      },
+      {
+        "title": "Past success",
+        "description": "Remember what you did to successfully get past a previous painful experience."
+      },
+      {
+        "title": "Baby steps",
+        "description": "Ask yourself and answer: What would be a small sign that things are getting a little better?"
+      },
+      {
+        "title": "Suck on a peppermint",
+        "description": "Slowly suck on a mint and describe the taste and your reaction in detail to yourself."
+      },
+      {
+        "title": "Stamp your feet on the ground",
+        "description": "Stamp your feet on the ground. Feel the force. Hear the sounds. Notice."
+      },
+      {
+        "title": "Feel your clothes on your skin",
+        "description": "Pay attention to the sensation of your clothes touching your skin."
+      },
+      {
+        "title": "Feel your hands",
+        "description": "Put your hands together and notice the sensations of the skin-on-skin contact."
+      },
+      {
+        "title": "Hear Others",
+        "description": "Tune into the voices of others around you. Only pay attention to the sounds of others' voices."
+      }
+    ]
+  },
+  "quotes": {
+    "title": "Inspirational Quotes",
+    "done": "Done",
+    "repeater": [
+      {
+        "description": "Helen Keller",
+        "title": "Although the world is full of suffering, it is full also of the overcoming of it."
+      },
+      {
+        "description": "Jesse Jackson",
+        "title": "You are not responsible for being down, but you are responsible for getting up."
+      },
+      {
+        "description": "Rainer Maria Rilke",
+        "title": "No feeling is final."
+      },
+      {
+        "description": "Baruch Spinoza",
+        "title": "Not to laugh, not to lament, not to judge, but to understand."
+      },
+      {
+        "description": "Erica Jong",
+        "title": "And the trouble is, if you don't risk anything, you risk even more."
+      },
+      {
+        "description": "Janis Joplin",
+        "title": "Don't compromise yourself. You are all you've got."
+      },
+      {
+        "description": "Buddha",
+        "title": "You yourself, as much as anybody in the entire universe, deserve your love and affection."
+      },
+      {
+        "description": "Rainer Maria Rilke",
+        "title": "...be attentive to what is arising within you, and place that above everything else… What is happening in your innermost self is worthy of your entire love; somehow you must find a way to work at it."
+      },
+      {
+        "description": "Winston Churchill",
+        "title": "Never, never, never, never, never give up."
+      },
+      {
+        "description": "Frank Outlaw",
+        "title": "Watch your thoughts; they become your words. Watch your words; they become your actions. Watch your actions; they become your habits. Watch your habits; they become your character. Watch your character; it becomes your destiny."
+      },
+      {
+        "description": "Theodore Roosevelt",
+        "title": "Do what you can, with what you have, where you are."
+      },
+      {
+        "description": "Molly Goode",
+        "title": "Let your heart guide you. It whispers, so listen closely."
+      },
+      {
+        "description": "Ellen Glasgow",
+        "title": "Life is never what one dreams. It is seldom what one desires, but for the vital spirit and the eager mind, the future will always hold the search for buried treasure and the possibility of high adventure."
+      },
+      {
+        "description": "Henry David Thoreau",
+        "title": "It takes two to speak the truth—one to speak, the other to hear."
+      },
+      {
+        "description": "Ralph Waldo Emerson",
+        "title": "When you do a thing, do it with all your might. Put your whole soul into it. Stamp it with your personality. Be active, be energetic, be enthusiastic and faithful, and you will accomplish your object."
+      },
+      {
+        "description": "Mohandas K. Gandhi",
+        "title": "The future depends on what we do in the present."
+      },
+      {
+        "description": "Jean Shinoda Bolen",
+        "title": "If we change within, our outer life will change also."
+      },
+      {
+        "description": "Wallace Stevens",
+        "title": "Perhaps the truth depends on a walk around the lake."
+      },
+      {
+        "description": "Charles Dickens",
+        "title": "A loving heart is the truest wisdom."
+      },
+      {
+        "description": "Martin Luther King Jr.",
+        "title": "Each of us is two selves, and the great challenge of life is to try to keep that higher self in command."
+      },
+      {
+        "description": "William Saroyan",
+        "title": "In the time of your life, live."
+      },
+      {
+        "description": "Virginia Satir",
+        "title": "Life is not what it's supposed to be. It's what it is. The way you cope with it is what makes the difference."
+      },
+      {
+        "description": "Tommy Lasorda",
+        "title": "The difference between the impossible and the possible lies in a person's determination."
+      },
+      {
+        "description": "Scott Adams",
+        "title": "Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end."
+      },
+      {
+        "description": "Robert Cushing",
+        "title": "The fact is, that to do anything in the world worth doing, we must not stand back shivering and thinking of the cold and danger, but jump in and scramble through as well as we can."
+      },
+      {
+        "description": "William Thackeray",
+        "title": "Follow your honest convictions, and stay strong."
+      },
+      {
+        "description": "Aristotle",
+        "title": "Knowing yourself is the beginning of all wisdom."
+      },
+      {
+        "description": "A. Bronson Alcott",
+        "title": "Your real influence is measured by your treatment of yourself."
+      },
+      {
+        "description": "Swedish Proverb",
+        "title": "Fear less, hope more, eat less, chew more, whine less, breathe more, talk less, say more, hate less, love more, and good things will be yours."
+      },
+      {
+        "description": "Martha Washington",
+        "title": "I have learned that the greater part of our misery or unhappiness is determined not by our circumstance but by our disposition."
+      },
+      {
+        "description": "Rainer Rilke",
+        "title": "The only journey is the journey within."
+      },
+      {
+        "description": "Doug Firebaugh",
+        "title": "Every day do something that will inch you closer to a better tomorrow."
+      },
+      {
+        "description": "Hamerton",
+        "title": "The happiest life is that which constantly exercises and educates what is best in us."
+      },
+      {
+        "description": "Thomas Edison",
+        "title": "If we all did the things we are capable of, we would astound ourselves."
+      },
+      {
+        "description": "John Clarke",
+        "title": "Go back a little to leap further."
+      },
+      {
+        "description": "Thomas Edison",
+        "title": "I failed my way to success."
+      },
+      {
+        "description": "Ralph Waldo Emerson",
+        "title": "Don't waste your life in doubts and fears: spend yourself on the work before you, well assured that the right performance of this hour's duties will be the best preparation for the hours or ages that follow it."
+      },
+      {
+        "description": "Chas. Austin Bates",
+        "title": "It is the trouble that never comes that causes the loss of sleep."
+      },
+      {
+        "description": "Helen Keller",
+        "title": "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us."
+      },
+      {
+        "description": "Horace Bushnell",
+        "title": "The more difficulties one has to encounter, within and without, the more significant and the higher in inspiration his life will be."
+      },
+      {
+        "description": "Berthold Auerbach",
+        "title": "Years teach us more than books."
+      },
+      {
+        "description": "Helen Keller",
+        "title": "Life is either a daring adventure or nothing."
+      },
+      {
+        "description": "St. Clement of Alexandra",
+        "title": "If you do not hope, you will not find what is beyond your hopes."
+      },
+      {
+        "description": "Henry Ward Beecher",
+        "title": "Men's best successes come after their disappointments."
+      },
+      {
+        "description": "Robert Frost",
+        "title": "The best way out is always through."
+      }
+    ]
+  }
+}

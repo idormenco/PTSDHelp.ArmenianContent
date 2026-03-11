@@ -185,8 +185,8 @@
     "enable-stress-meter": "Միացնել/ակտիվացնել սթրեսի չափիչը"
   },
   "contact": {
-    "title": "RO/en: Կոնտակտների ցանկ\n",
-    "permission-denied": "RO/en: Թույլտվությունը մերժված է"
+    "title": "Կոնտակտների ցանկ\n",
+    "permission-denied": "Թույլտվությունը մերժված է"
   },
   "about": {
     "title": "Հավելվածի մասին"

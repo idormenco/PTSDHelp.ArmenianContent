@@ -1,0 +1,361 @@
+{
+  "common": {
+    "start": "Start",
+    "next": "Next",
+    "previous": "Previous",
+    "finish": "Finish",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "close": "Close",
+    "unsaved-data": "You have unsaved changes. Are you sure you want to leave this page?",
+    "discard": "Discard",
+    "sure": "Yes, I'm sure",
+    "delete-confirmation": "Are you sure you want to delete?",
+    "yes": "Yes",
+    "no": "No",
+    "generic-error": "Something went wrong and we couldn't retrieve your data.",
+    "recreational-activities": "Recreational activities",
+    "no-favorites": "No favorites added yet",
+    "no-symptoms": "No symptoms available",
+    "no-learn-content": "No learn resources available",
+    "pick-image": "Pick an image"
+  },
+  "general": {
+    "done": "Done",
+    "ptsd-help": "PTSD Help",
+    "required": "This field is required"
+  },
+  "drawer": {
+    "about": "About the app",
+    "my-profile": "My profile",
+    "settings": "Settings",
+    "privacy-policy": "Privacy policy"
+  },
+  "languages": {
+    "en": "English",
+    "ro": "Romanian",
+    "uk": "Ukrainian",
+    "hy": "Armenian"
+  },
+  "licence-agreement": {
+    "header-title": "Licence Agreement",
+    "title": "Licence Agreement for the final user (EULA)",
+    "p1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.",
+    "l1": "Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt",
+    "l2": "Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui.",
+    "accept": "Accept"
+  },
+  "choose-country": {
+    "title": "Localization",
+    "choose": "Choose your country",
+    "subtitle": "Please choose the country you are in right now or the country for which you wish to view resources.",
+    "next": "Next",
+    "countries": {
+      "RO": "Romania",
+      "AM": "Armenia",
+      "UA": "Ukraine"
+    }
+  },
+  "choose-language": {
+    "title": "Language",
+    "choose": "Choose the app language",
+    "subtitle": "Please choose the language of the app content.",
+    "next": "Next",
+    "done": "Done"
+  },
+  "onboarding": {
+    "learn": {
+      "title": "Learn",
+      "description": "Learn more information about PTSD - for you or for someone you care about."
+    },
+    "monitor-progress": {
+      "title": "Monitor Progress",
+      "description": "Monitor your progress over time and get feedback."
+    },
+    "manage-symptoms": {
+      "title": "Manage Symptoms",
+      "description": "Choose your favourite instruments for managing stress."
+    },
+    "get-support": {
+      "title": "Get Support",
+      "description": "Connect with support and resources that can truly help you."
+    },
+    "welcome": {
+      "title": "Welcome to PTSD Help",
+      "description": "This app is designed to support trauma survivors. Please note that it cannot provide medical diagnosis or treatment - these services can only be provided by healthcare professionals. But it can help you learn more about PTSD and manage your symptoms, by providing you with the necessary tools and information for managing the distress that trauma can cause.",
+      "actions": {
+        "start": "Start using PTSD Help",
+        "personalize": "Personalize your experience"
+      },
+      "personalize": {
+        "title": "Personalize the app by adding:",
+        "l1": "Contact information for friends, family or your support network",
+        "l2": "Your favorite instruments for managing stress",
+        "modify_preferences": "You can always modify your preferences later from the settings menu."
+      }
+    }
+  },
+  "tabs": {
+    "home": "Home",
+    "manage": "Manage",
+    "track": "Track",
+    "learn": "Learn",
+    "support": "Support"
+  },
+  "symptoms": {
+    "trauma": "Reminded of trauma",
+    "avoiding-triggers": "Avoiding triggers",
+    "disconnected-people": "Disconnected from people",
+    "disconnected-reality": "Disconnected from reality",
+    "sad-hopeless": "Sad/Hopeless",
+    "worried-anxious": "Worried/Anxious",
+    "angry": "Angry"
+  },
+  "dashboard": {
+    "feeling": "How are you feeling today?",
+    "see-all": "See all",
+    "monthly-evaluation": "Take your monthly evaluation",
+    "evaluate": "Evaluate the intensity of your PTSD symptoms by answering 20 simple questions.",
+    "start": "Start evaluation",
+    "learn": "Learn about PTSD",
+    "read": "Read",
+    "favorite-instruments": "Favorite Tools"
+  },
+  "manage": {
+    "title": "Manage Symptoms",
+    "symptoms": "Symptoms",
+    "tools": "Tools",
+    "favorites": "Favorites"
+  },
+  "track": {
+    "evaluate": "Perform an evaluation",
+    "history": "Evaluation history",
+    "schedule": "Schedule an evaluation"
+  },
+  "distress-meter": {
+    "header-title": "Distress Meter",
+    "title": "What's your current level of distress?",
+    "scale": "{{min}} means no distress, {{max}} is the worst",
+    "subtitle": "Tap on the '+' and '-' arrows to indicate how you are feeling.",
+    "info": "Distress can include anger, sadness, fear, pain, stress, worry, or any negative feeling you experience. Evaluate your level of distress before and after using a support tool to figure out which tools work best for you.",
+    "info-levels": {
+      "low": "0 = no distress",
+      "high": "10 = the highest level of distress you can imagine"
+    },
+    "info-close": "Close",
+    "info-pre": "Distress can include anger, sadness, fear, pain, stress, worry, or any negative feeling you experience. Evaluate your level of distress before and after using a support tool to figure out which tools work best for you.",
+    "info-post": "You've done a good job completing this tool, now you will evaluate your level of distress on a scale from 0 to 10 to see if there has been a decrease in your discomfort level.",
+    "actions": {
+      "start": "Start using a tool",
+      "skip": "Skip"
+    },
+    "high-distress": {
+      "text": "This is a very high level of distress. It would be good to get help as soon as possible. Would you like to talk to someone now?",
+      "actions": {
+        "help": "No, continue to the support tool",
+        "talk": "Yes, I want to talk to someone"
+      }
+    },
+    "post-buttons": {
+      "try-again": "Try this tool again",
+      "another-tool": "Try another tool",
+      "remove-from-favorites": "Remove from favorites",
+      "add-to-favorites": "Add to favorites"
+    },
+    "feedback": {
+      "increased": {
+        "title": "Distress increased",
+        "description": "It seems that after {{toolName}} you are actually more distressed. It may be good to remember for the future, since you shouldn't do things that don't work for you. But remember, some of these tools need time or practice to work or can only improve certain types of problems, so don't remove it yet. \n\nAs you're still distressed, you may want to try another tool."
+      },
+      "decreased": {
+        "title": "Distress decreased",
+        "description": "Great! It seems that {{toolName}} has reduced your distress level. Try to remember this tool. Anything that works for you once can work again! \n\nIf a tool continues to work for you, you may want to mark it as a favorite by pressing the heart icon the next time this tool is offered. This way, it will be more likely to show up again. The tool will also be saved in 'Favorites'."
+      },
+      "unchanged": {
+        "title": "Distress unchanged",
+        "description": "OK, it seems that after {{toolName}} you have the same amount of stress. It may be enough for you – after all, nothing has gotten worse! – or maybe you expected a bigger improvement. But don't forget, some of these tools need time or practice to work or can only improve certain types of problems, so don't remove it yet. \n\nIf you want, you can safely try another tool now."
+      }
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "change-country-and-language": "Change country and language",
+    "pick-contacts": "Pick support contacts",
+    "enable-stress-meter": "Enable stress meter"
+  },
+  "contact": {
+    "title": "Contacts list",
+    "permission-denied": "Permission denied"
+  },
+  "about": {
+    "title": "About the app"
+  },
+  "privacy-policy": {
+    "title": "Privacy policy",
+    "content": "When you use a Code for Romania mobile app, no data that could be used to identify you is sent to Code for Romania or third parties. Any information that you enter into the app, such as names, phone numbers, addresses, images, or music, cannot be accessed, stored, or shared by Code for Romania. Code for Romania mobile apps do collect anonymous information about how people use the app. It is only used to improve how well the app works. We can see what sections of the app people visit, for example. We often use this information to correct technical problems in the apps. This information cannot be linked to any personal information about you and will never be shared with a third party. If you would like to turn off sending this anonymous usage information, go to the Settings menu, look for “Anonymous Usage Data,” and flip the switch to the “off” setting.\n\nCode for Romania uses some software analysis tools to help identify and prevent app problems. Code for Romania mobile apps do not share personal or identifying information with any of the partners of this tool. In using a Code for Romania mobile app, it is your responsibility to protect any information in the app once it is installed on your device. Setting a passcode on your device is recommended to help keep your information safe.",
+    "open-privacy-policy": "Open privacy policy"
+  },
+  "info": {
+    "title": "Information",
+    "content": {
+      "ptsd-symptoms": {
+        "title": "Simptome ale PTSD",
+        "content": [
+          {
+            "type": "text",
+            "content": "Persoanele care au experimentat evenimente traumatice au experiențe diferite pe măsură ce se vindecă, dar problemele de mai jos sunt comune și apar în urma unei traume. Este posibil să întâmpinați unele, toate sau niciuna dintre următoarele probleme."
+          },
+          {
+            "type": "list",
+            "content": [
+              "Amintiri ale traumei: ai frecvent gânduri sau amintiri supărătoare despre traumă, te simți de parcă s-ar întâmpla din nou și/sau te simți foarte stresat când ți se amintește de aceasta.",
+              "Evitarea amintirilor: Faci un efort pentru a evita gândurile, sentimentele, conversațiile, locurile sau oamenii care îți amintesc de traumă.",
+              "Deconectat de oameni: Te simți distant față de ceilalți, ai dificultăți în a simți dragoste și/sau te simți înstrăinat și singur",
+              "Deconectat de realitate: Te simți deconectat de lume, de alți oameni sau de tine însuți, \"în ceață,\" \"într-un vis,\" \"în afara corpului,\"  sau ca și cum lucrurile par ireale.",
+              "Trist / Fără speranță: Te simți trist, deznădăjduit sau deprimat, nu ai interes pentru activitățile care obișnuiau să fie plăcute sau doar în viață în general, simți un sentiment de lipsă de sens și/sau deznădejde.",
+              "Anxios / Îngrijorat: Tresari des și ești speriat ușor, ești încordat și „în gardă” de cele mai multe ori.",
+              "Furios: Ești ușor iritat, ai izbucniri de furie, senzație de neîncredere.",
+              "Probleme cu somnul: Ai probleme în a adormi și/sau a rămâne în stare de somn, ai coșmaruri și te poți trezi transpirat."
+            ]
+          }
+        ]
+      },
+      "change-perspective": {
+        "title": "Schimbă-ți perspectiva",
+        "content": [
+          {
+            "type": "text",
+            "content": "Instrumentul Schimbă-ți perspectiva îți oferă mementouri care îți pot oferi speranță și încredere."
+          },
+          {
+            "type": "text",
+            "content": "Cu toții avem un flux constant de gânduri care ne trec prin minte - asta se numește vorbitul cu tine însuți. Discuția de sine negativă, cum ar fi a crede că lucrurile sunt groaznice sau că cel mai rău lucru este pe cale să se întâmple, îți poate stresa corpul și te ține în alertă tot timpul."
+          },
+          {
+            "type": "text",
+            "content": "Aceste memento-uri pozitive de vorbire cu tine însuți îți oferă ceva de care te poți lega; ele te pot ajuta să gândești mai realist și chiar te pot ajuta să gestionezi situațiile mai eficient."
+          }
+        ]
+      },
+      "connect-with-others": {
+        "title": "Conectează-te cu ceilalți",
+        "content": [
+          {
+            "type": "text",
+            "content": "Când te confrunți cu provocările vieții, poate fi de ajutor să obții sprijin de la oameni pe care îi cunoști și în care ai încredere, sau pur și simplu să te relaxezi în preajma celorlalți. Oamenii care au sprijin de la prieteni și rude se confruntă cu mai puține simptome fizice și emoționale de stres decât cei care nu au."
+          },
+          {
+            "type": "text",
+            "content": "Alege persoane din viața ta pe care să le poți contacta atunci când ai nevoie de sprijin. Prietenii, familia, colegii de serviciu și chiar și furnizorii de servicii medicale pot fi adăugați la lista personală de contacte."
+          }
+        ]
+      },
+      "deep-breathing": {
+        "title": "Respirație profundă",
+        "content": [
+          {
+            "type": "text",
+            "content": "Această activitate te va ghida printr-un scurt exercițiu în care respiri mai încet și mai adânc pentru a te ajuta să te relaxezi. Respirația lentă și adâncă te ajută să echilibrezi dioxidul de carbon și oxigenul din sânge. Acest lucru îți calmează sistemul nervos, creând un \"răspuns de relaxare.\" Exercițiile de respirație profundă pot ajuta la gestionarea stresului și a insomniei, la concentrarea minții și la îmbunătățirea sănătății."
+          }
+        ]
+      },
+      "stabilization": {
+        "title": "Stabilizare",
+        "content": [
+          {
+            "type": "text",
+            "content": "Aceste exerciții sunt strategii simple pentru a-ți distrage atenția și a te detașa de durerea emoțională intensă sau, pe de altă parte, pentru a te ajuta să te reconectezi la corp sau la sine dacă te simți deconectat, amorțit, 'încețoșat' sau detașat."
+          }
+        ]
+      },
+      "sleep-help": {
+        "title": "Ajutor pentru a adormi",
+        "content": [
+          {
+            "type": "text",
+            "content": "Aceste strategii includ sfaturi pentru a adormi cât mai repede, precum și sfaturi pentru gestionarea insomniei, astfel încât să poți adormi mai ușor în mod regulat. Persoanele care au suferit o traumă au adesea dificultăți în a adormi sau în a dormi, sau se luptă cu coșmaruri. Aceste strategii, împreună cu unele dintre exercițiile de relaxare din această aplicație, te pot ajuta să te relaxezi și să dormi mai bine."
+          }
+        ]
+      },
+      "inspirational-quotes": {
+        "title": "Citate inspiraționale",
+        "content": [
+          {
+            "type": "text",
+            "content": "Aceste citate pot oferi inspirație și noi perspective pentru supraviețuitorii traumei."
+          }
+        ]
+      },
+      "recreational-activities": {
+        "title": "Activități recreative",
+        "content": [
+          {
+            "type": "text",
+            "content": "Dacă poți face ceva pentru a schimba în mod activ situația care îți afectează starea de spirit și o poți face în siguranță, acum este un moment bun pentru a începe. Mai ales dacă te simți dezamăgit, poate fi greu să fii motivat să faci lucrurile care de obicei ar fi distractive sau îți dau un sentiment de împlinire. Cu toate acestea, cercetările arată că efortul de a face aceste lucruri chiar și atunci când nu simți, îți poate îmbunătăți starea de spirit."
+          }
+        ]
+      },
+      "muscle-relaxation": {
+        "title": "Relaxarea mușchilor",
+        "content": [
+          {
+            "type": "text",
+            "content": "Acest exercițiu te va ghida, fie stând așezat confortabil, fie întins, prin încordarea și relaxarea unei secvențe de grupe musculare. Acest lucru permite mușchilor să se relaxeze mai profund decât de obicei. Acest exercițiu poate ajuta la scăderea ritmului cardiac și a tensiunii arteriale, la încetinirea respirației, la scăderea tensiunii musculare și la o gândire clară."
+          },
+          {
+            "type": "text",
+            "content": "Acest exercițiu este, de asemenea, minunat, deoarece în timp te poți antrena pentru a ști cu adevărat cum se simt mușchii încordați și cum se simt mușchii relaxați. Apoi, când recunoști că mușchii tăi sunt încordați sau devin încordați, poți relaxa mușchii, deoarece te-ai antrenat să știi cum se simt mușchii relaxați."
+          }
+        ]
+      },
+      "rid": {
+        "title": "RID",
+        "content": [
+          {
+            "type": "text",
+            "content": "Când ceva ți-a declanșat amintirea traumatică, mintea și corpul tău se comportă ca și cum experiența traumatică se întâmplă acum. Aceste reacții fulgerătoare, automate, sunt adaptative și folositoare în momentul evenimentului real, deoarece vă mențin în siguranță în situații periculoase. Dar acum reacțiile tale automate la factorii declanșatori nu mai sunt de ajutor, deoarece acasă, nu te afli în niciun pericol real."
+          },
+          {
+            "type": "text",
+            "content": "Folosește instrumentul RID pentru a rămâne concentrat și pentru a face față factorilor declanșatori. Amintește-ți că factorii declanșatori îți încețosează creierul și corpul, făcându-te să crezi că te-ai întors în situația inițială. Este important să elimini această confuzie pentru a-ți gestiona răspunsurile."
+          },
+          {
+            "type": "text",
+            "content": "RID are trei pași: Primul pas, R în RID, este să te Relaxezi sau să te calmezi. Al doilea pas, este să Identifici ce te declanșează și cum este diferit de trauma ta originală. Iar al treilea pas, D în RID, este să Decizi cum să răspunzii la declanșator. A face aceste trei lucruri atunci când ești declanșat poate fi de mare ajutor."
+          }
+        ]
+      },
+      "timeout": {
+        "title": "Pauză",
+        "content": [
+          {
+            "type": "text",
+            "content": "Acest exercițiu îți permite să iei o pauză dintr-o situație care se agravează înainte ca tu (sau altcineva) să faci ceva ce vei regreta. O pauză este un repaus luat în timpul unui conflict (de multe ori de 10-15 minute) care îi ajută pe oameni să-și gestioneze furia, astfel încât să-și poată rezolva conflictele mai eficient. Exercițiul de pauză oferă mai multe instrucțiuni și îndrumări despre cum și când să-ți iei o pauză și ce să faci pentru a te ajuta să te liniștești în timpul liber."
+          }
+        ]
+      },
+      "thought-shifting": {
+        "title": "Schimbarea gândurilor",
+        "content": [
+          {
+            "type": "text",
+            "content": "Poți învăța să-ți întrerupi gândurile inutile care te supără înainte de a face sau de a spune ceva ce vei regreta. Este important să-ți întrerupi gândirea și să-ți spui o frază în acel moment tensionat pentru a contracara gândurile furioase înainte de a intra în necazuri. De asemenea, poți folosi schimbarea gândurilor pentru a te pregăti înainte de a intra într-o situație riscantă."
+          },
+          {
+            "type": "text",
+            "content": "Uneori este util să te gândești la un vizual în același timp sau să repeți fraza de mai multe ori pentru tine."
+          },
+          {
+            "type": "text",
+            "content": "Nu există un singur lucru corect să-ți spui atunci când întrerupi gândurile furioase inutile. Schimbarea gândurilor este cea mai utilă dacă ceea ce spui este semnificativ pentru tine. Prin practică, poți găsi fraze care funcționează bine pentru tine."
+          }
+        ]
+      }
+    }
+  },
+  "assets-loading": {
+    "heading": "Loading assets...",
+    "body": "This may take a minute, please wait ..."
+  }
+}
