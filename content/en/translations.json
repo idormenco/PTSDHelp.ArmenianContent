@@ -200,112 +200,112 @@
     "title": "Information",
     "content": {
       "ptsd-symptoms": {
-        "title": "Simptome ale PTSD",
+        "title": "PTSD symptoms",
         "content": [
           {
             "type": "text",
-            "content": "Persoanele care au experimentat evenimente traumatice au experiențe diferite pe măsură ce se vindecă, dar problemele de mai jos sunt comune și apar în urma unei traume. Este posibil să întâmpinați unele, toate sau niciuna dintre următoarele probleme."
+            "content": "People who have experienced traumatic events have different experiences as they heal, but the problems below are common following a trauma. You may experience some, all, or none of the following problems."
           },
           {
             "type": "list",
             "content": [
-              "Amintiri ale traumei: ai frecvent gânduri sau amintiri supărătoare despre traumă, te simți de parcă s-ar întâmpla din nou și/sau te simți foarte stresat când ți se amintește de aceasta.",
-              "Evitarea amintirilor: Faci un efort pentru a evita gândurile, sentimentele, conversațiile, locurile sau oamenii care îți amintesc de traumă.",
-              "Deconectat de oameni: Te simți distant față de ceilalți, ai dificultăți în a simți dragoste și/sau te simți înstrăinat și singur",
-              "Deconectat de realitate: Te simți deconectat de lume, de alți oameni sau de tine însuți, \"în ceață,\" \"într-un vis,\" \"în afara corpului,\"  sau ca și cum lucrurile par ireale.",
-              "Trist / Fără speranță: Te simți trist, deznădăjduit sau deprimat, nu ai interes pentru activitățile care obișnuiau să fie plăcute sau doar în viață în general, simți un sentiment de lipsă de sens și/sau deznădejde.",
-              "Anxios / Îngrijorat: Tresari des și ești speriat ușor, ești încordat și „în gardă” de cele mai multe ori.",
-              "Furios: Ești ușor iritat, ai izbucniri de furie, senzație de neîncredere.",
-              "Probleme cu somnul: Ai probleme în a adormi și/sau a rămâne în stare de somn, ai coșmaruri și te poți trezi transpirat."
+              "Reminders of trauma: Frequently having upsetting thoughts or memories about the trauma, feeling as if it's happening again, and/or feeling very distressed when reminded of it./sau te simți foarte stresat când ți se amintește de aceasta.",
+              "Avoiding reminders: Making an effort to avoid thoughts, feelings, conversations, places or people because they remind you of the trauma.",
+              "Disconnected from people: Feeling distant from others, trouble feeling love, and/or feeling alienated and alone/sau te simți înstrăinat și singur",
+              "Disconnected from reality: Feeling disconnected from the world, other people, one's body, or oneself—detached, \"foggy,\" \"in a dream,\" \"out of body,\" or as if things feel unreal.",
+              "Sad / Hopeless: Feeling sad, down, blue or depressed, not having interest in activities that used to be enjoyed, or in life in general, feeling a sense of meaninglessness and/or hopelessness.",
+              "Anxious / Worried: Being jumpy and easily startled, being tense and “on guard” most of the time.",
+              "Angry: Easily irritated, having angry outbursts, feeling on edge or mistrustful.",
+              "Trouble Sleeping: Trouble falling and/or staying asleep, having nightmares, waking in a cold sweat./sau a rămâne în stare de somn, ai coșmaruri și te poți trezi transpirat."
             ]
           }
         ]
       },
       "change-perspective": {
-        "title": "Schimbă-ți perspectiva",
+        "title": "Change Your Perspective",
         "content": [
           {
             "type": "text",
-            "content": "Instrumentul Schimbă-ți perspectiva îți oferă mementouri care îți pot oferi speranță și încredere."
+            "content": "The Change Your Perspective tool provides reminders that can help give you hope and confidence."
           },
           {
             "type": "text",
-            "content": "Cu toții avem un flux constant de gânduri care ne trec prin minte - asta se numește vorbitul cu tine însuți. Discuția de sine negativă, cum ar fi a crede că lucrurile sunt groaznice sau că cel mai rău lucru este pe cale să se întâmple, îți poate stresa corpul și te ține în alertă tot timpul."
+            "content": "We all have a constant stream of thoughts running through our minds—this is called self-talk. Negative self-talk, like believing that things are terrible or that the worst is about to happen can stress your body and keep you on alert all the time."
           },
           {
             "type": "text",
-            "content": "Aceste memento-uri pozitive de vorbire cu tine însuți îți oferă ceva de care te poți lega; ele te pot ajuta să gândești mai realist și chiar te pot ajuta să gestionezi situațiile mai eficient."
+            "content": "These positive self-talk reminders give you something you can hold on to; they can help you think more realistically, and may even help you manage situations more effectively."
           }
         ]
       },
       "connect-with-others": {
-        "title": "Conectează-te cu ceilalți",
+        "title": "Connect with Others",
         "content": [
           {
             "type": "text",
-            "content": "Când te confrunți cu provocările vieții, poate fi de ajutor să obții sprijin de la oameni pe care îi cunoști și în care ai încredere, sau pur și simplu să te relaxezi în preajma celorlalți. Oamenii care au sprijin de la prieteni și rude se confruntă cu mai puține simptome fizice și emoționale de stres decât cei care nu au."
+            "content": "When faced with life challenges, it can help to get support from people you know and trust, or just relax around others. People who have support from friends and relatives experience fewer physical and emotional symptoms of stress than those who don't."
           },
           {
             "type": "text",
-            "content": "Alege persoane din viața ta pe care să le poți contacta atunci când ai nevoie de sprijin. Prietenii, familia, colegii de serviciu și chiar și furnizorii de servicii medicale pot fi adăugați la lista personală de contacte."
+            "content": "Select people from your life that you can contact when you need support. Friends, family, coworkers, and even healthcare providers can all be added to your personal contacts list."
           }
         ]
       },
       "deep-breathing": {
-        "title": "Respirație profundă",
+        "title": "Deep Breathing",
         "content": [
           {
             "type": "text",
-            "content": "Această activitate te va ghida printr-un scurt exercițiu în care respiri mai încet și mai adânc pentru a te ajuta să te relaxezi. Respirația lentă și adâncă te ajută să echilibrezi dioxidul de carbon și oxigenul din sânge. Acest lucru îți calmează sistemul nervos, creând un \"răspuns de relaxare.\" Exercițiile de respirație profundă pot ajuta la gestionarea stresului și a insomniei, la concentrarea minții și la îmbunătățirea sănătății."
+            "content": "This activity will guide you through a brief exercise in which you take slower, deeper breaths to help you relax. Taking slow, deep breaths helps you balance the carbon dioxide and oxygen in your blood. This calms your nervous system, creating a \"relaxation response.\" Deep breathing exercises can help manage stress and insomnia, focus the mind, and improve health."
           }
         ]
       },
       "stabilization": {
-        "title": "Stabilizare",
+        "title": "Grounding",
         "content": [
           {
             "type": "text",
-            "content": "Aceste exerciții sunt strategii simple pentru a-ți distrage atenția și a te detașa de durerea emoțională intensă sau, pe de altă parte, pentru a te ajuta să te reconectezi la corp sau la sine dacă te simți deconectat, amorțit, 'încețoșat' sau detașat."
+            "content": "These exercises are simple strategies to help distract and detach from intense emotional pain, or, on the other hand, to help you reconnect to your body or self if you feel disconnected, numb, ‘foggy' or detached."
           }
         ]
       },
       "sleep-help": {
-        "title": "Ajutor pentru a adormi",
+        "title": "Help Falling Asleep",
         "content": [
           {
             "type": "text",
-            "content": "Aceste strategii includ sfaturi pentru a adormi cât mai repede, precum și sfaturi pentru gestionarea insomniei, astfel încât să poți adormi mai ușor în mod regulat. Persoanele care au suferit o traumă au adesea dificultăți în a adormi sau în a dormi, sau se luptă cu coșmaruri. Aceste strategii, împreună cu unele dintre exercițiile de relaxare din această aplicație, te pot ajuta să te relaxezi și să dormi mai bine."
+            "content": "These strategies include tips for falling asleep right now, as well as advice for managing insomnia so that you can fall asleep more easily on a regular basis. People who have experienced a trauma often have a hard time falling or staying asleep, or struggle with nightmares. These strategies, along with some of the relaxation exercises in this app, can help you relax and sleep better."
           }
         ]
       },
       "inspirational-quotes": {
-        "title": "Citate inspiraționale",
+        "title": "Inspiring Quotes",
         "content": [
           {
             "type": "text",
-            "content": "Aceste citate pot oferi inspirație și noi perspective pentru supraviețuitorii traumei."
+            "content": "These quotes may offer inspiration and new perspectives for trauma survivors."
           }
         ]
       },
       "recreational-activities": {
-        "title": "Activități recreative",
+        "title": "Leisure Activities",
         "content": [
           {
             "type": "text",
-            "content": "Dacă poți face ceva pentru a schimba în mod activ situația care îți afectează starea de spirit și o poți face în siguranță, acum este un moment bun pentru a începe. Mai ales dacă te simți dezamăgit, poate fi greu să fii motivat să faci lucrurile care de obicei ar fi distractive sau îți dau un sentiment de împlinire. Cu toate acestea, cercetările arată că efortul de a face aceste lucruri chiar și atunci când nu simți, îți poate îmbunătăți starea de spirit."
+            "content": "If you can do something to actively change the situation that is affecting your mood, and do it safely, now is a good time to start. Especially if you're feeling down, it can be hard to get motivated to do the things that would usually be fun or give you a feeling of accomplishment. However, research shows that making an effort to do these things even when you don't feel like it can improve your mood."
           }
         ]
       },
       "muscle-relaxation": {
-        "title": "Relaxarea mușchilor",
+        "title": "Muscle Relaxation",
         "content": [
           {
             "type": "text",
-            "content": "Acest exercițiu te va ghida, fie stând așezat confortabil, fie întins, prin încordarea și relaxarea unei secvențe de grupe musculare. Acest lucru permite mușchilor să se relaxeze mai profund decât de obicei. Acest exercițiu poate ajuta la scăderea ritmului cardiac și a tensiunii arteriale, la încetinirea respirației, la scăderea tensiunii musculare și la o gândire clară."
+            "content": "This exercise will guide you, either sitting comfortably or lying down, through tensing and relaxing a sequence of muscle groups. This allows muscles to relax more deeply than usual. This exercise can help decrease heart rate and blood pressure, slow breathing, decrease muscle tension, and clear thinking."
           },
           {
             "type": "text",
-            "content": "Acest exercițiu este, de asemenea, minunat, deoarece în timp te poți antrena pentru a ști cu adevărat cum se simt mușchii încordați și cum se simt mușchii relaxați. Apoi, când recunoști că mușchii tăi sunt încordați sau devin încordați, poți relaxa mușchii, deoarece te-ai antrenat să știi cum se simt mușchii relaxați."
+            "content": "This exercise is also great because over time you can train yourself to really know what tense muscles feel like and what relaxed muscles feel like. Then, when you recognize that your muscles are tense or becoming tense you can immediately switch your muscles to the more relaxed state because you have trained yourself to know how relaxed muscles feel."
           }
         ]
       },
@@ -314,41 +314,41 @@
         "content": [
           {
             "type": "text",
-            "content": "Când ceva ți-a declanșat amintirea traumatică, mintea și corpul tău se comportă ca și cum experiența traumatică se întâmplă acum. Aceste reacții fulgerătoare, automate, sunt adaptative și folositoare în momentul evenimentului real, deoarece vă mențin în siguranță în situații periculoase. Dar acum reacțiile tale automate la factorii declanșatori nu mai sunt de ajutor, deoarece acasă, nu te afli în niciun pericol real."
+            "content": "When you're triggered or reminded of terrible things that have happened, your mind not only believes that you're in danger, your mind and your body act like you're right back in the traumatic situation. These lightning fast, automatic reactions are helpful at the time of the actual event because they keep you safe in dangerous situations. But now your automatic reactions to triggers are no longer helpful because back home, you're not in any actual danger."
           },
           {
             "type": "text",
-            "content": "Folosește instrumentul RID pentru a rămâne concentrat și pentru a face față factorilor declanșatori. Amintește-ți că factorii declanșatori îți încețosează creierul și corpul, făcându-te să crezi că te-ai întors în situația inițială. Este important să elimini această confuzie pentru a-ți gestiona răspunsurile."
+            "content": "You use the RID tool to stay focused and cope with your triggers. Remember, triggers confuse your brain and your body into thinking that you're back in the original situation. You must clear away that confusion in order to manage your responses."
           },
           {
             "type": "text",
-            "content": "RID are trei pași: Primul pas, R în RID, este să te Relaxezi sau să te calmezi. Al doilea pas, este să Identifici ce te declanșează și cum este diferit de trauma ta originală. Iar al treilea pas, D în RID, este să Decizi cum să răspunzii la declanșator. A face aceste trei lucruri atunci când ești declanșat poate fi de mare ajutor."
+            "content": "RID has three steps: The first step, the R in RID, is to Relax or calm yourself. The second step, the I in RID, is to identify what's triggering you and how it's different from your original trauma. And the third step, the D in RID, is to decide how to respond to the trigger. Doing these three things when you're triggered can be very helpful."
           }
         ]
       },
       "timeout": {
-        "title": "Pauză",
+        "title": "Time Out",
         "content": [
           {
             "type": "text",
-            "content": "Acest exercițiu îți permite să iei o pauză dintr-o situație care se agravează înainte ca tu (sau altcineva) să faci ceva ce vei regreta. O pauză este un repaus luat în timpul unui conflict (de multe ori de 10-15 minute) care îi ajută pe oameni să-și gestioneze furia, astfel încât să-și poată rezolva conflictele mai eficient. Exercițiul de pauză oferă mai multe instrucțiuni și îndrumări despre cum și când să-ți iei o pauză și ce să faci pentru a te ajuta să te liniștești în timpul liber."
+            "content": "This exercise allows you to take a break from a situation that is heating up before you (or someone else) do something you'll regret. A time out is a time-limited break from a conflict (often 10-15 minutes) that helps people manage their anger so that they can resolve their conflicts more effectively. The time out exercise offers more instructions and guidance on how and when to take a time out, and what to do to help you cool down during your time out."
           }
         ]
       },
       "thought-shifting": {
-        "title": "Schimbarea gândurilor",
+        "title": "Thought Shifting",
         "content": [
           {
             "type": "text",
-            "content": "Poți învăța să-ți întrerupi gândurile inutile care te supără înainte de a face sau de a spune ceva ce vei regreta. Este important să-ți întrerupi gândirea și să-ți spui o frază în acel moment tensionat pentru a contracara gândurile furioase înainte de a intra în necazuri. De asemenea, poți folosi schimbarea gândurilor pentru a te pregăti înainte de a intra într-o situație riscantă."
+            "content": "You can learn to interrupt the unhelpful thoughts that make you angry before you do or say something you'll regret. The key is to interrupt your thinking and say a phrase to yourself in the heat of the moment to counteract those angry thoughts before you get into trouble. You can also use thought shifting to prepare yourself before you go into a risky situation."
           },
           {
             "type": "text",
-            "content": "Uneori este util să te gândești la un vizual în același timp sau să repeți fraza de mai multe ori pentru tine."
+            "content": "Sometimes it is helpful to think of a visual at the same time or repeat the phrase several times to yourself."
           },
           {
             "type": "text",
-            "content": "Nu există un singur lucru corect să-ți spui atunci când întrerupi gândurile furioase inutile. Schimbarea gândurilor este cea mai utilă dacă ceea ce spui este semnificativ pentru tine. Prin practică, poți găsi fraze care funcționează bine pentru tine."
+            "content": "There is no one right thing to say to yourself when you interrupt unhelpful angry thoughts. Thought Shifting is most helpful if what you say is meaningful to you. Through practice, you can find phrases that work well for you."
           }
         ]
       }
